@@ -3,8 +3,8 @@ version: '3'
 services:
 
   apache-php:
-    container_name: guenterh/suzanne-php
-    image: suzanne-php5
+    container_name: suzanne-php
+    image: guenterh/suzanne-php5
     networks:
       - suzanne_net
 
@@ -14,14 +14,14 @@ services:
       - mysql
 
   mysql:
-    container_name: guenterh/suzanne-mysql
-
+    container_name: suzanne-mysql
+    image: guenterh/suzanne-mysql
     #image: mysql:5.6.29
     #command: --default-authentication-plugin=mysql_native_password --character-set-server=utf8 --collation-server=utf8_general_ci
     #command: --default-authentication-plugin=mysql_native_password --character-set-server=utf8
     #command: --default-authentication-plugin=mysql_native_password --collation-server=utf8_general_ci
-    build:
-      context: ./mysql
+    #build:
+    #  context: ./mysql
 
 
     #command: --init-file /docker-entrypoint-initdb.d/archive62.sql
