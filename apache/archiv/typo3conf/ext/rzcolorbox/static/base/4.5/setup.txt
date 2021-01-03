@@ -1,0 +1,351 @@
+# # Include Main JS
+page.headerData.1442 = COA
+page.headerData.1442.if.isFalse = {$plugin.rzcolorbox.deactivate}
+
+# # Enable jQuery globally?
+page.headerData.1442.1 = TEXT
+page.headerData.1442.1.value (
+<script type="text/javascript" src="typo3conf/ext/rzcolorbox/res/js/jquery-1-4-3.js"></script>
+)
+page.headerData.1442.1.if.isFalse = {$plugin.rzcolorbox.enableGlobal}
+
+[globalVar = LIT:1 = {$plugin.rzcolorbox.noConflict}]
+page.headerData.1442.1.value (
+<script type="text/javascript" src="typo3conf/ext/rzcolorbox/res/js/jquery-1-4-3-noconflict.js"></script>
+)
+[global]
+
+# # JS File
+page.headerData.1442.2 = TEXT
+page.headerData.1442.2.value (
+
+<script type="text/javascript" src="typo3conf/ext/rzcolorbox/res/js/jquery.colorbox.js"></script>
+)
+
+# # Include Custom JS
+page.headerData.1442.3 = TEXT
+page.headerData.1442.3.value (
+
+<script type="text/javascript">jQuery(document).ready(function(){
+)
+
+# # Include custom rel
+page.headerData.1442.4 = TEXT
+page.headerData.1442.4.value = jQuery(".{$plugin.rzcolorbox.rel}
+page.headerData.1442.4.insertData = 1
+page.headerData.1442.4.stdWrap.dataWrap = |
+
+page.headerData.1442.5 = TEXT
+page.headerData.1442.5.value = ").colorbox({current:"
+
+# # Image {x} of {y} Locallang Definition
+page.headerData.1442.6 = TEXT
+page.headerData.1442.6.value = {LLL:EXT:rzcolorbox/locallang.xml:image}
+page.headerData.1442.6.insertData = 1
+page.headerData.1442.6.stdWrap.dataWrap = |
+page.headerData.1442.6.if.isFalse = {$plugin.rzcolorbox.lllPath}
+
+page.headerData.1442.7 = TEXT
+page.headerData.1442.7.value = {LLL:{$plugin.rzcolorbox.lllPath}:image}
+page.headerData.1442.7.insertData = 1
+page.headerData.1442.7.stdWrap.dataWrap = |
+page.headerData.1442.7.if.isTrue = {$plugin.rzcolorbox.lllPath}
+
+page.headerData.1442.8 = TEXT
+page.headerData.1442.8.value = {current}
+
+page.headerData.1442.9 = TEXT
+page.headerData.1442.9.value = {LLL:EXT:rzcolorbox/locallang.xml:of}
+page.headerData.1442.9.insertData = 1
+page.headerData.1442.9.stdWrap.dataWrap = |
+page.headerData.1442.9.if.isFalse = {$plugin.rzcolorbox.lllPath}
+
+page.headerData.1442.10 = TEXT
+page.headerData.1442.10.value = {LLL:{$plugin.rzcolorbox.lllPath}:of}
+page.headerData.1442.10.insertData = 1
+page.headerData.1442.10.stdWrap.dataWrap = |
+page.headerData.1442.10.if.isTrue = {$plugin.rzcolorbox.lllPath}
+
+page.headerData.1442.11 = TEXT
+page.headerData.1442.11.value = {total}"
+
+# # Slideshow
+page.headerData.1442.12 = TEXT
+page.headerData.1442.12.value = ,slideshow:true
+page.headerData.1442.12.if.isTrue.numRows {
+  table = tt_content
+  select.where = tx_rzcolorbox_slideshow='1'
+}
+
+page.headerData.1442.13 = TEXT
+page.headerData.1442.13.value = ,slideshowStart:"
+page.headerData.1442.13.if.isTrue.numRows {
+  table = tt_content
+  select.where = tx_rzcolorbox_slideshow='1'
+}
+
+# # Slideshow Start Locallang
+page.headerData.1442.14 = TEXT
+page.headerData.1442.14.value = {LLL:EXT:rzcolorbox/locallang.xml:slideshowstart}
+page.headerData.1442.14.insertData = 1
+page.headerData.1442.14.stdWrap.dataWrap = |
+page.headerData.1442.14.if.isTrue.numRows {
+  table = tt_content
+  select.where = tx_rzcolorbox_slideshow='1'
+}
+page.headerData.1442.14.if.isFalse = {$plugin.rzcolorbox.lllPath}
+
+page.headerData.1442.15 = TEXT
+page.headerData.1442.15.value = {LLL:{$plugin.rzcolorbox.lllPath}:slideshowstart}
+page.headerData.1442.15.insertData = 1
+page.headerData.1442.15.stdWrap.dataWrap = |
+page.headerData.1442.15.if.isTrue.numRows {
+  table = tt_content
+  select.where = tx_rzcolorbox_slideshow='1'
+}
+page.headerData.1442.15.if.isTrue = {$plugin.rzcolorbox.lllPath}
+
+page.headerData.1442.16 = TEXT
+page.headerData.1442.16.value = ",slideshowStop:"
+page.headerData.1442.16.if.isTrue.numRows {
+  table = tt_content
+  select.where = tx_rzcolorbox_slideshow='1'
+}
+
+# # Slideshow Stop Locallang
+page.headerData.1442.17 = TEXT
+page.headerData.1442.17.value = {LLL:EXT:rzcolorbox/locallang.xml:slideshowstop}
+page.headerData.1442.17.insertData = 1
+page.headerData.1442.17.stdWrap.dataWrap = |
+page.headerData.1442.17.if.isTrue.numRows {
+  table = tt_content
+  select.where = tx_rzcolorbox_slideshow='1'
+}
+page.headerData.1442.17.if.isFalse = {$plugin.rzcolorbox.lllPath}
+
+page.headerData.1442.18 = TEXT
+page.headerData.1442.18.value = {LLL:{$plugin.rzcolorbox.lllPath}:slideshowstop}"
+page.headerData.1442.18.insertData = 1
+page.headerData.1442.18.stdWrap.dataWrap = |
+page.headerData.1442.18.if.isTrue.numRows {
+  table = tt_content
+  select.where = tx_rzcolorbox_slideshow='1'
+}
+page.headerData.1442.18.if.isTrue = {$plugin.rzcolorbox.lllPath}
+
+# # Opacity
+page.headerData.1442.19 = TEXT
+page.headerData.1442.19.value = ,opacity:
+
+page.headerData.1442.20 = TEXT
+page.headerData.1442.20.value = "{$plugin.rzcolorbox.opacity}"
+page.headerData.1442.20.insertData = 1
+page.headerData.1442.20.stdWrap.dataWrap = |
+
+# # Transition
+page.headerData.1442.21 = TEXT
+page.headerData.1442.21.value = ,transition:
+
+page.headerData.1442.22 = TEXT
+page.headerData.1442.22.value = "{$plugin.rzcolorbox.transition}"
+page.headerData.1442.22.insertData = 1
+page.headerData.1442.22.stdWrap.dataWrap = |
+
+# # Speed
+page.headerData.1442.23 = TEXT
+page.headerData.1442.23.value = ,speed:
+
+page.headerData.1442.24 = TEXT
+page.headerData.1442.24.value = {$plugin.rzcolorbox.speed}
+page.headerData.1442.24.insertData = 1
+page.headerData.1442.24.stdWrap.dataWrap = |
+
+# # Inner Width
+page.headerData.1442.25 = TEXT
+page.headerData.1442.25.value = ,innerWidth:
+page.headerData.1442.25.if.isTrue = {$plugin.rzcolorbox.innerWidth}
+
+page.headerData.1442.26 = TEXT
+page.headerData.1442.26.value = "{$plugin.rzcolorbox.innerWidth}"
+page.headerData.1442.26.insertData = 1
+page.headerData.1442.26.stdWrap.dataWrap = |
+page.headerData.1442.26.if.isTrue = {$plugin.rzcolorbox.innerWidth}
+
+# # Inner Height
+page.headerData.1442.27 = TEXT
+page.headerData.1442.27.value = ,innerHeight:
+page.headerData.1442.27.if.isTrue = {$plugin.rzcolorbox.innerHeight}
+
+page.headerData.1442.28 = TEXT
+page.headerData.1442.28.value = "{$plugin.rzcolorbox.innerHeight}"
+page.headerData.1442.28.insertData = 1
+page.headerData.1442.28.stdWrap.dataWrap = |
+page.headerData.1442.28.if.isTrue = {$plugin.rzcolorbox.innerHeight}
+
+# # Initial Width
+page.headerData.1442.25 = TEXT
+page.headerData.1442.25.value = ,initialWidth:
+page.headerData.1442.25.if.isTrue = {$plugin.rzcolorbox.initialWidth}
+
+page.headerData.1442.26 = TEXT
+page.headerData.1442.26.value = "{$plugin.rzcolorbox.initialWidth}"
+page.headerData.1442.26.insertData = 1
+page.headerData.1442.26.stdWrap.dataWrap = |
+page.headerData.1442.26.if.isTrue = {$plugin.rzcolorbox.initialWidth}
+
+# # Initial Height
+page.headerData.1442.27 = TEXT
+page.headerData.1442.27.value = ,initialHeight:
+page.headerData.1442.27.if.isTrue = {$plugin.rzcolorbox.initialHeight}
+
+page.headerData.1442.28 = TEXT
+page.headerData.1442.28.value = "{$plugin.rzcolorbox.initialHeight}"
+page.headerData.1442.28.insertData = 1
+page.headerData.1442.28.stdWrap.dataWrap = |
+page.headerData.1442.28.if.isTrue = {$plugin.rzcolorbox.initialHeight}
+
+# # Slideshow Speed
+page.headerData.1442.29 = TEXT
+page.headerData.1442.29.value = ,slideshowSpeed:
+page.headerData.1442.29.if.isTrue = {$plugin.rzcolorbox.slideshowSpeed}
+
+page.headerData.1442.30 = TEXT
+page.headerData.1442.30.value = {$plugin.rzcolorbox.slideshowSpeed}
+page.headerData.1442.30.insertData = 1
+page.headerData.1442.30.stdWrap.dataWrap = |
+page.headerData.1442.30.if.isTrue = {$plugin.rzcolorbox.slideshowSpeed}
+
+# # Overlay Close
+page.headerData.1442.31 = TEXT
+page.headerData.1442.31.value = ,overlayClose:
+page.headerData.1442.31.if.isFalse = {$plugin.rzcolorbox.overlayClose}
+
+page.headerData.1442.32 = TEXT
+page.headerData.1442.32.value = false
+page.headerData.1442.32.insertData = 1
+page.headerData.1442.32.stdWrap.dataWrap = |
+page.headerData.1442.32.if.isFalse = {$plugin.rzcolorbox.overlayClose}
+
+# # Escape Key
+page.headerData.1442.33 = TEXT
+page.headerData.1442.33.value = ,escKey:
+page.headerData.1442.33.if.isFalse = {$plugin.rzcolorbox.escKey}
+
+page.headerData.1442.34 = TEXT
+page.headerData.1442.34.value = false
+page.headerData.1442.34.insertData = 1
+page.headerData.1442.34.stdWrap.dataWrap = |
+page.headerData.1442.34.if.isFalse = {$plugin.rzcolorbox.escKey}
+
+# # Arrow Key
+page.headerData.1442.35 = TEXT
+page.headerData.1442.35.value = ,arrowKey:
+page.headerData.1442.35.if.isFalse = {$plugin.rzcolorbox.arrowKey}
+
+page.headerData.1442.36 = TEXT
+page.headerData.1442.36.value = false
+page.headerData.1442.36.insertData = 1
+page.headerData.1442.36.stdWrap.dataWrap = |
+page.headerData.1442.36.if.isFalse = {$plugin.rzcolorbox.arrowKey}
+
+# # Loop
+page.headerData.1442.37 = TEXT
+page.headerData.1442.37.value = ,loop:
+page.headerData.1442.37.if.isFalse = {$plugin.rzcolorbox.loop}
+
+page.headerData.1442.38 = TEXT
+page.headerData.1442.38.value = false
+page.headerData.1442.38.insertData = 1
+page.headerData.1442.38.stdWrap.dataWrap = |
+page.headerData.1442.38.if.isFalse = {$plugin.rzcolorbox.loop}
+
+# # Previous
+page.headerData.1442.39 = TEXT
+page.headerData.1442.39.value = ,previous:"
+
+page.headerData.1442.40 = TEXT
+page.headerData.1442.40.value = {LLL:EXT:rzcolorbox/locallang.xml:previous}
+page.headerData.1442.40.insertData = 1
+page.headerData.1442.40.stdWrap.dataWrap = |
+page.headerData.1442.40.if.isFalse = {$plugin.rzcolorbox.lllPath}
+
+page.headerData.1442.41 = TEXT
+page.headerData.1442.41.value = {LLL:{$plugin.rzcolorbox.lllPath}:previous}
+page.headerData.1442.41.insertData = 1
+page.headerData.1442.41.stdWrap.dataWrap = |
+page.headerData.1442.41.if.isTrue = {$plugin.rzcolorbox.lllPath}
+
+page.headerData.1442.42 = TEXT
+page.headerData.1442.42.value = "
+
+# # Next
+page.headerData.1442.43 = TEXT
+page.headerData.1442.43.value = ,next:"
+
+page.headerData.1442.44 = TEXT
+page.headerData.1442.44.value = {LLL:EXT:rzcolorbox/locallang.xml:next}
+page.headerData.1442.44.insertData = 1
+page.headerData.1442.44.stdWrap.dataWrap = |
+page.headerData.1442.44.if.isFalse = {$plugin.rzcolorbox.lllPath}
+
+page.headerData.1442.45 = TEXT
+page.headerData.1442.45.value = {LLL:{$plugin.rzcolorbox.lllPath}:next}
+page.headerData.1442.45.insertData = 1
+page.headerData.1442.45.stdWrap.dataWrap = |
+page.headerData.1442.45.if.isTrue = {$plugin.rzcolorbox.lllPath}
+
+page.headerData.1442.46 = TEXT
+page.headerData.1442.46.value = "
+
+# # Close
+page.headerData.1442.47 = TEXT
+page.headerData.1442.47.value = ,close:"
+
+page.headerData.1442.48 = TEXT
+page.headerData.1442.48.value = {LLL:EXT:rzcolorbox/locallang.xml:close}
+page.headerData.1442.48.insertData = 1
+page.headerData.1442.48.stdWrap.dataWrap = |
+page.headerData.1442.48.if.isFalse = {$plugin.rzcolorbox.lllPath}
+
+page.headerData.1442.49 = TEXT
+page.headerData.1442.49.value = {LLL:{$plugin.rzcolorbox.lllPath}:close}
+page.headerData.1442.49.insertData = 1
+page.headerData.1442.49.stdWrap.dataWrap = |
+page.headerData.1442.49.if.isTrue = {$plugin.rzcolorbox.lllPath}
+
+page.headerData.1442.50 = TEXT
+page.headerData.1442.50.value = "
+
+page.headerData.1442.51 = TEXT
+page.headerData.1442.51.value = });});</script>
+
+# # Modify imageLinkWrap
+tt_content.image.20.1.imageLinkWrap {
+typolink >
+typolink {
+
+parameter.cObject = IMG_RESOURCE
+parameter.cObject.file {
+import.current = 1
+#height = {$styles.content.imgtext.maxH}
+#effects = {$styles.content.imgtext.linkWrap.effects}
+}  
+
+parameter.override {
+field = image_link
+listNum.splitChar = 10
+listNum.stdWrap.data = register : IMAGE_NUM_CURRENT
+}
+
+ATagParams = class="{$plugin.rzcolorbox.rel}" rel="{$plugin.rzcolorbox.rel}[cb{field:uid}]"
+ATagParams.insertData = 1
+ATagParams.if.isFalse < .parameter.override
+
+target = {$styles.content.links.target}
+extTarget = {$styles.content.links.extTarget}
+}
+}
+
+[globalVar = LIT:1 = {$plugin.rzcolorbox.useWidth}]
+tt_content.image.20.1.imageLinkWrap.typolink.parameter.cObject.file.maxW = {$styles.content.imgtext.maxW}
+[global]

@@ -1,0 +1,686 @@
+Hier beginnt die Choose nun wirklich! --- //[[kasparwirz@bluewin.ch|Kaspar Wirz]] 2006/09/13 12:51//
+Nach Absprache mit Günter und dem anfänglichen Chaos schlage ich vor, dass dieses File einfach mal ein laufender Talk ist, wo jeder sich einfindet und sich ein bisschen freischreibt...
+Mit der Zeit kriegen wir Übung und werden mutiger und können all die speziellen sachen, die Günter uns beibringen will, 
+anwenden. Wer schon jetzt mutig ist, kann ganz unten unter "Dokuwiki" klicken und auf Englisch die ganzen Sachen selber lesen - eine Art Handbuch!
+Übrigens: Das zweite File (Sandkasten...) ist der Ort, wo Günter uns die Sache laufend erklären wird. Man kann dort jetzt schon lesen, wie man Überschriften schreibt und so weiter!
+
+Und nun:
+
+====== etwas über japanische Toiletten (für Basel nix Neues, aber der Rest muss es auch wissen!======
+[[http://de.wikipedia.org/wiki/Toiletten_in_Japan]]
+Lest den Artikel, unglaublich, mit was die Leute sich so beschäftigen! Suzanne
+
+----
+
+====== Kur ======
+
+
+Liebe Basler, ich weiss ja nicht, wann Ihr zur Kur fahrt, aber gegönnt sei's Eich von ganzem Herzen, und verdient habt Ihr's auch. Vielleicht mache ich noch etwas an der Web-Site...Augenfällig braucht eine Auffrischung...aber ich  habe das Arbeitsende noch nicht in Sichtweite. Heute und morgen ist noch rennen angesagt, und am Sonntag verreisen   wir ja auch. Jetzt mach ich mich auf: Heute ist der internationale Tag des Friedens, der beginnt hier in der Markuskirche mit einer Frühmeditation!!! Und dann ist eben auch der 21. Sept. - der Sohn hat ja Geburi. die Berner -Fraktion trifft sich um 19h zum legendären Apéro etc. Friede für die Welt! 
+
+meniger wäre mehr
+
+Benz: Ja, das sieht nun einfacher aus. Hab mir die Daphne von Hölty angesehen und dann die etwas verschrobene lateinische Ovid-Seite, die ja auch Tondokumente enthält: Offensichtlich kann man auch betr. lateinische Aussprache sektiererisch sein... 
+----
+
+Soso, Benz hat seinen Weg auch hergefunden! Aber wo bleiben eigentlich die jungen Chatter? Nina hat gestern mal ein Mail gestartet, dass sie sich nicht einlogen kann. Ich hab's ihr nochmals erklärt. aber es scheint nicht so leicht zu sein. ich werde ihr noch schreiben, dass sie nach dem Login dann noch auf "index" klicken muss...
+Übrigens: das mit den Tondokumenten - das können wir auch! Manuela und ich haben schon davon geredet. Aber erst müssen wir Töne haben!
+Suzanne 
+
+==== Tatatatüüü hier kommt die Helkesite ====
+nur Bildelis, noch nix programmiert (bin grad dran, zeitweise etwas in den Sümpfen der identischen Browserdarstllung...) [[http://www.meniweb.ch/webprojekte/diashow_gesamt_neu/praesentation_helke.htm|die Kunst-leibtherapie-site]]
+ --- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/08/30 11:59//
+
+Suzanne sagt: He, Ihr Schicky-Mickies!!! Könnt Ihr uns mal beibringen, wie man zu einer Unterschrift kommt, die dann auch noch gleich die Uhrzeit abbildet? Ich find' das hilfreich, dann weiss man grad wer wann etc.!
+Zum Helkeprojekt von Manuela: Ich finde (eingedenkt, dass diese Schwarzwälder eine sehr strange Truppe ist, daran ändert das schönste Design gar nichts), die Sache hat gewonnen. Irgendwie kommt man mit dem Nacheinander der Personen besser zurecht. Aufgefallen ist mir, dass der Eifelturm nun wirklich besser dargestellt ist, und auch das Bild von Basel gefällt. Viel Schweiss dahinter!?
+Noch etwas an alle: Günter will uns verlassen! Aus zuverlässiger Quelle wird berichtet, dass er für eine Woche nach Schweden zu den Typo3-Fritzen fährt, um sich in ihrer Mittel wohl zu fühlen. Und uns lässt er mit Wiki sitzen, dabei haben wir das Bürschchen noch kaum kennengelernt!
+Ich mach mal Schluss - habe seit heute Morgen Kopfweh, weil ich mir ein anständiges Votum für eine Sitzung heute Abend überlegen sollte. Es geht um die Paulusorgel (das ist jetzt mehr was für die Bernerfraktion, falls die sich je in diesen Gefilden zeigen wird...)
+Noch ein Hinweis an alle: Auf meiner Homepage sind heute morgen wieder zwei Beiträge entstanden in der Rubrik "Family". : "Fremd bin ich eingezogen" und "Reifchen aus Weide". Sehr lesens- und sehenswert, wie ich finde. Muss ich selber sagen. Ja wirklich. Suzanne;-) um 13.40h am Mittwoch mittag anno domini 2006 (Ihr seht, wie mühsam das ist!!!)
+
+
+Manuela: Mir gefällt anno domini..., aber es ist gut die Wahl zu haben, und es ist überhaupt nicht so, dass wir mit dem Wickiwissen hinter dem Berg halten wollen, also: im Editiermodus hat's ja so ein icon-Zeile, das hinterste mit dem Stift drauf anklicken und --- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/08/30 14:09// da ist sie die Unterschrift.
+
+Noch zur Helke site: das Eiffelturmbild gefällt mir auch, es hat nur einen Haken, es ist ein Agenturbild, das heisst es kostet. Vielleicht muss halt dann wieder der Touriturm auf die Seite, das müssen dann Helkes entscheiden.
+
+Und zum Günter noch eine Berichtigung: er fährt nicht zu den Typo3-Fritzen, die sind in Dänemark, nein zu den Aleph usern und das ist bei weitem nicht so lustig wie Typo3, denn das gehört zum öfters unerfreulichen Brotkorb. 
+Aber bevor er wegjetet werden wir noch etwas Wicki-Turnen mit Bildelis!
+
+So,jetzt muss ich wieder ans css und der Günter sitzt beim IDS und so läuft alles in geregelten Bahnen...
+ --- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/08/30 14:09//
+
+So: das wird jetzt gleich versucht:  --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/08/30 16:04//
+Beeindruckend! Ich bin so rasant in meiner Auffassungsgabe! Über Nina allerdings wundere ich mich etwas. Heute mittag haben wir doch schliesslich gemeinsam das Login geschafft, und ich war sicher, sie nun hier anzutreffen...aber da ist lauter Leere...
+Ich muss mich leider mal ausklinken und an diese Sitzung. hab ja schon gejammert. Benz hat mein Votum noch etwas redigiert. Er hat gesagt, ich solle sagen, ich sei die Mutter einer Organistin...tschüss an alle! --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/08/30 16:05//
+
+hallo?ist da jemand?also ich wollte nur sagen, ich wäre da gewesen...ich wollte mich ja heut abend mit mueses seit eingehend auseinandersetzen, aber ich gehe jetzt noch mit rachel auf ein Bierchen,also morgen mehr. Ich habe dann nämlich noch eine Frage an Mäne und Gü, wegen meiner Geburtstagskarte...also merci aufjedenfall! Aber: war da wirklich eine kamera online???grüssli nina
+
+Bravo Nina - du hast es geschafft! Jetzt musst Du nur noch lernen, wie man unterschreibt!!! Oben auf der Ikon-Zeile das letzte Ikönchen anklicken (diesen Stift) und schwupps steht da Dein Name und die Uhrzeit, und wir wissen Bescheid, wann Du zu Deinem Bier aufgebrochen bist. Ich habe übrigens Rachel auch in der Stadt gesehen, als sie verzweifelt ihr Handy nach einer Saufkumpanin durchforstete.
+Ich hau mich in die Pfanne - die Sitzung war irgendwie entmutigend, fast traurig. Am Schluss bin ich mit Thomas Leutenegger in die Stadt gegangen. Das war dann wieder gut! Gute Nacht allerseits. --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/08/30 22:57//
+
+ --- //[[b.schaer@bigfoot.com|benz schaer]] 2006/08/30 23:42//  potztausend, das geht ja.
+
+Manuela: Hallo, guten Morgen, sollen wir den vielleicht wieder einmal eine Überschrift setzen, denn es gilt ja auch Nina auf gebührende Art zu begrüssen, also
+
+===== Schön Nina, dass du auch den Weg gefunden hast, jetzt fehlt noch Kaspar, hallo Kaspar?? =====
+Ich hab's gestern nicht mehr geschafft, Suzannes neue Family Seiten anzuschauen, war zu sehr ins css verwickelt, konnte mich irgendwie gar nicht mehr lösen... und als ich dann ein paar Probleme gelöst hatte musste ich mich belohnen mit Plöterliwyy und danach musste ich halt go lige...
+Aber dafür nun das mit der Morgenstund..
+Nina, wegen der Kamera: beunruhigt es dich, na na!?
+Ein blauer Himmel kündigt sich an, vielleicht bleibt's dabei, vielleicht ein sonniger Tag? 
+bis später  --- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/08/31 06:35// 
+
+
+Wegen Kaspar: wir haben das diskutiert. Erst fand er, für ihn sei die Sache schwierig...er und ich würden ja laufend über alles reden, ihn brauche es im Chat nicht. Dass aber alle ihn auch wollen, hat er dann mit Freude wahrgenommen. Er will sich das Ganze heute mal vorführen lassen. Jetzt kann ich leider grad nicht. Gestern abend ist mir nach einenem Strohmausfall der Kochherd ausgestiegen, und ich möchte den dringend heute wieder flott bekommen. Das braucht aber einen Fachmann, und die sind nicht so leicht zu haben. Anschliessend gehe ich zum Geigenbauer und lasse mir die Bratsche austauschen. Er hat ein kleineres Instrument, das er mir ausleihen kann. Da sag ich nicht nein. Vielleicht ist das der Impuls, den ich jetzt brauche, um wieder zu üben...und dann habe ich mir noch vorgenommen, hier heute mal eine Überschrift zu Stande zu bringen. Ich finde, Manuela hat das ganz schön gemacht...so long, folks! --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/08/31 08:32// 
+
+HALLO HIER IST KASPAR!!! HURRA! MUTI HAT MIR GERADE DIE WELT DES FAMILYCHATS ERKLÄRT!!!
+BIS BALD --- //[[kasparwirz@bluewin.ch|Kaspar Wirz]] 2006/08/31 11:29//
+
+__Hier mein erster richtiger "Post"
+
+Ihr habt euch ja alle schon ganz schön ausgetobt! Ich muss jetzt aber unbedingt etwas klarstellen: ich habe kein problem mit diesem familychat, der einzige Haken an der Sache ist, dass ich mir zur Zeit jede Minute, die ich am PC sitzen kann hart erkämpfen muss- Muttern blockiert ihn ja immer- so jetzt ists raus ;-)
+Da kommt auch schon mein nächstes Stichwort (@Günther): wie siehts an der "Emoticons"-Front aus? aus anderen Foren kenne ich den Rolleyes, oder der sich übergebende Smiley- wäre das nicht auch hier eine Bereicherung? Kann man das Smiley-Repertoire überhaupt erweitern? so könnten wir unseren Ansichten noch mehr Ausdruck verleihen und es wäre fast, als sässe man zusammen an einem Tisch...^_^
+tja war nur mal ne frage.
+
+Ich muss wieder das Feld räumen- Mater Familias ist unterwegs- sonst setzt es was LOL
+
+Auf Bald  --- //[[kasparwirz@bluewin.ch|Kaspar Wirz]] 2006/08/31 14:05//
+====== Das ist ja ganz nett ======
+sich da im Netz zu begegnen, wenn man sich sonst so selten sieht!!!  --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/08/31 14:08//
+
+====== Und noch etwas: ======
+
+Nina: Du wolltest doch Günter fragen, ob man für Reto ein eigenes Passwort vergeben könnte, da er ja ein vollwertiges Chatmitglied werden will! So viel ich weiss braucht Günter dafür seine Mailadresse...Arrangiert das doch bitte noch, solange Günter noch im Land ist (wer oben gelesen hat, weiss ja, was auf uns zukommt - ich werde schon ganz nervös!) Manuela!!! Wir wollten doch noch Bilder laden lernen!  --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/08/31 14:10//
+
+
+Manuela: Bildelen mit Wiki, ja, aber heute ist schlecht, Günter ist unterwegs. Morgen?
+und an Nina: wir bräuchten noch Retos Mailadresse, damit er auch zum Wiki-Vollmitglied avancieren kann. Bis bald bin das Brotkörbli am Füllen und danach auf Englischpfaden.
+ --- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/08/31 15:59//
+
+Hallo allerseites! Habe grad gemerkt, dass ich selber Retos Adresse auch habe:
+====== retoGschwend <reto@netlabs.org>! ======
+Und nun husch - hinein ins Wochenende!  --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/01 13:57//
+
+Und nun lernen wir Bilder ins Chat zu stellen:
+{{:familychat:wanna_coffee.jpg?200|:familychat:wanna_coffee.jpg}}
+Bin total zufrieden - ist er er nicht hübsch? --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/01 16:51//
+
+
+===== Ein neues Chatmitglied =====
+
+
+Hallo, Hallo
+
+habe reto soeben zum wiki - chat Ritter geschlagen. In seine Burg erhalt er mit reto/reto Eintritt.
+
+Übrigens muss und möchte ich nicht der Verwalter des chats sein - das können wir alle gemeinsam machen, so ein wiki hat auch etwas demokratisches
+Also: mit root/sue-site kann jeder zum "superuser" werden und damit Rechte an andere user erteilen oder unliebsame Mitglieder rauswerfen...
+
+Viel Spass
+
+ --- //[[bobobabo@bluewin.ch|Günter Hipler]] 2006/09/01 17:54//
+
+
+
+
+also da geht ja die Post ab im family-chat, ich war doch nur ein Tag nicht hier und hab so viel verpasst!?
+
+zuerst muss ich mal üben:  --- //[[ninatheresia@netlabs.org|nina theresia wirz]] 2006/09/01 22:20// --- //[[ninatheresia@netlabs.org|nina theresia wirz]] 2006/09/01 22:20// --- //[[ninatheresia@netlabs.org|nina theresia wirz]] 2006/09/01 22:20// --- //[[ninatheresia@netlabs.org|nina theresia wirz]] 2006/09/01 22:20//8-)8-OFIXMELOL****
+
+Sehr gut! Aber die smilies wollen nicht recht, es gibt nur so komische zeichen wie 8-) oder 8-, ist das normal?
+Und dann wollte ich noch zu Kaspar sagen: Ich finde es super, dass du auch in den family-chat kommst, dann kann ich dir zum Beispiel erzählen, dass ich heute die kleine Schwester von Nadja(Nadja Straubhaar, spielt auffällig Cello, für alle die sie nicht kennen, aber die Bernfraktion kannt sie) (Anja) getroffen habe. Ich hätte sie nicht wiedererkannt!Sie ist erwachsen geworden! Und ist jetzt ungefähr die coole Ausführung von Nadja und geht jetzt dann an eine Musical-Schule nach Hamburg, krass!
+Und Mäne,wegen der online-Kameras: Also beunruhigt nicht unbedingt, aber ich hab einfach Mueses ganze Homepage nach Kameras abgesucht,aber nix gefunden und habe mich auch gefragt, was denn da online gezeigt würde? Mäne und Gü beim Zähneputzen? Besäufnis im Pfarrhaus?? Und da fühlte ich mich plötzlich doch ein bisschen beobachtet...
+
+Und zu guter Letzt: Gü: Danke, dass du Reto auch Einlass geboten hast, er kann es leider im Moment noch nicht so würdigen, weil er jetzt ja auch zur werktätigen Bevölkerung gehört und ihm diese Umstellung offenbar im Moment noch das allerletzte Fünklein Energie raubt...Er ist, einmal zu Hause angekommen, zu absolut gar nixem mehr zu gebrauchen!
+
+Und jetzt: allen gut nacht und süsse Träume! --- //[[ninatheresia@netlabs.org|nina theresia wirz]] 2006/09/01 22:20//
+
+Ja, Reto hat gestern hier ein wenig frech gelacht, als es um den Familychat ging...nebst seiner Müdigkeit, die ich gerne als Beeinträchtigung seiner Möglichkeiten achte, beschleicht mich der Eindruck, dass er das Projekt nicht so ganz ernst nehmen will. Aber (wenn ich meiner Schwester trauen darf), dann ist es durchaus so, dass aus dieser Unternehmung noch etwas werden kann. Bilder weiss ich schon wie hochladen (ihr seht's ja oben) und zusätzlich könne man scheints auch Töne hier deponieren...Also: nur keine Geringschätzung! Kaspar wird wohl ein Weilchen nicht erscheinen: Er ist heute morgen in ein Orchesterprojekt abgerauscht - tönt nach Schwerarbeit: Mahler - und kommt erst Montag nacht heim. Aber ich habe die Straubhar-News auch gern gelesen!
+====== Nina: ======
+ wenn Du die Smilies einsetzt, dann bist Du ja im Edit-Modus. Deshalb siehst du sie erstmal nicht gelb und nur behelfsmässig. Wenn du dann "Save" gedrückt hat, dann wechselt alles in den Anschau-Modus und sie sind dann, wie du sie willst! Kann Dir übrigens das mit den Bildern auch beibringen - kannst gerne vorbeikommen...
+Nun muss ich mal etwas bügeln.  --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/02 10:13// 
+
+
+HAHAHAHAHAHA Weit gefehlt! Es sollte ja eigentlich allen bekannt sein, dass ein Besuch im Happy-chat nicht and die Anwesenheit im Pfarrhaus gebunden sein muss! ich bin hier im Computerraum der HMTZ und irgendwie doch daheim- ist das nicht schön? 
+Die Geschichte über Nadjas Schwester hat mein Herz erfreut. Nur eine Frage: ein coole Ausgabe von Nadja- Ist das schon cool, oder meinst du (Nina) damit nur, dass es sachte in eine coolere Richtung mit ihr geht? 
+
+Die trendigen Zürcher stellen uns nur iMacs zur Verfügung was zur Folge hat, dass ich auf sämtliche Editierfunktionen verzichten muss- nicht einmal die Smileys gehen- nur damit ihr wisst, weshalb mein Text so nüchtern daher kommt...
+übrigens kann ich für das Mahler Konzert 4 Freikarten haben, drei davon sind schon vergeben (Pero, Mues und Benz). Ihr könnt Euch jetzt um die 4. Karte prügeln, wenn es mehrere Interessenten gibt (nächsten Samstag um 1930 Uhr in der Tonhalle)
+Also, ich muss dann mal- die Registerprobe ist zwar schon zu Ende, ich habe aber ein Übezimmer- hurrraaaaa! KASPAR grüsst alle Chater
+
+
+
+
+
+
+♥♠♣♦♠♥♣♦♠♣♥♦♠♣♥♦♦♥♣♠
+
+
+
+Also Mues das mit den Bildern lasse ich mir dann gern mal zeigen. Komme vielleicht morgen mal vorbei.
+
+Und Kaspar: Also Nadjas Schwester könnte natürlich schon cooler sein, aber immerhin: Sie hat sich die Haare geschnitten (somit sieht man ihr gesicht, was noch hübsch ist, sie schlägt ja zum Glück nicht in Mutter-Straubhaars Richtung...), ist geschminkt (aber dezent), trägt Puma-Turnschuhe und lockere schwarze Hosen mit braunem, breitem Ledergurt (wie man es eben trägt) und wirkt recht aufgeschlossen- also immerhin. Ihr braves Straubhaarlachen konnte sie sich aber noch nicht abgewöhnen...Ich sehe Nadja nächsten Samstag- soll ich sie für die Natelnr von Anja fragen? Vielleicht kannst du sie ja mal in Hamburg besuchen...Was das Mahler-Konzert am Samstag angeht: Ich bin eine ernsthafte Anwärterin auf das heissbegehrte 4. Billett! Reto würde vielleicht auch kommen und wir würden das zusätzliche Billett dann halbieren. Aber wie läuft das mit Billettkauf und/oder reservieren und so? Und: Sind die vier Freikartenplätze beieinander und der 5te allein? Und kommt die Baslerfraktion auch? Fragen über Fragen...
+Und schreibt man Billett oder Billet??
+Danke für alle hilfreiche Zuwendung und schönes w-end  --- //[[ninatheresia@netlabs.org|nina theresia wirz]] 2006/09/02 15:41//
+
+Es ist ja heiss, dass der Kaspar nun in ZH mitmischt...wir haben hier im Pfarrhaus Rosa Rot geschaut (Reto, Nina und ich) und nun ziehen die beiden ab. Benz spielt zu hause Cello und kommt dann zum Zmorge wieder. Und dann gehen wir i d Schwümmmmmmmmmm! Es sei seit zwanzig Jahren das beste Steinpilzjahr. Allen eine gute Nacht! --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/02 21:58//
+
+====== 3. September ======
+ 
+
+===== Günter in Stockholm =====
+
+Hallo zusammen. Bin seit ungefähr zwei Stunden in Stockholm und fange an, mich so langsam einzurichten. Einrichten? Was kann man darunter verstehen? Na ja - ich habe ganz zuallererst mal versucht, mir einen Internetzugang im Hotelzimmer zu verschaffen... Das funktioiert jetzt auch - wie Ihr seht. War aber gar nicht so einfach. Startet man die Kiste und lässt nach WLan Zugängen suchen, hüpfen einem gerade gleich 4 entgegen, wovon 3 aber als "abgeschlossen" gekennzeichnet werden, das heisst - kein Zugang. Ein auf den ersten Blick offener Zugang entpuppt sich beim genaueren Hinsehen als "PayInternet". Bin dann mal an der Reception nachfragen gegangen und die Konditionen sind recht üppig - 120 Kronen, schätze mal so gegen 25 Franken für 24 Stunden. Da musste ich doch erstmal was Essen gehen und über die Konditionen nachdenken. Das Essen war dann auch noch ziemlich speziell. An einem Sonntag wie heute stürmen plötzlich bestimmt 50 Personen in ein Restaurant neben dem Hotel und stellen sich in einer Schlange an, damit sie etwas zu essen bekommen. Auch wenn mein Schwedisch nur mangelhaft ist, hatte ich den Eindruck, dass die meiste der Gäste eher osteuropäisch sprachen. Zusätzlich war dann noch speziell, das niemand bezahlte - alle gingen an die Theke bestellten etwas, bekamen es auch und gingen - ohne etwas zu bezahlen - an den Tisch. Bekam den Eindruck, dass ich mir so schon immer Schweden als das wahre sozialistische Paradies vorgestellt habe, in einem Land, in dem alle gesättigt werden. (hat ja beinahe schon biblischen Charakter...) Na ja, nach einem Kaffee zum Abschluss gab es dann aber doch  noch eine "kleine" Kasse, an der man seinen Obulus entrichten konnte...  
+
+Habe mich dann aber dazu entschieden, den heutigen regenverhangenen Tag in Stockholm dazu zu benutzen, mich "vor die Kiste" zu hocken und die nächsten 24 Stunden zu "hacken" - vielleicht hat das ja den positiven Nebeneffekt, dass man produktiver wird. Jede Zeile so ungefähr einen Rappen... Ein weiterer Nebeneffekt besteht darin, dass ich mich von meinen BibliothekskollegInnen lösen konnte. Die sind nämlich ziemlich bald nach der Ankunft "in Gruppe" in die Stadt gezogen. Merke da plötzlich, dass ich da weniger einen Herdentrieb verspüre und eher für mich selber schaue - oder liegt es am Bibliotheksgeruch??
+
+
+Hallo Reto: Ich würde diesen Chat dann nicht so gering schätzen - wo hast Du denn sonst die Gelegenheit, Nachrichten aus erster Hand über Stockholm zu erfahren...
+
+Bin dann heute morgen ziemlich müde am Flughafen in Zürich angekommen. Naja, ist ja auch nicht alltäglich, dass man um 4.40 in den Zug einsteigt - wenn man erst um gegen eins ins Bett gekommen ist, weil man noch den Film volver von Almodovar anschauen gegangen ist - übrigens sehr sehenswert.
+Die von mir gewählte Variante, Gepäck am Vortag am Bahnhof in Basel aufgeben, gleichzeitig mit der Gepäckabgabe schon eingecheckt zu sein um dann nach der Ankunft am Flughafen am frühen Morgen, vorbei an den Schlangen, gemütlich zum Flugzeug zu schlendern, hat sich wirklich bewährt. Kann ich nur weiterempfehlen, für evtl. zukünftige Flieger.
+
+Fliegen ist ja wirklich etwas Seltsames. Man stegt in so eine Kiste, im Moment des Einsteigens frage ich mich dann immer, warum soviel Blech eigentlich in der Luft bleiben kann, pflanzt sich in wirklich extrem enge Sitzreihen, fährt mit dem Flieger zur Startrampe, nachdem die BetreuerInnen ihre Routinesätze abgespult haben, auf die sowieso niemand mehr achtet, und hebt dann ab. Schnell wird es an einem Tag wie heute neblig doch irgendwann durchstösst man die Wolkendecke, so dass man endlich auch blaue Flecken erkennen kann. Das ist, zugegebenermassen, immer noch beeindruckend. Aber irgendwann wird man vom Wolkenzählen auch schläfrig, selbst der Joghurt und abgepackte Cake, den swiss mittlerweile auch in der billigsten Klasse wieder kostenlos verteilt, hält nicht ewig. So nicke ich (über das mitgeschleppte Typo3 Buch ....) ein und irgendwann hört man dann auch schon die ersten Durchsagen mit Hinweisen zu Anfluvorbereitungen. Man stösst wieder durch die Wolkendecke, diesmal in der anderen Richtung, und sieht dann plötzlich eine ziemlich grosse Waldfläche. Na ja, in Schweden hat man scheins noch genug Platz, solche Schneisen über kaum besiedelte Flächen zu führen, da sind die Schweizer doch weniger glücklich dran. Der Pilot legt eine glatte Landung hin - man kann kaum merken, dass die Reifen schon wieder auf Asphalt rollen, vielleicht verwenden die Schweden ja auch den besseren Beton..., und fährt dann zum Flughafegebäude - sky building wird es, wenn ich mich recht erinnere, genannt. Was mir aber besonders duch den Kopf geht: trotz so einer perfekten Landung klatscht niemand.... Getraute es mich dann auch nicht und, als ich dies nachher einer Mitfliegerin erzählte, sagte sie zu mir, nein Günter, gut dass Du es nicht gemacht hast, man würde mich dafür heute auslachen. Sowas! Das Sozialprestige eines Piloten scheint ja nun wirklich im Eimer zu sein!!
+   
+
+So, nun sitze ich in meinem Zimmer, das Fenster ist geöffnet, nicht gerade wenig Strassenlärm schwappt herein, der Himmel ist wolkenverhangen und es nieselt - und klappere auf den Tasten des Compis herum, wenn das nicht auch ein Abbild der globalen Welt ist - egal wo man ist, überall verhält man sich gleich - nicht ganz, so ein Restaurant findet man in der Schweiz kaum.
+
+Jetzt versuche ich noch ein paar ernsthaftere Sachen zu machen - Webseiten für Schwarzwälder und sonstige Erkundigungen.
+
+Bis bald
+
+ --- //[[bobobabo@bluewin.ch|Guenter Hipler]] 2006/09/03 13:18//   
+
+guenter
+
+
+===== Goodies =====
+meni Na sowas, da wollte ich meine goodies unters chatter-volk bringen und dann heisst es locked by guenter... schön, dann wusste ich also dass Günter in Stockholm angekommen ist und einen Netzanschluss hat (kostet der jetzt oder hast du einen Umweg gefunden??) und dass es gleich etwas zu lesen gibt. Also es freut mich Günter, dass du gut angekommen bist, hatte mir ja schon Sorgen gemacht, dass du den Flughafenausstieg verpassen würdest. Du befasst dich jetzt mit Ernsthaftem, gut so, dann kann ich's ja noch ein wenig lassen...
+----
+
+Nun zu den goodies: ich hab mir heute morgen gedacht, so ein wenig mehr Struktur auf der Seite wäre schon was und so ein kleines Föteli könnt vielleicht weiterhelfen, z.B. am Anfang eines Beitrags, oder wenn ich jemanden ansprechen will, z.B gue. Wer nun auch so eines möchte, kann mir ein Bildeli schicken oder selbst eins herstellen (40x40pixel). Es ist natürlich nicht so, dass ich das dann für alle einrichte, gäu Reto (bin nämlich der gleichen Meinung wie Günter).
+----
+
+**Smileys** 
+Ja, mit denen habe ich mich auch noch befasst. Kaspar hat ja nach sich übergebenden gerufen. Es ist ja unglaublich, was   für eine smily-Welt da entstanden ist, zu besichtigen z.B. [[http://www.smilies.4-user.de/|hier]]. Der Günter findet die Sache zwar gar nicht witzig, und er mag sich überhautpt nicht damit befassen, wie wir zusätzliche smileys in die Auswahl integrieren könnten. Er hat mir aber dann zumindest verraten, was ich unternehmen muss, damit ich sie in den Chat einbauen kann, wenn auch nicht so einfach zu beützen wie die Standard-Smileys. Ich werd also jetzt ein kleine smiley-ecke einrichten.
+ --- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/09/03 14:03//
+
+===== Die Smiley-Galerie (kann jederzeit erweitert werden) =====
+
+compifrust		
+habs		
+suge	
+prost		
+hunger
+trinke
+musig1				
+musig2				
+musig3	
+campe			
+uebergib1		
+uebergib2		
+tanze	
+tivi		
+----
+wenn du eines verwenden willst: einfach wort neben Smiley in **Kleinbuchstaben** eintippen, dann "preview" oder "save" anklicken und schwupp da is's!
+
+  * COMPIFRUST compifrust	
+	
+  * HABS habs
+		
+  * SUGE suge
+	
+  * PROST prost
+		
+  * HUNGER hunger
+
+  * TRINKE trinke
+
+  * MUSIG1 musig1
+				
+  * MUSIG2 musig2	
+			
+  * MUSIG3 musig3
+	
+  * CAMPE campe
+			
+  * UEBERGIB1 uebergib1
+		
+  * UEBERGIB2 uebergib2
+		
+  * TANZE tanze
+	
+  * TIVI tivi
+----
+
+und die Chatter-Föteli können entsprechend eingefügt werden: 
+  * MENI meni
+
+  * GUE gue
+   
+und weitere, die da noch kommen...
+	
+ --- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/09/03 15:38//
+
+===== Tönendes =====
+... damit die Seite noch weiter an Niveau gewinnt: [[http://www.youtube.com/watch?v=BahEsvp432A]]
+----
+
+
+so, und nun hoff ich, das hier bald einmal die Riesensteinpilze auftauchen...
+ --- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/09/03 16:02//
+
+====== Aus dem dunkeln Tann: ======
+
+ich muss leider mitteilen, dass unsere Ausbeute das Mittelmass nicht überschritten hat: Einige Reizker und ein Sommersteinpilz, einige Röhrlinge - aber die hat Benz sehr lange mit dem Pilzbuch studiert und dann schliesslich weggeworfen - einige Boviste (die essen nur desperate Seelen) und einige Halimaschen - die hat Benz auch kurzerhand weggeworfen: zu wenig eindeutige Merkmale...Sprich: es hat gereicht für einen Pilzreis zu zwein, aber die Mischung war (so Benz) nicht ganz ideal. Also werden wir demnächst wieder ausrücken und dann vielleicht endlich den ultimativ hinreissenden Steinpilz finden, nach dem ich mich so sehne.
+NIna und Kaspar sollen wir von Susanna und Friedrich Müller sehr liebe Grüsse ausrichten - das war ein schöner Besuch bei ihnen in Goldiwil.
+Ich muss schon sagen, ich bin beeindruckt von der Virtuosität der Basler-Liga!!! Kaspar wird grosse Freude haben an den Smilies (er ist übers Wochenende net-less. Aber morgen schaut er sicher wieder rein (allerdings an der Hochschule in Zürich - er hat immer noch sein Mahler-Projekt. Ich kann mir noch nicht so vorstellen, wie man die Smilies dann am richtigen Ort plaziert - so in Horden können sie doch nicht immer vorkommen!? Fötelis werde ich morgen liefern - heute abend mag ich nicht mehr pixeln! Aber es hat seine Vorteile, wenn man immer vor Augen hat, mit wem man gerade am meisten spricht. Die Achtung steigt doch merklich...diese i-wer-Team: doch einfach toll, die beiden mit ihren Kappen!
+Günter, ich finde, Du schreibst ganz schön über Deine Reise. Ja, so ist's im Flugzeug - nur habe ich immer noch gehörig Angst, und davon habe ich bei Dir nichts gelesen. Hier noch ein paar schwedische Zahlen: akka, iksi, gaksi, kolme, neliä, wisi, kuse (heisst: 1,2,3... - aber Du brauchst ja eh nur 1 und 0!!!).
+Leute: ich muss mal in die Horizontale, will noch ein bisschen lesen, und dann halt morgen wieder ins Arbeitsleben einsteigen. Ist alles etwas arg weit weg...kann nicht sagen, dass ich mich grad wahnsinnig freue. Gute Nacht in den hohen Norden, nach Basel, nach Zürich, hinüber in die Nideggemeinde und quer über den Spielplatz! --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/03 20:48//
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+======Nina schreibt:======
+Wow Gü ist ja sehr mittelsam im hohen Norden! Ist das weil deine Meni nicht dabei ist?!Ich möchte dich aber vor den "schwedischen" Zahlen von Mues warnen! Das sind doch finnische! Schwedisch heisst es: ettans, tu, tre, fyras undsofort! Also aufgepasst!
+Mäne das mit den Fötelis finde ich super, es schafft bestimmt viel Übersicht- von wegen wer spricht und wer gemeint ist...ich schicke dir bei Gelegenheit auch och eins! Und ich finde auch Reto muss sich erst noch bewähren, bevor er in den Genuss der i-werk-Betreuung kommen darf- zu herablassend bis anhin seine Haltung! Gell. Reto!? Und die smilies finde ich auch super! Warum findets der Gü nicht witzig?Ist doch herzig! Und es gibt schliesslich Dinge, die kann man nicht mit Worten ausdrücken... Ich muss sie dann testen, aber jetzt will bald mal ich ins Bettli.
+
+Mues: Könntest du einmal noch versuchen, Rebecca die Föteli vom 13.8. zu schicken? Bei mir hats anscheinend nicht geklappt, sie hat nur Zahlen erhalten. Merci!
+Also gut Nacht in alle Himmelsrichtungen, bis gly, --- //[[ninatheresia@netlabs.org|nina theresia wirz]] 2006/09/03 22:16//
+
+======Meldung von Reto!!!======
+Hurra, heia heissassa prost habs also doch noch in den supi dupi famy-chat geschafft tanze Ist ja wirklich toll, diese Firtuelle Welt. Das sieht man einem nicht und kann trotzdem miteinander sprechen.
+So kann ich ja dem Ganzen auch noch etwas abgewinnen. Die Formatierung muss ich mich noch etwas zu eigen machen, dann kann man sich ja schliesslich noch ziemlich damit die Zeit um die Birne hauen.
+Der grösste Spass bietet ganz klar die Smiley-Fraktion! Gü soll sich da nur nicht so konservativ zeigen ;-)
+Ich verlasse euch für heute einmal, da ich endlich ins Bett gehöre. Keine Angst, werde wohl wieder hier auftauchen, da solche Sachen ein gewisses Suchtpotential aufweisen. Ja, i weiss, ha ersch no grad drüber gschpottet trinke
+Liebe Grüsse an die ganze Wirz-Gertsch-Hipler-Schär-Sippe  --- //[[reto@netlabs.org|reto gschwend]] 2006/09/03 22:57//
+
+ ====== Benz grüsst und geht schlafen. ======
+
+{{:familychat:im_kiental_maerz_2000.jpg?100|:familychat:im_kiental_maerz_2000.jpg}}
+:-x
+
+ --- //[[b.schaer@bigfoot.com|benz schaer]] 2006/09/03 23:07//
+----
+
+====== Mann! ======
+ Wie kriegt Ihr auf einmal alle diese Smilies in den Text rein??? Besonders Reto, der Späteinsteiger!!! Und dann gleich so virtuos!
+
+COMPIFRUST compifrust
+
+Ist das wahr - muss ich die am Frontend kopieren und dann einfügen oder gibt's da noch eine elegantere Variante?
+Und das mit den Bildli??? Ich wette, es gibt eine schnelle Lösung dafür, die Portraits immer am richtigen Ort in den Text zu bekommen! Übrigens: an {{:familychat:im_kiental_maerz_2000.jpg?100|:familychat:im_kiental_maerz_2000.jpg}}:
+
+Meni hat gesagt 40x40 Pixel!!!
+
+Ich schustere mir nun auch gleich ein Exemplar zurecht!
+Noch was für Kaspar: ich war heute morgen auf Deiner Joggingstrecke: Im Wald oben auf der Bank nächtigt ein Penner! Ich bin nicht schlecht erschrocken!!!
+Und auch für Nina: Ich mache das mit Rebecca - aber nicht heute. Erst muss ich mal den Laden hier starten!
+
+{{:familychat:chat-portrait.jpg|:familychat:chat-portrait.jpg}} na also, ging ja! Aber schnell war das nicht! Guten Start an die ganze Truppe im welchem Breitengrad auch immer!  --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/04 09:12//
+----
+===== Heute abend mehr zu Chatter-Bildelis und Co. =====
+meni  --- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/09/04 11:04//
+
+Fein! Aber ich werde es mir erst später aneignen - heute abend ist das ====== Podiums-Gespräch ======
+ (s. auf der Homepage unter "nicht verpassen"!) --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/04 13:49// 
+
+
+musig3
+
+gruss von mir
+
+----
+
+====== Ich probier's morgen nochmals ======
+
+meni bei mir ist dauernd die Internetverbindung weg!
+----
+
+====== wow... ======
+
+benz ... no idea who did it, but it works: I type my name - and the picture is there, even though I've got no idea of what is a front end. But what I know for sure is that my back end is aching all over after a long day's office work. So again: good night! 
+Nein. Erst noch was versuchen: 40x40pixel? 
+
+{{:familychat:pfuschi dolch.jpg?40|:familychat:pfuschi dolch.jpg}}   Etwas klein? Finde ich auch. Aber ihr könnt's ja anklicken. - 
+
+Hoppla. [[http://de.wikipedia.org/wiki/homo_homini_lupus|"Homo homini lupus"]], der Mensch als des Menschen [[http://spielmirdasliedvomtod.com|Meuchelmörder]]? Welch Abgründe! Das ist nicht "Gott im Bild". Pfui Teufel! [[http://berg.heim.at/anden/420285/filmmidis/spielmirtod.mid |hört, hört]] Dann doch lieber bloss das kleine Bildchen.
+
+
+--- //[[b.schaer@bigfoot.com|benz schaer]] 2006/09/04 23:38//
+----
+
+
+suzanne    suzanne    suzanne    (wollte nur schnell probieren, ob das was Benz sagt, von wegen Namen schreiben und dann ist das Bildli da, auch bei mir geht!
+Also: suzanne muss jetzt an die Sitzung - bis später, folks! --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/05 07:14//
+suzanne
+----
+
+====== Wunderbar ======
+
+dann muss meni ja gar nichts mehr erklären.
+Es haben übrigens jetzt alle ein Bildeli, ich hab mich in der Bildergalerie bedient (wem seins nicht gefällt soll mir ein anderes schicken): auch reto hat eines, er hat so virtuos gesmilet, da hab ich dann auch virtuos gephotoshöpplet: nach dem Umzug vor den Luc-Bäumen! Ja und kaspar, hatte mir schon gedacht, dass die Zürcher die trendigen Computer weggeräumt haben, hingegen vom gue hört man gar nichts mehr, das widerlegt zum Glück ninas These, hab nämlich schon gedacht, ich müsse in mich gehen. Noch etwas Suzanns Bildeli kann auch mit Mues mues hergezaubert werden. Und noch ein Letztes: die smilyes funktionieren genau gleich.   --- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/09/05 07:31//
+
+====== Pirouetten ======
+Ja, wirklich benz, ich muss schon sagen, du hast sie voll im Griff die tools der Schwatzkiste [[ftp://ftp.comlab.ox.ac.uk/pub/Documents/sound/demo/whistle.au |wow]], wird ja richtig zu einer gehobenen Schwatzkiste. Auf jeden Fall: geht dann auch noch dem Meuchelmörder nach: Trailer mit Fliegenbordun, ziemlich heiss.  
+
+--- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/09/05 10:52// 
+
+====== Aber Hallo ======
+
+Das geht ja ab hier! Habe nur ganz kurz Zeit- die meiste davon hab ich jetzt zum durchlesen aller Neuigkeiten gebraucht suge
+Wegen der Tickets: nina und reto : Ich weiss nicht wie das mit den Plätzen aussieht, ich versuch in den nächsten Tagen was herauszufinden :-/ 
+Ich muss jetzt eben wieder nach Zürich musig2 musig3 ... ihr wisst schon. meni gibt es kein kontrabass smiley? ;-)
+
+liebe Grüsse euer kaspar
+ --- //[[kasparwirz@bluewin.ch|Kaspar Wirz]] 2006/09/05 12:25//
+
+bass bass bass jetzt hab ich's doch noch gefunden  --- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/09/05 13:34//
+
+suzanne sagt einfach: ich bin platt ob so viel Farbe! Und um dem allem genug Nachdruck zu verleihen, muss man doch glatt prost einen heben! besonders, weil jetzt grad Apéro-Zeit ist. Und sonst: Der Anfang im Pfarramt war etwas heftig. Gestern war nebst viel herumrennen, einem Todesfall vor meinen Augen (ich war grad auf Besuch bei einem Ehepaar, da hat sich dern Mann ganz leise davongemacht...wir haben's erst gar nicht gemerkt!) ja auch noch das Podium. Es hatte mehr Leute als ich erwartet hätte - wahrscheinlich über 100 und es war erheiternd, dass mal die scharfen Töne von der Gegenerseite kam. die Beführworter CVP und SVP aus dem Bernerflügel, gaben sich dezent und staatsmännisch, resp. mahnten, dass man doch sachlich beliben soll und anständig reden solle (unanständig war eigentlich nichts!). Die Kollekte, die unser Mittagstisch der Sanspapiers bekommt war fett: 562.80!
+Heute hatte ich dann von morgen bis Mittag Sitzung mit meinen Pfarrkollegen. Sagen wir so: Wir haben zusammen die ganze Palette der Gefühle durchlebt und ich hab das Ganze dann auch noch protokolliert. Ich bin ganz zufrieden, weil ich meine, dass ich recht autentisch war. Aber eigentlich mag ich Sitzungen einfach nicht und bin froh, dass jetzt Abend ist und ich mich meinen privaten Freuden zuwenden kann (die Ihr ja von mir schon kennt prost!)
+Da ich auch von Schweden her Typo3-Unterstützung bekomme, bin ich eigentlich sicher dass gue hier auch mitliest. Halt die Ohren steif im hohen Norden und mach uns viel Ehre mit Deinem virtuellen Wissen!!!
+Ich will Euch allen übrigens noch ein Geheimnis verraten: benz wird morgen nach Genf verreisen (für uns alle nina, reto, kaspar, meni und suzanne und natürlich gue) absolut kein Problem - er wird auch von dort aus unsere Runde beglücken. Aber bevor er geht, hat er einen Beitrag versprochen, der echt das Niveau auf dieser Seite hebt. Also fleissig nachschauen allerseits und sonst: machts alle gut, was immer ihr grad so treibt!  --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/05 20:12//
+
+----
+
+====== hilfe! ======
+
+liebe manuela - oder war's günter?
+vielen dank. unter **"wow"** (s.o.) war ein könner am werk: die melodie (die müsst ihr doch alle noch hören) kommt nun als externer link, und das scheint zu gehen. ich wollte sie eben als internen link gestalten. erst habe ich das file hochgeladen und dann wollte ich es zugänglich machen, aber das funktionierte dann nicht. warum eigentlich nicht?
+aber nun ist ja alles bestens. 
+
+dem **meuchelmord** aber müssen wir nachgehen. vielleicht lässt er sich aufklären. **hat jemand schon eine spur?** (auf, ihr krimileserInnen, an die arbeit!) ob sich das nivo der schwatzkiste damit heben wird? tja, das weiss ich nicht. aber solche untaten dürfen doch einfach nicht ungerochen bleiben! ausserdem scheint mir, dass die geschichte das zeug zu einem spannenden mordfall hat. 
+herzlich grüsst euch beide und den ganzen rest  --- //[[b.schaer@bigfoot.com|benz schaer]] 2006/09/05 20:51// 
+----
+
+Nochmals: heiss ist die rasante Entwicklung! Ihr alle müsst die Links von benz anschauen, die nach der Überschrift "Wow" gesetzt sind! Toll nicht - vorallem die Fliege?! Aber ich komme an meine Grenzen: kaum hab' das eine Kunststück drauf, gibt's schon wieder was anderes zu lernen...das mit den Tönen will ich dann natürlich auch lernen! Bis bald - für jetzt ist Schluss! suzanne  --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/05 21:31//
+
+----
+
+Mir fällt z.B. auf, dass der 
+
+====== Schattenmörder ======
+ 
+
+- irgend einen Namen muss er ja haben, oder nennen wir ihn kurz "S." - KEINE BRILLE trägt!!! Aber was heisst das? Und ist es schon die heisse Spur?  --- //[[b.schaer@bigfoot.com|benz schaer]] 2006/09/05 22:11//
+----
+
+
+
+nina Bin ja gewaltig im Hinderli, mit was gewisse Schwatzraumbesucher schon alles können!compifrust
+Man könnte fast meinen, die werten Chatter hätten keine geregelte Arbeit, der sie nachgehen müssen???
+
+
+Eigentlich wollte ich nur einige banale Mitteilungen machen
+Für benz : Sorry, ich hab das vom Steinpilz zu spät gesehen und jetzt ist es wohl nicht mehr so aktuell. Du weisst offenbar immer noch nicht so sicher, welches denn nun meine aktuelle e-mail-Adresse ist...nina theresia@netlabs.org, sonst nix... (habs, gell?). reto hat übrigens musig3 Spiel mir das lied vom Tod musig3 als Handyklingelton auf mein Natel getan! Und zuletzt: Warum ist es eigentlich geheim, dass du nach Genf gehst? Besteht da irgendein Zusammenhang zum Schattenmöder? 
+
+Für mues :(ich finde es übrigens sehr zartfühlend von meni , dass dein bildli bei suzanne und mues erscheint!) Der Mann  ist echt live gestorben, als du da warst?!? übelübel uebergib1
+
+Das ist alles, was nina zu sagen hat, wünsche eine geruhsame Nacht ( reto jammert mich schon an, warum ich nicht endlich ins bettli komme, ob ich jetzt jeden Abend, noch im Familychat sitzen will...gue, vielleicht wärs eine Idee noch irgendwo ein Kuschelecke einzurichten? Wäre das möglich? kaspar und pero würden sie vielleicht auch brauchen!) --- //[[ninatheresia@netlabs.org|nina theresia wirz]] 2006/09/05 22:38//
+
+======LINDI ALARM======
+Hallo, hier reto Ich muss mich auch noch zu dieser Unzeit hier im famychat einloggen, da ich eine Brandheisse Nachricht für alle LINDI-FANS habe: Else ist im richtigen Leben gestorben!!! Ich hab nina gesagt, dass die wohl nach dem Ausstieg nicht mehr lange zu leben hat und siehe da: Ich bin Hellseher!!! Meine Fähigkeiten kann man übrigens gerne in Anspruch nehmen. Für eine Voraussage (ohne Gewähr) bescheidene 30 Franken. Da muss man profitieren. An meni: gibt es kein Begräbnissmiley? Das würde doch wunderbar hier hin passen. mues hätte es auch schon benützen können LOL
+Also, ich muss jetzt wirklich ins Bett, um 6.30 klingelt mein Wecker und ich hab noch nicht so Routine...
+--- //[[reto@netlabs.org|reto gschwend]] 2006/09/05 23:17//
+
+====== Lösungsversuch ======
+ von mues:
+
+Hallo, Ihr Munteren! Ja Nina - richtig vor unseren Augen - aber es ging ihm gut, dem lieben Herrn. Er lebte übrigen seit Jahren in Angst. Jedesmal wenn seine Frau aus dem Zimmer ging, fürchtete er sich, ihr würde etwas geschehen. Dr. Märki, der dann auch noch kam, meinte, er hätte schon seit Jahren jederzeit sterben können mit seinem Herz...
+Für reto: an klingelnde Wecker gewöhnt man sich nie, auch wenn man Frühaufsteherin ist. Es ist einfach eine hässliche Erfindung! Gestern habe ich übrigens bei "Leute heute" ein herzzerreissendes Feature über Else Kling gesehen. Sie konnte auch ganz richtiges Bühnendeutsch! Wir trauern natürlich jetzt alle, die ganze grossen Lindenstrassen-Gemeinde.
+Für meni und gue: das mit den Tönen, was Benz jetzt schon kann, will ich auch lernen. Ich finde diese Links nun eine echte Bereicherung. Wenn die Schwedenexpedition beendet ist, melde ich mich für Nachschulung an.
+benz wird übrigens in Genf nicht ans Netz können. Er befasst sich dort mit anderen virtuellen Themen, die manchmal auch nicht mit Händen zu greifen sind. Aber ich wage hier nun einen ersten Lösungsversuch für das von ihm lancierte, kriminalistische Problem. Freud sagt ja immer, er wüsste eine Methode, wie wir alle unseren Schatten kennen lernen können. Sie ist zugegebenermassen etwas zeitintensiv. Aber mein Vorschlag ist in diesem besonders spektakulären Fall, der ja eindeutig auch Züge von Schizophrenie trägt, mal eine ordentliche Analyse, damit geklärt werden kann, welcher Teil der Seele sich da verselbständigt hat.
+Damit die Jungmannschaft nun nicht etwa meint, unsereins müsste seine Brötchen nicht verdienen, verabschiede ich mich jetzt wieder. Muss mich noch auf den Nachmittag vorbereiten - gehe mit dem Kulturklub Markus ins Zentrum Paul Klee! --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/06 11:04// 
+
+Hallo - ist niemand da??? mues sucht Gesellschaft!  --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/06 20:01//
+
+
+
+musig2
+nina wäre hier...aber nachdem du mich vorher (um punkt 1745h, Nina Ruge ruft) also recht eiskalt abserviert hast, weiss ich nicht, wie wir jetzt überhaupt kommunizeren sollen :-|
+
+----
+ --- 
+
+//[[b.schaer@bigfoot.com|benz schaer]] 2006/09/07 07:55// 
+
+====== qus cMlignw bei genf ======
+
+beny ist jetyt quch drqn; qber ihr seht jq; zqs er f^r eine tqstqtur hqt: die buchstqben sind quf den tqsten qngeschrieben zie bei euch yuhquse; qber zenn ,qn sie dr^ckt; ko,,t irgend ein unsinn rqus: schon yu, einloggen hqtte ich grmsste ,^he; so zie ihr zohl jetyt bei, lesen: Ite,/ ich z^nsche euch qllen einen schmnen tqg und suyqnne u,qr,e ich herylich: ihre beityrqege yur fqll S sind be,erkenszert; vor qlle, der erste ,it der qngst: denn es scheint ,ir yu einfqch; nun qllen opfern yu rqten; sie hùtten sich eben qnqlwsieren lqssen ,pssen ! und dqs nqchde, sie schon tot sind: gruss  --- //[[b.schaer@bigfoot.com|benz schaer]] 2006/09/07 07:50//
+
+====== Mein Gott ======
+benz - wie muss ich mir das vorstellen, wie du da wütest?     http://www.smily.at/smily/smily1022.gif 
+(Nebenfrage an meni: wie mache ich das, wenn ich ein neues Smily in unsere Runde einbringen will? Ich wollte gestern auch nach einem Skelett-Smily suchen, denn nach  dem Besuch im Kleezentrum, wäre das was gewesen. Er hat sowohl eine Handpuppe Frau Tod wie eine Herr Tod gemacht...)
+NaNaNa nina: nur nicht gleich beleidigt - es gibt halt so Zeiten, da muss man Prioritäten setzen. Aber ich versichere Dir: Du bist mir wichtig, ich bin immer interessiert, was Du so machst, ich finde, Du bist eine ganz Tolle (sagt ja auch Thomas Leutenegger noch andere) und grundsätzlich bin ich immer für Dich da! Wir können ja mal ein Wochenede
+zusammen campe und dann zusammen prost...ist gut so?:-D mues --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/07 08:11//
+
+====== neue smilyes in's wiki ======
+... wie?? meni das gewünschte smily "schicken" z.B. so wie suzanne es gemacht hat, per Link (s.o.). Ich werd's dann so schnell wie möglich smily-sozialisieren (in dem Fall heute abend, denn jetzt bin ich mit Brötlijob beschäftigt... es ist nämlich nicht so, dass wir keiner geregelten Tätigkeit nachgehen, wie das das junge Volk meint, **wir arbeiten, wir chrüppeln**...). Noch eine Frage: wer ist denn eigentlich Nina Ruge, dass die auf der Prioritätenliste noch vor der Tochter kam??
+
+ --- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/09/07 10:49//  
+
+An meni
+sie ist die Chefin von "leute heute" (s. meine Homepage unter Links!) --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/07 12:19//
+
+====== Hallihallo ======
+
+hier spricht der bass LOL wir haben gerade Abendessenspause in Zürich und es gab Chickenwings mit Tofu, Jasminreis und Gemüse Mmmmmm das war gar nicht uebergib1 sondern ganz ausgezeichnet!! nur das prost hat gefehlt. Muss man sich jetzt plötzlich Sorgen um benz machen, wenn der neuerdings in fremden Zungen spricht??
+
+Bei mir macht es viel Spass! Wieder einmal kann ich sagen, dass ich noch nie unter einem besseren Dirigenten gespielt habe. (Bitte das jetzt nicht bildlich verstehen!) Er arbeitet usgezeichnet und mag auch aus der platten Schmalz-Ouvertüre etwas besonderes machen. Auch  das "au"-Konzert dürfte ganz spannend werden. "au"? ungefähr so spricht man den Namen des chinesischen Streichinstrumentes aus, das unkundige Leute "Kniegeige" nennen.
+
+Nun denn, die Pflicht ruft. Bis bald! --- //[[kasparwirz@bluewin.ch|Kaspar Wirz]] 2006/09/07 18:15//
+
+----
+====== qch gott; ======
+ 
+schon zieder; qber liebe suyqnne; du zolltest jq ein skelett hqben ! vielleicht sind solche z^nsche ein bisschen gefùhrlich: plmtylich zerden sie ZQHR£££
+
+{{:familychat:freund hein.jpg?40|:familychat:pfuschi dolch.jpg}}   
+
+ich finde qber; zenn ,qn bedenkt; zie schitter es ih, gegqnen ist; dqnn sieht er doch jetyt eigentlich gqny freundlich qus; findet ihr nicht¨£ Zenn suyqnne schon so psqcho! oder psqchiqtrisiert; dqnn drùngt sich der schluss quf; dqss der schqtten zohl u, einiges schli,,er ist; qls die zirklichkeit ! des todes::: kqnn dqs sein2 nein; i, ernst; dqs f^hrt jq nirgends hin: ich zùre qn der QUFKL%RUNG des fqlls interessiert; nicht qn spekulqtionen: schlqft qlle gut; zo i,,er ihr seid; euer
+ --- //[[b.schaer@bigfoot.com|benz schaer]] 2006/09/07 22:29//
+
+----
+
+BENZ!!!! benz muss man sich ernsthaft sorgen? aber nicht verzagen, wir fühlen mit dir, was du auch immer uns mitteilen magst (klingt wie althochdeutsch mit asthma), es ist bestimmt nicht einfach im fernen Genf! Aber danke fürs skelett! mues also mutter-tochter campe wäre sicher noch lustig;-)
+und chäbu kaspar, wie gesagt danke für die tickets, aber sagt man dem instument sicher nicht pipa,sondern ai, ich hätte schwören können!
+Wünsche eine gute nacht (gibts eigentlich keinen schlafsmilie?), (reto ist schon wieder beleidigt...) --- //[[ninatheresia@netlabs.org|nina theresia wirz]] 2006/09/07 23:12//
+noch eine letzte Frage: Wie macht manh eigenltich diese schöne graublaue Linie zwichen den Texten? --- //[[ninatheresia@netlabs.org|nina theresia wirz]] 2006/09/07 23:22//
+====== Antwort ======
+ an nina
+Man setzt eine Überschrift (Wort markieren und auf H1 klicken)...das macht die Überschrift und die LinieI Guten Tag an alle!  --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/08 07:18//
+
+===== Antwort 2 =====
+An nina: Ich könnte mir durchaus vorstellen, dass die Familie der chinesischen Streichinstrumente aus mehreren Mitgliedern besteht... und à propos schlafsmiley- wie wärs damit? [img]http://www.mainzelahr.de/smile/muede/bett.gif[/img]   Ich weiss nur leider nicht, wie einfügen, dass man auch ein Bildli sieht, aber da kann vielleicht meni helfen --- //[[kasparwirz@bluewin.ch|Kaspar Wirz]] 2006/09/08 10:17//
+
+====== Pilze ======
+Nur ganz schnell: Der Parasol war super, es musste bis jetzt niemand uebergib1, gut nacht! --- //[[ninatheresia@netlabs.org|nina theresia wirz]] 2006/09/10 22:10//
+Zum Wochenanfang!
+
+====== zum Wochenanfang ======
+
+An alle Werktätigen (und das sind nun fast alle - nur mein Student liegt noch in den Federn: kaspar - allerdings ohne Peronelle!): einen schön-guten morgen! Wir haben, wie nina schon pflichtbewusst gemeldet hat, den Pilzausflug gut überstanden, haben dabei etwas gelernt und auch einen neuen Pilz ins Repertoir aufgenommen! benz hat heute morgen bekanntgegeben, dass der "Halimasch" (nicht halifax, nina!!!) für ihn durchaus eine Bereicherung im Pilzkorb sei, da er etwas Biss behält beim Kochen. Für den Koch in unseren Reihen: Er muss etwa 5 Minuten vorgekocht werden, und das Wasser soll dann abgeschüttet werden -  gell reto!
+Wir hier in Bern wollten gerne wissen, wie es eigentlich im i-werk aussieht - ob das Helke-Projekt soweit fortgeschritten ist, dass Ihr freudig anderen Unternehmungen entgegenblicken könnt? Bis später also - und guten Anfang! --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/11 07:34//
+Noch etwas: kaspar - wenn er denn aufgestanden sein wird: meni hatgesagt, dass Du ihr die gewünschten smilies zuschicken sollst (mit "Grafik kopieren") sie wird sie dann benennen und in unsere Runde befördern. Allgemein ist man ja von dieser Kommunikations-Möglichkeit sehr angetan hier!LOL --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/11 07:45//
+
+====== Buäh!!!!! ======
+Die Pilze sind uns zwar gut bekommen, dafür hat sich heut morgen in Zofingen (ich war eben erst aufs Rad gestiegen um zur Musikschule zu fahren) eine Wespe in meinen Hosen verirrt und mich zweimal ins Bein gestochen und das eine Mal zwar ziemlich deftig! Der eine Stich ist jetzt weit grösser als meine Hand mit abgespreizten Fingern! Um das Wespi wieder loszuwerden, blieb mir leider nichts anderes übrig, als halb hysterisch vom Fahrrad zu steigen und mitten  auf einer grossen Kreuzung die Hosen herunterzulassen...Wehe, es lacht jemand!
+Ich hoffe, ich erhasche das Mitleid irgendeines der familychatter!?! kaspar, benz, mues, meni, gue, reto!!!
+Einen geruhsamen Abend wünscht die gepeinigte nina
+====== Schlimm!Schlimm! Schlimm!======
+Ich weiss gar nich, was man da als Trost anbieten könnte, und dann noch virtuell! Und dann geht das ja auch ziemlich langsam mit den Stichen, erst beissen sie auch noch gehörig...kaspar hat am Samstag (vor dem Konzert) sehr Glück gehabt in dieser Beziehung: wir haben draussen gegessen und er hat eine Platte aufgehoben, an deren Unterrand eine Wespe herumturnte - er hat sie nur um Millimeter verpasst - mit dem linken Zeigefinger! Ich habe ihm dann gesagt, das wäre ein Fall für das Notfallset (alle Berner wissen, was ich meine, für meni und gue, von denen man so gar nichts mehr hört, trotz freundlichen Nachfragen!!!,:ein Cocktail von Medi, für Allergiker gedacht, der u.a. auch das Anschwellen verhindert, und den ich immer griffbereit habe...). Aber ich werde ja von den Meinen immer nur belächelt. Ein kleiner Hinweis: jetzt ist Herbst, und die Wespen sind ziemlich desperat am suchen, wo sie sich im Winter über die Runden bringen könnten. ninas Hose muss sehr vertrauenserweckend ausgesehen haben. Gute Besserung und einen guten Tag an alle, die auch schon wieder am Ackern sind (mein Student sitzt  - auf dem Kloo!). --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/12 08:29//
+====== Hüstel hüstel ======
+kaspar kann auch lesen! Dass sich ausgerechnet meine Mitbewohnerin (suzanne!) hier ständig über meinen Tagesablauf mokiert finde ich schon dreist! Ich wähne mich sicher auf dem Klo, meine volle Konzentration auf geschäfftliche Dinge gerichtet (http://www.my-smileys.de/smileys2/Durchfall.gif meni könntest du das grafisch noch verdeutlichen??) und werde hier vor versammelter Familie hochgenommen... 
+Wie dem auch sei, heute ist ein spezieller Tag, ich gehe an die inofizielle Premiere des neuen Schweizer Über-Films "Love made easy"- eine geistreiche Gesellschaftsstudie! Wer genauere Infos zum Film wünscht: http://www.news.ch/Melanie+Winiger+zeigt+sich+nackt/251031/detail.htm?ref=rss Besonders aufschlussreich ist ihr Komentar zu ihrer Rolle... Auch die heutige Bund-Kritik ist sehr aufschlussreich! Ich gehe übrigens nur, weil ich bei der Filmmusik mitgewirkt habe und eingeladen wurde http://www.my-smileys.de/smileys2/Aargh.jpg
+Soviel dazu. Jetzt wird aber gegessen- es ist Mittwoch und gibt- wie könnte es anders sein- RüebligmüesLOL
+http://www.my-smileys.de/smileys2/Bolt.gif   --- //[[kasparwirz@bluewin.ch|Kaspar Wirz]] 2006/09/13 12:55//
+
+====== Uff ======
+ - kragen Der Sohn teilt aus und die Toten stehen Schlange!!! Die Amtwoche fängt aber auch sehr heftig an: Eine Tote muss ganz schnell unter den Boden, weil sie einen offenen Bauch hat. Obschon ich alle meine Arbeiten umstellen muss, habe ich der weinenden Tochter sofort zugesagt, hoffend, dass ich keine Einzelheiten hören muss (mein Verdacht: die Dramatik sollte mich gefügig machen...aber sowas kann man dann natürlich nicht klären!)!!!Erzählen darf man es auch kaum - höchstens im Familychat - und ein Beitrag für die Homepage ist leider auch nicht möglich! Und jetzt muss ich schnell die Lektüregruppe vorbereiten!  --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/13 17:18//
+
+====== Zurück aus der Schwarzwaldversenkung... ======
+... aber meni bin auf dem Sprung, deshalb nur ganz schnell: 
+
+also suzanne Passendes zu deinen Toten skelett1 skelett2 skelett3 skelett4 
+
+für nina schlafen
+
+kaspar s Geschäftliches kacken und knirsch und weg
+
+ja, und hier noch für weiter Lebens- und Arbeitslagen: freude streit abwaschen walken maehen schmusen
+
+und noch für den gue den Armen sisyphus (mit seinen sieben schrecklichen Bibliotheksdirektoren, das heisst jeder für sich wäre mehr oder weniger in Ordnung aber zusammen ist es wieder einmal ganz schlimm, also fühlt doch alle mit ihm)
+troesten  
+
+--- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/09/13 18:44//
+
+====== dies und das ======
+
+
+troesten troesten troesten troesten troesten troesten troesten troesten troesten troesten troesten troesten troesten
+
+WIR FÜHLEN MIT DIR gue!!!
+
+für meni : merci für deine Erweiterung der smileygallery! schmusen ist sehr herzig! reto braucht sich somit auch nicht mehr zu beklagen, wenn ich noch nicht sofort zu ihm ins bettli hüpfe, wir können jetzt auch virtuell schmusen ...
+
+Für kaspar : Du musst dann unbedingt von der Filmpremiere erzählen! Vor allem würde mich die Tiefe der Stripperin interessieren, ich habe gehört, sie solle sehr tief sein! freude
+
+für mues the skelett1 - Totengräber: Ich hab dein Kirchengesangbuch nicht vergessen, aber ich konnte kurzfristig eine Stellvertretung für heut nami annehmen musig2 und hatte somit keine Zeit. Und noch eine Frage: Hast du in deiner Berufsbibliothek den "Ökumenischen Liederkommentar"? Andreas Marti findet, das gehöre auf den Schreibtisch eines jeden Pfarrers! (Für mich wärs noch ganz praktisch, das Ding kostet nämlich 200.-...)
+
+Wünsche der geeinten chatgemeinschaft eine geruhsame nacht, schlafen , nina
+
+
+
+
+ökumenisch! Ist ja lustig! Da hält sich das Wiki wohl für besonders schlau!
+Mit gue liesse sich natürlich viel machen: guenstig, guetig, guellern aber natürlich auch äxguesi!
+Dann gäbe es in dem Fall noch das retortenbaby...benzinkanister ist schon etwas schlaff...muessig etwas weit hergeholt...sonst noch ideen? habs  --- //[[ninatheresia@netlabs.org|nina theresia wirz]] 2006/09/13 22:45//
+
+====== sehr lustig ======
+ 
+
+nina, deine guellernde-guetige-guenter-retortenbaby-Kreation!  Übrigens, scrollt doch mal nach oben: da hat sich das neue weg-smily eingenistet... 
+
+--- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/09/14 07:36//
+
+====== Überwältigend! ======
+
+Nach allen Seiten Komplimente und noch eine kleine Erweiterung - der muessiggang, den man sich grad so sehr wünscht! Heute kann ich nicht lästern über bass, denn er ist schon gewaltig in Fahrt - Richtung Zürich zu seinem Tutor, damit sie zusammen bass bass können, damit mal was wird aus kaspar: musig1! Und ich: zuerst kommt nun skelett4 dran, aber da sehe ich schon skelett1 am Horizont, mit dem wir uns im Trauergespräch befassen werden...
+Nein liebe Nina: ich habe das ökumenische Gesangbuch nicht, aber ich überlege mir die Anschaffung. Kriegtest Du %%? Und wie schnell müsste es denn nun auf meinem Schreibtisch stehen (bin grad etwas pleite compifrust!8-O) Günter: auch ich will troesten! Und dem Benz ein schmusen (der ist nämlich noch im schlafen - also doch muessiggang!) Ich muss jetzt weg --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/14 08:13//
+======Bildli-Fanatismus======
+Hier ist reto
+Ist ja wirlich lustig hier, es läuft also je länger je mehr darauf hinaus, dass man den Text durch Smileys und dergleichen ersetzt. Vorallem ist's lustig, wie sich der Text auch im Nachhinein bildnerisch anpasst. So zum Beispiel "von wegen"...
+Nun zu mir: Ich habe heute mit Hochgenuss die Pultordnung in meiner Klasse gewechselt (nun schon zum vierten mal in fünf Wochen...). Aber diesmal nach Losglück immer ein Mädchen und ein Knabe nebeneinander gesetzt. Hat mir wirlich Spass gemacht! Die sitzen jetzt alle so verkrampft am Pultrand. Sieht zum schiessen aus. Ob sich meine Hoffnung auf etwas mehr Ruhe und Konzentration damit erfüllt, wird sich weisen.
+So, ich muss jetzt essen. nina ist am schreien 8-o --- //[[reto@netlabs.org|reto gschwend]] 2006/09/14 20:10//
+
+
+
+====== Aufruf zur seriösen Podiumsdiskussion ======
+
+
+Aha, der Herr reto möchte mehr niveau und weniger Bildli, wie ich bei seinem Statement zwischen den Zeilen zu lesen glaube...Themenvorschlag: Die Menschwerdung Gottes- ein abgeschlossener Vorgang oder ein weiterwirkender Prozess?
+Wer seine Gedanken zu dieser brisanten Frage äussern möchte, soll dies bitte in klar strukturierten, schlüssigen Sätzen tun!!
+Für mues : Hab das kirchengesangbuch nicht vergessen, aber auch heute wieder gestellvertretet, gehe morgen! Bestimmt! Beim ökumenischen Liederkommentar gäbe es glaub ich Prozente, frage nochmal nach, für mich pressierts nicht so, war eher eine grundsätzliche Frage.
+
+Für benz :Du hast eine Stelle für mich?! Bitte melden! Hab dich noch angerufen, warst leider nicht zu Haus. Warst du musig1 ?
+
+Für kaspar : Wo bleibt der Erlebnisbericht von der Filmpremiere?? tivi War es knirsch ?
+
+Übrigens: Aretologie ist auch noch so ein Wort- die Tugendlehre...ausgerechnet! 
+Und Dank dem Wiki, hab ich gemerkt, dass ein weggefährte so seine zwei Seiten hat!
+Und auch das weggli! Und das guepfeli!! freude
+Ich gehe jetzt besser schlafen, gruss, --- //[[ninatheresia@netlabs.org|nina theresia wirz]] 2006/09/14 21:54//
+
+Die ====== Menschwerdung ======
+
+Gottes...öööö...ist das ein Vorgang? Ich dachte eher ein Geheimnis...muss nachdenken und vor allem schlafen...und noch was für reto: neinnein, ich will schon auch Sätze machen... --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/14 22:28//
+
+Weil======  Reto ======
+
+doch in Sachen Bildli aktenkundig geworden ist, erzähle ich Euch allen jetzt mal einfach eine Geschichte:
+Wie Ihr wisst, habe ich dieser Tage ziemlich viele Tote um die Ohren. Für eine Trauerfeier wird in der Regel das Meiste im Trauergespräch besprochen, aber, wenn es, wie grad eben, hektisch wird, rufen die Leute zwischendurch noch an, haben diesen und jenen Spezialwunsch, fragen etc., und wenn das dann eben drei Trauerfamilien miteinander machen, kann es schon vorkommen, dass man im Kopf ein Durcheinander bekommt. Ich schreibe natürlich alles auf, habe all die Zettel auf dem Schreibtisch und versuche den Kopf über Wasser zu halten. Meistens geht es gut. Heute aber kam es zu einer Panne. Das Gute daran ist, dass durch meine Fehlleistung jetzt noch jemand profitiert. Als ich am morgen ausrückte zum dritten Trauergespräch (gestern war das zweite für eine Trauerfeier, die dann am Dienstag stattfindet), hatte ich im Kopf, dass die Leute "So reich mir deine Hände" (sie meinten "So nimm denn meine Hände"!) von der Gemeinde gesungen haben wollten, dass die Orgel "Ave Maria" spielen und ich über Engel predigen solle. In Tat und Wahrheit hatte aber die Familie von gestern das Ave Maria bestellt, ich hatte mich mittlerweile auch schon mit der Organistin besprochen, wir hatten uns vorsichtig auf Bach-Gounod geeinigt. Ich fand mich super vorbereitet, dass ich jetzt, wo ich die Familie vor mir haben würde, bereits eröffnen würde können, dass das Ave Maria, das die Verstorbene so sehr gewünscht hatte, schon bestellt sei. Bach-Gounod würde ich heute noch ganz locker nebenbei überprüfen können. Die Tochter schaute mich etwas komisch an, der Witwer setzte zu einem Einwand an...aber er kam nicht dazu. Die Tochter sagte ganz schnell:"Jaja Päppu - das stimmt, die Mutter hat gern das "Ave Maria" gehört...das ist schon gut so. Allerdings - ich hab's jetzt schon nicht so mit den Orgeln - es wäre halt schön, wenn das jemand singen könnte..." Ich habe gar nichts bemerkt - noch nicht. Voll in Fahrt habe ich weiterberaten:"Ach, die Organistinnen machen das ganz schön, wir müssen aber noch klären, welches "Ave Maria" sie meinen - es gibt zwei bekannte - können sie singen, welches ihnen durch den Kopf geht?" Die Tochter summte darauf hin unsicher in den Intervallen, aber doch erkennbar das "Ave Maria" von Schubert und ich bestätigte, ich wüsste genau, was sie meine. Aber sie liess nicht locker:"Es wäre schon schön, wenn jemand das vorsingen könnte...haben sie keine Connections?" (Originalton!). Ich:"Natürlich habe ich Connections!" Ich sah plötzlich meine Chance: Da konnte ich doch der armen Rebecca zu einer Gage verhelfen - ich war wild entschlossen, das Engagement an Land zu ziehen (das waren übrigens gar nicht Leute, von denen man vermuten könnte, dass sie ein Musikerhonorar nicht scheuen würden!!!). Ich verwandelte mich flux in eine kompetente Kulturmanagerin, beruhigte meine Trauerfamilie, dass ich alles richten würde, dass es aber schon auch etwas kosten würde. Wieviel denn, wollte die Tochter wissen, und ich sah ihr an, dass vor ihrem inneren Auge eine wunderbare Trauerfeier ablief mit Engelsgeschichten und eben auch Engelsgesang. Ich merkte, ohne Solistin lief bei ihr jetzt auch gar nichts mehr. "Der Ansatz ist 300.-, ", packte ich aus, "aber dafür können sie dann schon zwei Stücke verlangen: "Ave Maria" und noch etwas Passendes oder sogar zwei Ave Marias!" Ich war begeistert und die anderen auch (nicht ganz aus den selben Gründen, aber die Stimmung aller Anwesenden hatte sich deutlich gehoben, sie war sogar beschwingt! "Ich kann sie da völlig entlasten, wenn sie die Solistin wollen, dann richte ich das alles für sie, sie brauchen gar nicht mehr besorgt zu sein. Sie werden eine sehr würdige Trauerfeier für ihre Mutter haben!" plätscherte es gewandt von meinem Mund. "Genau das wollen wir", waren sie sich einig. Bald war ich auf dem Heimweg, am Ohr das Handy, und über Nina hatte ich schnell Rebecca gefunden und erzählte ihr von ihrem Glück. Alles passte perfekt, die Zeit, das "Ave Maria"...welches auch immer, sie kann ja beide, und die Gage! Voll Stolz, dass ich so viele Leute auf einmal glücklich machen kann, ging ich heim und redete der Organistin aufs Band, die Sache habe sich etwas verändert, die Familie wolle jetzt doch Schubert und auch noch eine Solistin, und ich habe alles orgaisiert, es komme eine Mezzo-Sopranistin - wir würden uns am Montag um 11h sehen. Und dann begann ich zufrieden, mit der Traueransprache, die mir ganz leicht aus der Feder floss - der Jakobstraum, die Verheissung Gottes und die Engelein, die geschäftig auf der Himmelsleiter auf und ab wuscheln, immer bestrebt, die Verbindung zwischen oben und unten nicht abreissen zu lassen. Dann rief die Organistin an. Sie sei verwirrt, sagte sie, ich habe das "Ave Maria" von Bach-Gounod für Dienstag bestellt. Am Montag sei bis anhin nur von "So nimm denn meine Hände" die Rede gewesen...Ich war jetzt auch verwirrt, suchte meine Notizen der verschiedenen Todesfälle, Telefonaten und Trauergespräche zusammen, studierte sie und beschwor die Organistin, sie solle Geduld haben, ich brächte es schon wieder zusammen. Tatsächlich war nach ein paar Minuten klar, was sie vermutet hatte. Auf dem Blatt der Trauerfeier des Dienstags stand: "Ave Maria von Bach-Gounod mit Orgel". Mit dieser Notiz im Kopf hatte ich, von Donnerstag her kommend, am Freitag die nächste Trauerfamilie besucht. Der Blick der Tochter und die Reaktion des Witwers kamen mir wieder in den Sinn...aber auch ihre dezidiertes Nachfragen nach dem Sologesang. Sie hatte ja zu ihrem Vater auch noch gesagt, dass sie die Kosten für den Gesang übernehmen wolle - es sei ihr grosser Wunsch, der Mutter etwas von dem Vielen, das diese ihr zu Liebe getan habe, zurückzugeben.
+Rebecca weiss von allem noch nichts: Die ist jetzt auf einer Konzertreise nach Österreich und kommt am Sonntag abend heim. Sie freut sich, am Montag dann Schuberts "Ave Maria" zu singen, auch wenn der Text fürchterlich ist.
+So, meine Lieben, das ist brühwarm aus dem Pfarramt! Ich grüsse Euch! --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/15 14:55// Für "Heimweg" kann ich nichts - das macht Wicki ganz von allein...da gibt man sich alle Mühe!
+
+
+====== Bettag! ======
+Hallo Leute - wo tummelt Ihr Euch denn bei diesem Wetter? Heute ist Bettag, d.h., man oder frau macht einen Zwetschenkuchen und informiert sich, falls man nicht in der Kirche war, wenigstens bei der Pfarrerin auf der Homepage, was Sache ist!!! (s. unter "Predigt") Liebe Grüsse in alle Himmelsrichtungen! --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/17 13:49//
+
+ --- 
+====== wieder mit dabei ======
+
+suzanne hat benz vorgeworfen, dass er das zeugs in der schwatzkiste nina chlese. Ecco. Da ist er und wieder ganz à jour, mit bildli und text. Schloofet guet.
+----
+====== Benzino! ======
+ Das freut mich aber, Dich heute morgen hier anzutreffen...die anderen sind wohl schon im Stollen oder sind Schlafkappen wie...Ihr wisst schon wer...ich darf keine Namen nennen! Guten Tag, ich habe jetzt Teamsitzung und dann wieder mal skelett4  --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/19 07:10// 
+
+====== Ende in Sicht ...======
+
+... nicht skelett4, nein Schwarzwaldende! Aber zuerst guten Morgen, an die Werktätigen und die Schläfer und die aufs Wesentliche Konzentrierten... Also gestern haben sich die Schwarzwälder für die Startseite entschieden: meine Nummer 1, die Kalaschnikow-Seite... und den Eiffelturm kaufen sie wahrscheinlich auch, und übernächsten Freitag ist Schlussitzung und dann machen der guenter und meni am besten eine Bäderkur und verprassen das Geld. Gestern habe ich auch noch den letzten Text bekommen, der für die Kontaktseite. Ich finde ihn richtig einladend und auch in sehr klarem Stil geschrieben und deshalb möchte ich euch den nicht vorenthalten:
+
+
+Um einen gewissen persönlichen Eindruck zu bekommen, bitten wir als erstes 
+um einen telefonischen Kontakt. Bei diesem Gespräch können wir gerne auf Ihr 
+Anliegen eingehen und kommen sicherlich zu einem gemeinsamen Entschluß, wie 
+wir weiter verfahren.
+
+ 
+Bei dem Wunsch für einen Einzelstunde finden wir einen konkreten Termin. 
+Wenn Interesse zur Teilnahme an einer unserer Gruppen besteht, klären wir 
+telefonisch, wie Sie sich anmelden können. 
+
+
+Erst nach dieser Kontaktnahme, die auch brieflich geschehen kann, bitten wir 
+Sie, sich in unser Anmeldeformular auf der web-site einzutragen. 
+Ausdrücklich weisen wir darauf hin, daß uns ein e-mail kontakt nicht genügt. 
+Per e-mail können wir einen ersten Kontakt aufnehmen, um dann am besten 
+telefonisch das Anliegen zu vertiefen.
+
+
+So, jetzt wünsch ich allen einen heiteren Tag! meni  --- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/09/19 07:41//
+
+====== Arbeitsende in Sicht ...======
+
+na ja, erst 13:48 Uhr und noch ca. 3 Stunden durchhalten - dabei bin ich doch gerade erst in der Mittagspause der Bibliothek entfläucht und habe mich in den Buchladen gerettet. Was es da alles gibt: Natürlich neueste Neuigkeiten zu Typo3. Aber zusätzlich noch Lucene, und JBoss mit Struts und nicht vergessen supercoole PHP-Java Bridges um das neueste Contentrepository - Interface abzubilden. Ihr seht was mich begeistern könnte. ....
+
+Aber nein man schreibt das dreiunddreissigste Mail des Tages oder führt das achte Telefongespräch zu irgend einem blöden "Ich weiss nicht was Fehler", der in dieser idiotischen und hundertmal zu teuren Bibliothekssoftware aufgetreten ist. Diese trägt zu allem Unheil auch noch den Aliasnamen SUF. Da lobe ich mir doch Typo3.
+
+Aber nein, ich will nicht klagen, immerhin verdiene -sorry erhalte- ich damit meine Kohle. Vielleicht sollte ich dennoch mal, wie Wenzel, ein Ossisänger, am Wochenende erzählte, darüber nachdenken, was denn die Moral der Deutschen ausmacht (die wohl von der der Schweizer nicht allzuweit entfernt sein dürfte.) Wenzel ist übrigens zu folgendem Punkt gekommen: Die Moral der Deutschen besteht darin, dass sie jeden Tag an einem nebligen, feuchten und dunklen Novembermorgen bereits um 5 Uhr aufstehen, sich die Zähne putzen und klaglos zur Arbeit marschieren.
+
+Warum eigentlich nicht mal nach dem Aufstehen zur Flasche Badischen Wein greifen, sich einen Schluck gönnen und anschliessend wieder in die Poofe werfen???
+
+In diesem Sinne haben Manuela und ich gerade beschlossen, unseren gesamten Schwarzwaldlohn in die Luft zu werfen um ihn an einem einzigen Wochenende zu verprassen - na ja, so gross ist er nicht, aber gibt im Moment ein sehr befreiendes Gefühl.
+
+Viele Grüsse an alle Familychatteilnehmer und sorry für mein langes Schweigen.
+
+ --- //[[bobobabo@bluewin.ch|Günter Hipler]] 2006/09/19 13:45// 
+
+====== Tag des Friedens ======
+: der 21. September - und kaspars Geburtstag! Ich melde mich noch, muss erst mal an die Morgenmeditation, die ich angezettelt habe! --- //[[kontakt@suzanne-wirz.ch|suzanne wirz]] 2006/09/21 05:46//
+
+====== neuer Chatttt ======
+...ich hab mir gedacht, Kaspars Geburtstag ist grad der richtige Anlass, also es geht unter laufender_talk_2 weiter... (oder soll er anders heissen, ist ja nicht grad so umwerfend phantasievoll)
+
+
+ --- //[[bobobabo@bluewin.ch|manuela gertsch]] 2006/09/21 08:41//
+
+-----------
+
+2 (zwei!) jahre danach: benz hat wieder mal nachgesehen: tote hose beim chat, immer noch. woran das liegen mag?   12.2.08  

@@ -1,0 +1,15 @@
+# # Various Settings [BEGIN]
+
+plugin.tx_rzcolorbox_pi2 {
+  moveJsFromHeaderToFooter = 0
+  templateFile = typo3conf/ext/rzcolorbox/res/template/template.html
+  colorboxWidth = 100%
+  colorboxHeight = 100%
+  linkClass = rzcolorbox-content
+  contentClass = rzce
+  opacity = 0.85
+  link_image_width = 250
+  allowHtml = 0
+}
+
+# # Various Settings [END]

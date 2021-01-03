@@ -1,0 +1,193 @@
+Lieber Günter,
+ich irre ziemlich in der Oberfläche herum! Weiss z.b. nicht, ob ich beim Weiterschreiben immer oben ansetzten muss oder ob ich nach unten scrolle, vorbei an all dem was andere so schreiben. Dann machen mich die vielen Übeschriften nervös. Ich muss mal ganz in Ruhe alles, was du geschrieben hast durchlesen und vielleicht ausprobieren. Benz hat mich da schnell rechts überholt und einfach seine Links reingedonnert!!!
+Und wie er es geschafft hat, schnell zwei neue Themen in den Stamm zu setzen ist mir auch unklar. Wie man das hinkriegt, wirst Du auch erklärt haben...
+Ich werde mich dahintermachen - aber heute morgen war ich als erstes mit Kaspar joggen, dann die Dehnungsübungen und jetzt kommt dann erst mal das Duschen. Irgend ein Gesundheitsapostel habe in einer Sendung gesagt "turne bis zur Urne" - sagte Kaspar!
+Bis später - und falls Manuela oder jemand anderes auch michtmacht: Einen guten Montagmorgen! Suzanne:-/   
+
+Als Thema 1 muss ich unbedingt auf dei heutige Folge der [[http://www.lindenstrasse.de/|Lindenstrasse]] zu sprechen kommen - das ist zwar etwas gemein, weil die Basler keine Insider sind und Benz auf so was spuckt. Aber Kaspar und ich haben atemlos die Annäherungversuche des einsamen Karstens in der Schwulenbar verfolgt. Wer hat so was schon je von innen gesehen. Total chick mit Candellight und so...Nina und Reto wären auch interessiert, aber die haben die Folge bestimmt nicht gesehen, die ziehen sich das Ganze immer einen Tag später übers Netz hinein. Aber wir zwei, wir wissen's schon!!!
+Und nun erklärt Günter das Schreiben - bevor man schreiben kann, muss man einfach auf "edit this page" klicken. Wenn man geschrieben hat, dann bitte auf "Save"!!!
+
+====== Viele, viele bunte smileys ======
+compifrust		
+habs		
+suge	
+prost		
+hunger
+trinke
+musig1				
+musig2				
+musig3	
+campe			
+uebergib1		
+uebergib2		
+tanze	
+tivi		
+----
+und hier etwas geordnet. Wenn du eines dieser smileys verwenden möchtest, einfach das Wort in **Kleinbuchstaben** schreiben, "preview" oder "save" anklicken und schupp, da is's!
+  * COMPIFRUST compifrust	
+	
+  * HABS habs
+		
+  * SUGE suge
+	
+  * PROST prost
+		
+  * HUNGER hunger
+
+  * TRINKE trinke
+
+  * MUSIG1 musig1
+				
+  * MUSIG2 musig2	
+			
+  * MUSIG3 musig3
+	
+  * CAMPE campe
+			
+  * UEBERGIB1 uebergib1
+		
+  * UEBERGIB2 uebergib2
+		
+  * TANZE tanze
+	
+  * TIVI tivi
+
+  * BASS bass
+
+----
+
+  * STREIT streit
+
+  * WALKEN walken
+
+  * ABWASCHEN abwaschen
+ 
+  * MAEHEN maehen
+
+  * TROESTEN troesten
+
+  * FREUDE freude
+
+  * SCHMUSE schmuse
+
+  * SCHLAFEN schlafen
+
+  * KACKEN kacken
+
+  * WEG weg
+
+  * KNIRSCH knirsch
+
+  * KRAGEN kragen
+
+  * SKELETT1 skelett1
+
+  * SKELETT2 skelett2
+
+  * SKELETT3 skelett3
+
+  * SKELETT4 skelett4
+
+  * SISYPHUS sisyphus
+
+  * ABHEBEN abheben
+
+  * HURRA hurra
+
+  * SUPER super
+
+
+
+
+
+
+
+
+
+	
+----
+
+Eine kleine Einführung in die Wiki Syntax:
+
+====== Man schreibt einfach mal Text ======
+
+Wenn man dann aus dem geschriebenen Text eine Überschrift erzeugen möchte, markiert man diesen und drückt für die oberste Überschrift den Button H1 (s.o)
+Dann umrahmt Wiki den Text automatisch mit je 6 Gleichheitszeichen
+
+===== möchte man dann einen Unterabschnitt =====
+wieder markieren und z.B. H2 drücken, dann wird dieser Text mit je einem Gleichheitszeichen weniger umschlossen - für die Wiki engine der Hinweis, dies entsprechend als Unterabschnitt zu behandeln
+
+===== noch ein UNterabschnitt =====
+
+
+und in der Ansicht wird dann ein entsprechender Table of Contents erstellt
+
+
+Listen werden mit den beiden Buttons neben der Weltkugel erstellt
+(immer daran denken - Text markieren und Button drücken)
+
+  - erster Punkt gleich neben der Weltkugel
+  - numerierte Listen werden mit einem Bindestrich eingeleitet
+  - wichtig ist, dass die Bindestriche auf "gleicher Höhe" sind
+  - und zwischen den Zeilen der Liste keine leere Zeile
+
+  - Zeile eingefügt wird
+  - das bringt den Parser durcheinander
+    - untergeordnete Listenpunkte mit zwei Leerschlägen einrücken
+    - und schon funktioniert die Sache
+    - und das ganze geht natürlich noch weiter
+
+  * ungeordnete Listen mit dem Button
+  * neben der numerierten Liste erzeugen
+  * dieses Wiki verwendet dafür einen Stern
+    * auch das Einrücken geht natürlich
+    * vom Prinzip her gleich wie oben
+      * immer an die zwei spaces denken
+
+Links werden wie [[http://www.woz.ch|folgt gebildet]]
+Text markieren, die Kugel oben drücken, um den Text werden dann links und rechts zwei eckige Klammern gelegt. Der eingeschlossene Text ist dann nach aussen sichtbar. Links daneben einen senkrechten Strich einfügen und links neben dem Strich die eigentliche Adresse eintippen: das wars.
+
+ --- //[[bobobabo@bluewin.ch|Günter Hipler]] 2006/08/27 20:07//: Text markieren und den button ganz rechts drücken
+
+
+“CCCCX” - ??? Das ist ja Unsinn. Oder doch nicht? 410 n.Chr.: Alarich plündert Rom. Nun ja, aber das ist lange her. Und anderswo läuft’s doch heute viel schlimmer. Das müsste jetzt eine Überschrift sein
+
+http://www.refbejuso.ch/migration Und das ein Link?
+
+Beim *externen* Link das http:// nicht vergessen !! link mit anderem text - wenn man das will
+
+Jaaaa! Es klappt. Merci Günther. Gute Nacht, folks.
+
+Nein, noch etwas: Es dürfte doch nicht heissen “familychat:thema2”, sondern
+
+    *
+
+“familychat:thema2 pittli neu im guiness-buch” oder
+
+    *
+
+“markuskirche: jüngling entführt kätzchen mit schubkarren”
+
+    *
+
+oder so ähnlich
+
+Sonst ist das doch langweilig. Bloss, Günther, wie ändert man diese stichworte? Erklärung zum Erzeugen neuer Adressen
+
+einfach an die adresse folgendes anhängen:
+
+http://www.suzanne-wirz.ch/fileadmin/wiki/doku.php?id=familychat:neues_thema
+
+Dann versucht wiki eine Seite neues_thema im namespace familychat (werde ich Dir noch erklären) aufzurufen, findet die Seite nicht, meldet dies und dann kannst Du angeben, dass eine neue Seite angelegt werden soll - und schon kann es losgehen.
+
+Hier findest Du noch ein bisschen mehr Erklärungen
+
+Günter
+
+So weit Benz ;-) 
+
+Nächstes Mal erkläre ich die Bilder - einen schönen Abend: Günter!!
+
+
+
+

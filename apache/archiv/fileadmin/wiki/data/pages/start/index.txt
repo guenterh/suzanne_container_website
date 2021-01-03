@@ -1,0 +1,1 @@
+{{indexmenu>start|js}}

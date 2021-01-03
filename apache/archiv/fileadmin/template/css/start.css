@@ -1,0 +1,365 @@
+ *
+
+ {
+
+    margin: 0px;
+
+	padding: 0px;
+
+	list-style:none;	
+
+ }
+
+ 
+
+ #alles
+
+ {
+
+ 	width: 800em;
+	margin-left: 0px;
+
+	/*margin-left: 30px;*/
+
+ }
+
+ 
+
+ body
+
+ {
+
+ 	color: white; 
+
+	background-color: #333333;
+
+    font-size: 62.5%;
+
+	/*font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;*/
+	font-family: Bitstream Vera Sans,Trebuchet MS,Verdana,Arial,Geneva,Helvetica,sans-serif;
+
+
+
+}
+
+
+
+img
+
+{
+
+	border:0px;
+
+	margin: 0 auto;
+
+	padding: 0 auto;
+
+}
+
+
+
+a
+
+{
+
+	
+	text-transform:uppercase;
+	color: #999999;
+	font-size:11px;	
+
+}
+
+
+
+a:hover
+
+{
+
+	color: #ffffff;
+
+	background-color: #cccc00;
+
+	text-decoration: none;
+
+}
+
+
+
+
+
+#kopf 
+
+{
+
+	width: 800px;
+
+	margin-left: 30px;
+
+}
+
+
+
+#logo
+
+{
+
+	position: absolute;
+
+	top: 199px;
+
+	left:65px;
+
+}
+
+
+
+#hinweis
+
+{
+
+	height: 25px;
+
+	background-color: #999933;
+
+}
+
+
+
+#hinweis a
+
+{
+
+	font-size:11px;
+
+	line-height:25px;
+
+	margin-left: 47px;
+
+	color:#000000;
+
+}
+
+
+
+#logoErkl
+
+{
+
+	margin-top:15px;
+
+	color: #ffffff;
+
+	/*font-family: Arial,Helvetica,sans-serif;*/
+
+	font-size:15px;
+
+	margin-left:47px;
+
+}
+
+
+
+#navbalken
+
+{
+
+	margin: 136px 0px 8px 15px;
+
+	border-top: 1px solid #cccc00;
+
+	border-bottom: 1px solid #cccc00;
+
+	height:33px;
+
+}	
+
+
+
+#navbalkenSchw
+
+{
+
+	margin: 136px 0px 8px 15px;
+
+	border-top: 1px solid #cccc00;
+
+	border-bottom: 1px solid #cccc00;
+
+	height:33px;
+
+	background-color: #000000;
+
+}	
+
+
+
+#navbalkenrot
+
+{
+
+	margin: 136px 0px 8px 15px;
+
+	border-top: 1px solid #cccc00;
+
+	border-bottom: 1px solid #cccc00;
+
+	height:33px;
+
+	background-color: #990033;	
+
+
+
+}
+
+
+
+#navbalkengrau
+
+{
+
+	margin: 136px 0px 8px 15px;
+
+	border-top: 1px solid #cccc00;
+
+	border-bottom: 1px solid #cccc00;
+
+	height:33px;
+
+	background-color: #666666;
+
+	
+
+}		
+
+
+
+.nav1stKast
+
+{
+
+	/*position: relative;
+
+	top:-115px;*/
+
+	width: 100px;
+
+	height: 90px;
+
+/*	border: 1px solid #cccc00;*/
+
+	visibility: hidden;
+
+/*	background-color: red; */
+
+	
+
+}
+
+
+
+#nav1stAmt
+
+{
+
+	/*float:left;
+
+	margin-top:10px;
+
+	margin-left:400px;*/
+
+	position: absolute;
+
+	left: 440px;
+
+	top:103px;
+
+	/*visibility: hidden; 
+
+background-color:green; */
+
+}	
+
+
+
+#nav1stPrivat
+
+{
+
+	position: absolute;
+
+	left: 574px;
+
+	top:103px;
+
+	/*margin-left:550px;
+
+	/*float:left;
+
+	visibility: hidden;*/
+
+		
+
+}	
+
+
+
+#nav1stVerm
+
+{
+
+	position: absolute;
+
+	left: 706px;
+
+	top:103px;
+
+	/*visibility: hidden;
+
+	margin-left:700px;*/
+
+	
+
+}	
+
+
+
+.nav1stKast a
+
+{
+
+	font-size: 11px;
+
+	display:block;
+
+	padding-left: 3px;
+
+	padding-top: 4px;
+
+	text-decoration: none;
+
+	
+
+	
+
+}
+
+
+
+
+
+div#links
+
+{
+
+	float: left;
+
+	font-size: 11px;
+
+	padding-left:60px;
+
+	height:200px;
+
+}
+
+
+

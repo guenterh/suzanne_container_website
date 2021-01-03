@@ -1,0 +1,128 @@
+plugin.tx_gooffotoboek_pi1.webpath 		= {$plugin.tx_gooffotoboek_pi1.webpath}
+plugin.tx_gooffotoboek_pi1.path 		= {$plugin.tx_gooffotoboek_pi1.path}
+plugin.tx_gooffotoboek_pi1.thumb_maxw 	= {$plugin.tx_gooffotoboek_pi1.thumb_maxw}
+plugin.tx_gooffotoboek_pi1.thumb_maxh	= {$plugin.tx_gooffotoboek_pi1.thumb_maxh}
+plugin.tx_gooffotoboek_pi1.img_maxw 	= {$plugin.tx_gooffotoboek_pi1.img_maxw}
+plugin.tx_gooffotoboek_pi1.img_maxh		= {$plugin.tx_gooffotoboek_pi1.img_maxh}
+#plugin.tx_gooffotoboek_pi1.th_im_param	= {$plugin.tx_gooffotoboek_pi1.th_im_param}
+#plugin.tx_gooffotoboek_pi1.img_im_param	= {$plugin.tx_gooffotoboek_pi1.img_im_param}
+plugin.tx_gooffotoboek_pi1.debug		= {$plugin.tx_gooffotoboek_pi1.debug}
+plugin.tx_gooffotoboek_pi1.icons		= {$plugin.tx_gooffotoboek_pi1.icons}
+plugin.tx_gooffotoboek_pi1.img_nav_start	= {$plugin.tx_gooffotoboek_pi1.img_nav_start}
+plugin.tx_gooffotoboek_pi1.img_nav_end	= {$plugin.tx_gooffotoboek_pi1.img_nav_end}
+plugin.tx_gooffotoboek_pi1.img_index_on	= {$plugin.tx_gooffotoboek_pi1.img_index_on}
+plugin.tx_gooffotoboek_pi1.img_index_off	= {$plugin.tx_gooffotoboek_pi1.img_index_off}
+plugin.tx_gooffotoboek_pi1.img_up_on	= {$plugin.tx_gooffotoboek_pi1.img_up_on}
+plugin.tx_gooffotoboek_pi1.img_up_off	= {$plugin.tx_gooffotoboek_pi1.img_up_off}
+plugin.tx_gooffotoboek_pi1.img_next_on	= {$plugin.tx_gooffotoboek_pi1.img_next_on}
+plugin.tx_gooffotoboek_pi1.img_next_off	= {$plugin.tx_gooffotoboek_pi1.img_next_off}
+
+plugin.tx_gooffotoboek_pi1.img_slide_start= {$plugin.tx_gooffotoboek_pi1.img_slide_start}
+plugin.tx_gooffotoboek_pi1.img_slide_stop	= {$plugin.tx_gooffotoboek_pi1.img_slide_stop}
+plugin.tx_gooffotoboek_pi1.slideshow	= {$plugin.tx_gooffotoboek_pi1.slideshow}
+plugin.tx_gooffotoboek_pi1.slidetime	= {$plugin.tx_gooffotoboek_pi1.slidetime}
+
+plugin.tx_gooffotoboek_pi1.img_prev_on	= {$plugin.tx_gooffotoboek_pi1.img_prev_on}
+plugin.tx_gooffotoboek_pi1.img_prev_off	= {$plugin.tx_gooffotoboek_pi1.img_prev_off}
+plugin.tx_gooffotoboek_pi1.img_thumb_on	= {$plugin.tx_gooffotoboek_pi1.img_thumb_on}
+plugin.tx_gooffotoboek_pi1.img_thumb_off	= {$plugin.tx_gooffotoboek_pi1.img_thumb_off}
+plugin.tx_gooffotoboek_pi1.img_spacer	= {$plugin.tx_gooffotoboek_pi1.img_spacer}
+plugin.tx_gooffotoboek_pi1.txt_spacer	= {$plugin.tx_gooffotoboek_pi1.txt_spacer}
+plugin.tx_gooffotoboek_pi1.templateFile	= {$plugin.tx_gooffotoboek_pi1.templateFile}
+plugin.tx_gooffotoboek_pi1.thumb_per_row	= {$plugin.tx_gooffotoboek_pi1.thumb_per_row}
+plugin.tx_gooffotoboek_pi1.thumb_rows	= {$plugin.tx_gooffotoboek_pi1.thumb_rows}
+plugin.tx_gooffotoboek_pi1.thumb_wrap	= {$plugin.tx_gooffotoboek_pi1.thumb_wrap}
+plugin.tx_gooffotoboek_pi1.dir_link_wrap	= {$plugin.tx_gooffotoboek_pi1.dir_link_wrap}
+plugin.tx_gooffotoboek_pi1.dir_title_wrap	= {$plugin.tx_gooffotoboek_pi1.dir_title_wrap}
+plugin.tx_gooffotoboek_pi1.dir_comment_wrap	= {$plugin.tx_gooffotoboek_pi1.dir_comment_wrap}
+plugin.tx_gooffotoboek_pi1.image_wrap	= {$plugin.tx_gooffotoboek_pi1.image_wrap}
+plugin.tx_gooffotoboek_pi1.extra_wrap	= {$plugin.tx_gooffotoboek_pi1.extra_wrap}
+plugin.tx_gooffotoboek_pi1.comment_wrap	= {$plugin.tx_gooffotoboek_pi1.comment_wrap}
+plugin.tx_gooffotoboek_pi1.comment_title_wrap	= {$plugin.tx_gooffotoboek_pi1.comment_title_wrap}
+plugin.tx_gooffotoboek_pi1.dir_all_comment_wrap	= {$plugin.tx_gooffotoboek_pi1.dir_all_comment_wrap}
+plugin.tx_gooffotoboek_pi1.dir_wrap		= {$plugin.tx_gooffotoboek_pi1.dir_wrap}
+plugin.tx_gooffotoboek_pi1.thumb_row_wrap	= {$plugin.tx_gooffotoboek_pi1.thumb_row_wrap}
+plugin.tx_gooffotoboek_pi1.no_full		= {$plugin.tx_gooffotoboek_pi1.no_full}
+plugin.tx_gooffotoboek_pi1.user_full	= {$plugin.tx_gooffotoboek_pi1.user_full}
+plugin.tx_gooffotoboek_pi1.default_thumb	= {$plugin.tx_gooffotoboek_pi1.default_thumb}
+plugin.tx_gooffotoboek_pi1.noresize		= {$plugin.tx_gooffotoboek_pi1.noresize}
+plugin.tx_gooffotoboek_pi1.show_exif	= {$plugin.tx_gooffotoboek_pi1.show_exif}
+plugin.tx_gooffotoboek_pi1.show_exif_all	= {$plugin.tx_gooffotoboek_pi1.show_exif_all}
+plugin.tx_gooffotoboek_pi1.exif_jhead	= {$plugin.tx_gooffotoboek_pi1.exif_jhead}
+plugin.tx_gooffotoboek_pi1.exif_metacam	= {$plugin.tx_gooffotoboek_pi1.exif_metacam}
+plugin.tx_gooffotoboek_pi1.exif_all_wrap	= {$plugin.tx_gooffotoboek_pi1.exif_all_wrap}
+plugin.tx_gooffotoboek_pi1.exif_tag_wrap	= {$plugin.tx_gooffotoboek_pi1.exif_tag_wrap}
+plugin.tx_gooffotoboek_pi1.exif_value_wrap= {$plugin.tx_gooffotoboek_pi1.exif_value_wrap}
+plugin.tx_gooffotoboek_pi1.loadnext		= {$plugin.tx_gooffotoboek_pi1.loadnext}
+plugin.tx_gooffotoboek_pi1.disable_dircomment	= {$plugin.tx_gooffotoboek_pi1.disable_dircomment}
+plugin.tx_gooffotoboek_pi1.rev_sort_root		= {$plugin.tx_gooffotoboek_pi1.rev_sort_root}
+plugin.tx_gooffotoboek_pi1.rev_sort_dirs		= {$plugin.tx_gooffotoboek_pi1.rev_sort_dirs}
+plugin.tx_gooffotoboek_pi1.rev_sort_files		= {$plugin.tx_gooffotoboek_pi1.rev_sort_files}
+plugin.tx_gooffotoboek_pi1.show_teaser		= {$plugin.tx_gooffotoboek_pi1.show_teaser}
+plugin.tx_gooffotoboek_pi1.use_anchor		= {$plugin.tx_gooffotoboek_pi1.use_anchor}
+plugin.tx_gooffotoboek_pi1.thumb_filenames	= {$plugin.tx_gooffotoboek_pi1.thumb_filenames}
+plugin.tx_gooffotoboek_pi1.watermark		= {$plugin.tx_gooffotoboek_pi1.watermark}
+plugin.tx_gooffotoboek_pi1.watermark_mask		= {$plugin.tx_gooffotoboek_pi1.watermark_mask}
+plugin.tx_gooffotoboek_pi1.watermark_bottomimg	= {$plugin.tx_gooffotoboek_pi1.watermark_bottomimg}
+plugin.tx_gooffotoboek_pi1.watermark_bottomimg_mask	= {$plugin.tx_gooffotoboek_pi1.watermark_bottomimg_mask}
+plugin.tx_gooffotoboek_pi1.thumb_watermark		= {$plugin.tx_gooffotoboek_pi1.thumb_watermark}
+plugin.tx_gooffotoboek_pi1.thumb_watermark_mask		= {$plugin.tx_gooffotoboek_pi1.thumb_watermark_mask}
+plugin.tx_gooffotoboek_pi1.thumb_watermark_bottomimg	= {$plugin.tx_gooffotoboek_pi1.thumb_watermark_bottomimg}
+plugin.tx_gooffotoboek_pi1.thumb_watermark_bottomimg_mask	= {$plugin.tx_gooffotoboek_pi1.thumb_watermark_bottomimg_mask}
+
+plugin.tx_gooffotoboek_pi1.comment_languages	= {$plugin.tx_gooffotoboek_pi1.comment_languages}
+
+plugin.tx_gooffotoboek_pi1.fill_thumb_page	= {$plugin.tx_gooffotoboek_pi1.fill_thumb_page}
+plugin.tx_gooffotoboek_pi1.commentFieldSize 	= {$plugin.tx_gooffotoboek_pi1.commentFieldSize}
+plugin.tx_gooffotoboek_pi1.commentMaxlength 	= {$plugin.tx_gooffotoboek_pi1.commentMaxlength}
+plugin.tx_gooffotoboek_pi1.slideshowLoop	= {$plugin.tx_gooffotoboek_pi1.slideshowLoop}
+plugin.tx_gooffotoboek_pi1.replaceTitleUnderscores	= {$plugin.tx_gooffotoboek_pi1.replaceTitleUnderscores}
+
+
+plugin.tx_gooffotoboek_pi1.useThumbnailTemplate		=	0
+
+plugin.tx_gooffotoboek_pi1.navFast		=	0
+plugin.tx_gooffotoboek_pi1.navFocus		=	5
+plugin.tx_gooffotoboek_pi1.navBigStep	=	10
+plugin.tx_gooffotoboek_pi1.navFocusWrap	=	-| 
+plugin.tx_gooffotoboek_pi1.navFocusWrapCurrent = <b>|</b>
+
+plugin.tx_gooffotoboek_pi1.fe_comment_list 	= {$plugin.tx_gooffotoboek_pi1.fe_comment_list}
+plugin.tx_gooffotoboek_pi1.be_comment_list 	= {$plugin.tx_gooffotoboek_pi1.be_comment_list}
+
+plugin.tx_gooffotoboek_pi1.patchAltTag	= 1
+//plugin.tx_gooffotoboek_pi1.thumbIMoptions	= +profile "*"
+plugin.tx_gooffotoboek_pi1.thumbIMoptions	= 
+plugin.tx_gooffotoboek_pi1.thumbIMsample	= 1
+// plugin.tx_gooffotoboek_pi1.singleIMoptions = +profile "*"
+plugin.tx_gooffotoboek_pi1.singleIMoptions = 
+plugin.tx_gooffotoboek_pi1.CombinedView	= {$plugin.tx_gooffotoboek_pi1.CombinedView}
+plugin.tx_gooffotoboek_pi1.autorotate	= 1
+
+// Basket configuration
+// enable the basket
+plugin.tx_gooffotoboek_pi1.basketEnable=0
+
+// link to the page only containing the basket
+plugin.tx_gooffotoboek_pi1.basketPage=42
+
+// amount of images in the basket
+plugin.tx_gooffotoboek_pi1.basketSize=10
+
+// all,users,be
+plugin.tx_gooffotoboek_pi1.basketUsers=all
+// window target for this basket
+plugin.tx_gooffotoboek_pi1.basketTarget=GoofFotoboekBasket
+
+// hide errors
+plugin.tx_gooffotoboek_pi1.hide_errors=0
+
+plugin.tx_gooffotoboek_pi1.zipcommand=/usr/bin/zip -D ###FILE### ###LIST###
+
+
+// use different start template using a prefix for <prefix>COMBINETPL <prefix>SINGLETPL
+#plugin.tx_gooffotoboek_pi1.alternateRootPrefix=ROOT
+
+
+
+

@@ -1,0 +1,2 @@
+# cat=basic; type=boolean; label=Allow HTML: Allow HTML to be inserted in ColorBox for Content (Warning: Possible security leak)
+allowHtml = 0

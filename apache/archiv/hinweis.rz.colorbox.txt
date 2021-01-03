@@ -1,0 +1,8 @@
+Guenter:
+Breite und Hoehe deaktivieren wird nun per code immer verwendet
+s.
+/www/136017_73765/rp-hosting/4031/5131/typo3cms/projekt1/typo3conf/ext/rzcolorbox/pi2/class.tx_rzcolorbox_pi2.php
+
+dort muss es wieder geandert werden
+
+

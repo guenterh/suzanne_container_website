@@ -1,0 +1,1213 @@
+ *
+
+ {
+
+    margin: 0px;
+
+  padding: 0px;
+
+  list-style:none;
+
+ }
+
+ 
+
+ #alles
+
+ {
+
+   width: 80em;
+
+  margin-left: 30px;
+
+    /*margin-left:auto;
+
+  margin-right:auto;
+
+  text-align:left;*/  
+
+ }
+
+ 
+
+ body
+
+ {
+
+   color: white; 
+
+  background-color: #333333;
+
+    font-size: 62.5%;
+
+  /*font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;*/
+  font-family: Tahoma,Bitstream Vera Sans,Trebuchet MS,Verdana,Arial,Geneva,Helvetica,sans-serif;
+
+  /*text-align:center;*/
+
+}
+
+
+
+h1,h2,h3
+
+{
+
+  margin: 0 auto;
+
+  font-weight: 100;
+
+}
+
+p
+
+{
+
+  margin: 0 auto;
+
+}
+
+
+
+img
+
+{
+
+  border:0px;
+
+  margin: 0 auto;
+
+  padding: 0 auto;
+
+}
+
+
+
+a
+
+{
+
+  color: #999999;  
+  /*text-transform: uppercase;*/
+
+}
+
+
+
+a:hover
+
+{
+
+  color: #ffffff;
+
+  background-color: #cccc00;
+
+  text-decoration: none;
+
+}
+
+
+
+#kopf 
+
+{
+
+  width: 800px;
+
+}
+
+/* evt l�schen
+
+
+
+.abstandLinks
+
+{
+
+  padding-left: 80px;  
+
+}
+
+
+
+
+
+*/
+
+.abstandRechts
+
+{
+
+  margin-right: 20px;
+
+}
+
+.rechts
+
+{
+
+  float: right;
+
+}
+
+
+
+.abstand_oben
+
+{
+
+  margin-top:15px;
+}
+
+
+
+/*Login Form*/
+
+
+
+.zeile {
+
+
+
+  clear: both;
+
+  margin-left: 0.8em;
+
+
+
+}
+
+
+
+.zeile label {
+
+  float: left;
+
+  width: 16%;
+
+  padding-bottom: 6px; 
+
+  font-style:normal;
+
+}
+
+
+
+.eingabe {
+
+  float: left;
+
+  width: 60%;
+
+}
+
+
+
+.eingabe input {
+
+  background-color: #333333;
+
+  margin-top:10px;
+
+  padding:2px;
+
+  border: 1px solid #999999;
+
+  font-weigt: bold;
+
+  color: #ffffff;
+
+}
+
+
+
+/*
+
+#navbalkenSchw
+
+{
+
+  margin: 95px 0px 8px 15px;
+
+  border-top: 1px solid #cccc00;
+
+  border-bottom: 1px solid #cccc00;
+
+  height:33px;
+
+  background-color: #000000;
+
+}  
+
+
+
+#navbalkenrot
+
+{
+
+  margin: 95px 0px 8px 15px;
+
+  border-top: 1px solid #cccc00;
+
+  border-bottom: 1px solid #cccc00;
+
+  height:33px;
+
+  background-color: #990033;  
+
+
+
+}
+
+
+
+#navbalkengrau
+
+{
+
+  margin: 95px 0px 8px 15px;
+
+  border-top: 1px solid #cccc00;
+
+  border-bottom: 1px solid #cccc00;
+
+  height:33px;
+
+  background-color: #666666;
+
+  
+
+}    
+
+
+
+*/
+
+#navbalken
+
+{
+
+  margin: 95px 0px 8px 15px;
+
+  border-top: 1px solid #cccc00;
+
+  border-bottom: 1px solid #cccc00;
+
+  height:33px;
+
+/*  background-color: #666666; */
+
+  
+
+}    
+
+
+
+
+
+#logoErkl
+
+{
+
+  font-family: Arial,Helvetica,sans-serif;
+
+  font-size:11px;
+
+  margin-left:160px;
+
+  margin-top:12px;
+
+  
+
+}
+
+
+
+.nav1stKast
+
+{
+
+  /*position: relative;
+
+  top:-115px;*/
+
+  width: 100px;
+
+  height: 90px;
+
+/*  border: 1px solid #cccc00;*/
+
+  visibility: hidden;
+  
+
+/*  background-color: red; */
+
+  
+
+}
+
+
+
+#nav1stAmt
+
+{
+
+  /*float:left;
+
+  margin-top:10px;
+
+  margin-left:400px;*/
+
+  position: absolute;
+
+  left: 440px;
+
+  top:17; /*mit kopf div
+
+  top:5px;
+
+  /*visibility: hidden; */
+
+/*background-color:green; */ 
+
+}  
+
+
+
+#nav1stPrivat
+
+{
+
+  position: absolute;
+
+  left: 574px;
+
+  top:17; /*mit kopf div
+
+  /*margin-left:550px;
+
+  /*float:left;
+
+  visibility: hidden;*/
+
+    
+
+}  
+
+
+
+#nav1stVerm
+
+{
+
+  position: absolute;
+
+  left: 706px;
+
+  top:17; /*mit kopf div
+
+  /*visibility: hidden;
+
+  margin-left:700px;*/
+
+  
+
+}  
+
+
+
+.nav1stKast a
+
+{
+  font-family: Bitstream Vera Sans,Trebuchet MS,Arial,Verdana,Geneva,Helvetica,sans-serif;
+  text-transform:uppercase;
+  
+  font-size: 11px;
+
+  display:block;
+
+  padding-left: 3px;
+
+  padding-top: 4px;
+
+  text-decoration: none;
+
+  
+
+  
+
+}
+
+ /*
+
+html>body h1 
+
+{
+
+    /*border-color: gray;  /* Farbangleichung an den Internet Explorer  
+
+}
+
+*/
+
+
+
+#logo
+
+{
+
+  position: absolute;
+
+  top: 8px;
+
+  left:60px;
+
+}
+
+
+
+div#links
+
+{
+
+  float: left;
+
+  width: 160px;
+
+  font-size: 11px;
+
+  padding-left:30px;
+
+  height:300px;
+
+}
+
+
+
+ul.nav2nd 
+
+{  
+
+  margin-bottom:110px;
+
+}
+
+  
+
+ul.nav2nd li 
+
+{
+
+  padding-bottom: 11px;
+
+  width: 110px;
+
+  /*padding-bottom: 30px;*/
+
+  
+
+}
+
+
+
+ul.nav2nd a
+
+{
+
+  display: block; /* wenn die breite nicht im a angegeben wird, erzeugt der ie zwischen den elementen einen Zwischenraum, m�chte jedoch keine breite im a angeben, damit breite und r�nder nicht im gleichen style sind box-model-bug / breite muss im a angegeben werden, sonst funktioniert das roll-over nicht*/
+
+  font-family: Bitstream Vera Sans,Trebuchet MS,Arial,Verdana,Geneva,Helvetica,sans-serif;
+  text-transform:uppercase;
+  
+  font-size: 11px;
+
+  padding: 5px 10px 2px 3px;
+
+  border-bottom: 1px solid #cccc00;
+
+  border-left: 1px solid #cccc00;   
+
+  text-decoration: none;
+
+
+
+}
+
+
+
+#zusatzText
+
+{
+
+  border-top: 1px solid #cccc00;
+
+  border-bottom: 1px solid #cccc00;
+
+  padding-top: 10px;
+
+  padding-bottom: 10px;
+
+  margin-top:50px;
+
+  /*margin-bottom:20px;*/
+
+}
+
+
+
+div#bildGross
+
+{
+
+  margin-bottom:120px;
+
+}
+
+
+
+div#rechts 
+
+{
+
+  float:right;
+
+  width:58em;
+
+}
+
+
+
+/*div#rechts p
+
+{
+
+  font-size: 1.2em;
+
+  line-height: 1.2em;
+
+}
+
+
+
+div#rechts h1
+
+{
+
+  font-size: 1.6em;  
+
+  font-weight: 100;
+
+}
+
+*/
+
+/*
+
+* html div#Inhalt 
+
+{
+
+    height: 1em;  /* Workaround gegen den 3-Pixel-Bug des Internet Explorers 
+
+}
+
+*/
+
+
+
+
+
+
+a.augen span
+
+{
+
+  display:none;
+
+}
+
+a.augen:hover
+
+{
+
+  background-color:#333333;
+
+}
+
+
+
+a.augen:hover span
+
+{
+
+  display: block;
+
+  width: 180px;
+
+    
+
+}
+
+
+
+.nav3rdLinkAkt
+
+{
+
+  color: #ffffff;
+
+  /*background-color: #000000;*/
+
+  text-decoration: none;  
+
+  background-color:#333333;    
+
+}
+
+
+
+a.nav3rdLinkAkt:hover
+
+{
+
+  background-color:#333333;    
+
+}
+
+
+
+
+
+ 
+
+div#inhalt
+
+{
+
+  /*margin-bottom:90px;*/ 
+ margin-right:40px; 
+
+}
+
+
+
+div#inhalt a
+
+{
+
+  font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+
+}
+
+
+
+div#einspaltig
+
+{
+
+  padding-left: 80px;
+
+  margin-bottom:20px;
+
+}
+
+
+
+div#linkeSpalte
+
+{
+
+  float:left;
+
+  width: 28em;
+
+  padding-left: 80px;
+
+  margin-bottom:20px
+
+}
+
+
+
+div#rechteSpalte
+
+{
+
+  float: right; 
+
+  width: 28em;
+
+  margin-bottom:20px
+
+}
+
+
+
+div#rechteSpalteBild
+
+{
+
+  float: right; 
+
+  width: 20em;
+
+  margin-bottom:15px
+
+}
+
+
+
+div#rechteSpalteBildBreit
+
+{
+
+  float: right; 
+
+  width: 27em;
+
+  margin-bottom:15px;
+
+}
+
+
+
+div#linkeSpalteBild
+
+{
+
+  float: left; 
+
+  width: 20em;
+
+  padding-left: 80px;
+
+  margin-bottom:15px
+
+}
+
+
+
+div#linkeSpalteBildSchmal
+
+{
+
+  float: left; 
+
+  width: 17em;
+
+  padding-left: 80px;
+
+  margin-bottom:15px;
+
+}
+
+
+
+.titelOhneAbstand
+
+{
+
+  font-size: 1.6em;  
+
+  font-weight: 100;
+
+  margin-top:10px;
+
+}
+
+
+
+
+
+div#inhalt h2 
+
+{
+
+  font-size: 1.6em;  
+
+  font-weight: 100;
+
+  margin-top:80px;
+  margin-bottom:20px;
+
+}
+
+
+
+
+
+div#inhalt h3 
+
+{
+
+  font-size: 1.4em;  
+
+  font-weight: 200;
+
+  margin-top: 1em;
+
+}
+
+
+
+div#inhalt p 
+
+{
+
+    font-size: 1.3em;  
+
+  line-height: 1.3em;
+
+    margin-top: 1.2em;
+
+  
+
+}
+
+
+
+.linksSeite
+
+{
+
+    font-size: 1.3em;  
+
+  line-height: 1.3em;
+
+  margin-bottom: 20px;  
+
+}
+
+
+
+div#rechteSpalte p
+
+{
+
+  font-size: 1.3em;  
+
+  line-height: 1.3em;
+
+    margin-top: 1em;
+
+}
+
+
+
+.fussnote
+
+{
+
+  margin-top: 2.5em;
+
+  margin-bottom:7px;
+
+  padding-left: 80px;
+
+  font-size: 1em;
+
+}
+
+
+
+.fussnote a
+
+{
+
+  font-size: 1.1em;
+
+}
+
+
+
+#kontaktmail
+
+{
+
+  margin-top:10px;
+
+}
+
+#kontaktmail a
+
+{
+
+  font-size: 1.2em;
+
+}
+
+
+
+div#fusszeile 
+
+{
+  font-family: Bitstream Vera Sans,Trebuchet MS,Arial,Verdana,Geneva,Helvetica,sans-serif;
+  /*text-transform:uppercase;*/
+  clear: both;
+  font-size: 11px;
+
+  line-height:20px;
+
+  border-top: 1px solid #cccc00;
+
+  margin-left: 360px;
+
+  margin-bottom: 50px;
+
+  /*margin-top:30px;*/
+
+  height:30px;
+  padding-top: 5px;
+
+}
+
+
+
+
+
+div#fusszeile a.copy
+
+{
+
+  /*font-size: 14px;*/
+
+  /*float:right;*/
+
+  margin-left:20px;
+
+}
+
+
+
+.einruecken
+
+{  clear: both;
+
+  padding-left:50px;
+
+  /*margin-top:30px;*/
+
+}
+
+
+
+/*guenter   start*/
+
+
+
+.nav2ndactamt
+
+{
+
+  background-color: #000000;
+
+  color: #ffffff;
+
+  text-decoration: none;  
+
+}
+
+
+
+.nav2ndactamt a:hover
+
+{
+
+  background-color: #000000;  
+
+}
+
+
+
+
+
+.nav2ndactprivat
+
+{
+
+  background-color: #990033;
+
+  color: #ffffff;
+
+  text-decoration: none;    
+
+}
+
+
+
+.nav2ndactprivat a:hover
+
+{
+
+  background-color: #990033;  
+
+}
+
+
+
+
+
+.nav2ndactverm
+
+{
+
+  background-color: #666666;
+
+  color: #ffffff;
+
+  text-decoration: none;  
+
+}
+
+
+
+.nav2ndactverm a:hover
+
+{
+
+  background-color: #666666;  
+
+}
+
+
+
+
+
+/* **********************************************/
+
+.nav2ndliactamt
+
+{
+
+  
+
+}
+
+
+
+.nav2ndliactamt a:hover
+
+{
+
+  background-color: #000000;  
+
+}
+
+
+
+.nav2ndliactprivat
+
+{
+
+    
+
+}
+
+
+
+.nav2ndliactprivat a:hover
+
+{
+
+  background-color: #990033;  
+
+}
+
+
+
+
+
+.nav2ndliactverm
+
+{
+
+}
+
+
+
+.nav2ndliactverm a:hover
+
+{
+
+  background-color: #666666;  
+
+}
+
+
+
+
+
+div#erklaerung
+
+{
+
+  margin-top:20px;
+
+  /*margin-bottom: 20px;*/
+
+
+
+}
+
+
+
+div#erklaerung h1
+
+{
+
+  font-size: 1.5em;
+
+  font-weight: 100;
+
+}
+
+
+
+/*div#erklaerungText
+
+{
+
+  font-size: 1.1em; war auskommentiert ganze id?? heinz
+
+  line-height: 1.8em;
+
+  /*padding-left: 80px; 
+
+  margin-bottom: 25px;
+
+  
+
+}*/
+
+
+
+div#erklaerungText p
+
+{
+
+  font-size: 1.2em;
+
+  line-height: 1.3em;
+
+  padding-left: 80px; 
+
+  margin-bottom: 25px;}
+
+
+
+
+
+/*guenter   end*/
+
+div.tx-gooffotoboek-pi1 h1
+{
+  font-size: 1.4em;  
+  font-weight: 100;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.iAbstand
+{
+  margin-bottom: 15px;
+}

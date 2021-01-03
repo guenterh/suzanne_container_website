@@ -1,0 +1,69 @@
+plugin.rzcolorbox {
+
+# cat=rzcolorbox/enable/010; type=boolean; label=Enable jQuery globally;
+enableGlobal = 0
+
+# cat=rzcolorbox/enable/020; type=boolean; label=jQuery noConflict mode;
+noConflict = 0
+
+# cat=rzcolorbox/enable/030; type=boolean; label=Deactivate ColorBox: This deactivates the ColorBox and doesn't insert the JS and CSS anymore;
+deactivate = 0 
+
+# cat=rzcolorbox/enable/040; type=boolean; label=Use {$styles.content.imgtext.maxW};
+useWidth = 0
+
+# cat=rzcolorbox/enable/050; type=boolean; label=Enable tt_news Single View: This enables the ColorBox for tt_news Images in single view;
+ttnewsSingle = 0 
+
+# cat=rzcolorbox/enable/060; type=boolean; label=Enable tt_news List View: This enables the ColorBox for tt_news Images in list view;
+ttnewsList = 0 
+
+# cat=rzcolorbox/enable/070; type=boolean; label=Enable tt_news Latest View: This enables the ColorBox for tt_news Images in latest view;
+ttnewsLatest = 0 
+
+# cat=rzcolorbox/file/010; type=string; label=Path to CSS File: (usage like fileadmin/templates/css/styles.css - the images folder has to be in the same directory);
+cssPath = 
+
+# cat=rzcolorbox/file/020; type=string; label=Path to Locallang File: Example - typo3conf/rzcolorbox/locallang.xml;
+lllPath = typo3conf/ext/rzcolorbox/locallang.xml
+  
+# cat=rzcolorbox/option/010; type=string; label=Opacity: Set the opacity level (usage like 0.85);
+opacity = 0.85  
+
+# cat=rzcolorbox/option/020; type=string; label=Rel: Set the rel name;
+rel = rzcolorbox
+
+# cat=rzcolorbox/option/030; type=string; label=Inner Width: Example: "50%", "500px", or 500;
+innerWidth = 
+
+# cat=rzcolorbox/option/040; type=string; label=Inner Height: Example: "50%", "500px", or 500;
+innerHeight = 
+
+# cat=rzcolorbox/option/050; type=string; label=Initial Width: Set the initial width, prior to any content being loaded;
+initialWidth = 
+
+# cat=rzcolorbox/option/060; type=string; label=Initial Height: Set the initial height, prior to any content being loaded;
+initialHeight = 
+             
+# cat=rzcolorbox/option/070; type=options[elastic,fade,none]; label=Transition: Can be set to "elastic", "fade", or "none";
+transition = fade      
+
+# cat=rzcolorbox/option/080; type=string; label=Speed: Sets the speed of the fade and elastic transitions, in milliseconds;
+speed = 350      
+
+# cat=rzcolorbox/option/090; type=string; label=Slideshow Speed: Sets the speed of the slideshow, in milliseconds;
+slideshowSpeed = 2500
+
+# cat=rzcolorbox/option/100; type=boolean; label=Overlay Close: If false, disables closing ColorBox by clicking on the background overlay;
+overlayClose = 1
+
+# cat=rzcolorbox/option/110; type=boolean; label=ESC Key: If false, will disable closing colorbox on esc key press;
+escKey = 1
+
+# cat=rzcolorbox/option/120; type=boolean; label=Arrow Key: If false, will disable the left and right arrow keys from navigating between the items in a group;
+arrowKey = 1
+
+# cat=rzcolorbox/option/130; type=boolean; label=Loop: If false, will disable the ability to loop back to the beginning of the group when on the last element;
+loop = 1
+                                
+}

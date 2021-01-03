@@ -1,0 +1,14 @@
+.selectedns {
+    background:#CCC;
+}
+
+.mediafolders {float:left;}
+
+.mediafiles{float:right;}
+
+.mediaupload {clear:both;}
+.mediacreatedir {clear:both;}
+.mediadelfile {clear:both;}
+.mediadelnamespace {clear:both;}
+.mediahr {    clear:both;}
+// Setup VIM: ex: et ts=4 enc=utf-8 :

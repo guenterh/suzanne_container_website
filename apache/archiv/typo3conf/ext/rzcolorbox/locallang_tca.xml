@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+    <meta type="array">
+        <type>database</type>
+        <description>Language labels for extension 'rzcolorbox' forms</description>
+    </meta>
+    <data type="array">
+        <languageKey index="default" type="array">
+            <label index="rzcolorbox.pi_flexform.sheet_general">General</label>
+            <label index="rzcolorbox.pi_flexform.sheet_options">Options</label>
+            <label index="rzcolorbox.pi_flexform.ce">Content Elements</label>
+            <label index="rzcolorbox.pi_flexform.text">Text</label>
+            <label index="rzcolorbox.pi_flexform.template">Template</label>
+            <label index="rzcolorbox.pi_flexform.width">Width (Example: "100%", "500px", or 500)</label>
+            <label index="rzcolorbox.pi_flexform.height">Height (Example: "100%", "500px", or 500)</label>
+            <label index="rzcolorbox.pi_flexform.deactivate_width">Deactivate Width (the width will be as wide as content)</label>
+            <label index="rzcolorbox.pi_flexform.deactivate_height">Deactivate Height (the height will be as high as the content)</label>
+            <label index="rzcolorbox.pi_flexform.type">Type</label>
+            <label index="rzcolorbox.pi_flexform.html">HTML</label>
+            <label index="rzcolorbox.pi_flexform.iframe_select">iframe</label>
+            <label index="rzcolorbox.pi_flexform.inline_select">inline</label>
+            <label index="rzcolorbox.pi_flexform.html_select">html</label>
+            <label index="rzcolorbox.pi_flexform.link">Link</label>
+            <label index="rzcolorbox.pi_flexform.open">Open (ColorBox will automatically open)</label>
+            <label index="rzcolorbox.pi_flexform.transition">Transition</label>
+            <label index="rzcolorbox.pi_flexform.transition_elastic">elastic</label>
+            <label index="rzcolorbox.pi_flexform.transition_fade">fade</label>
+            <label index="rzcolorbox.pi_flexform.transition_none">none</label>
+            <label index="rzcolorbox.pi_flexform.opacity">Opacity (Example: 0.85)</label>
+            <label index="rzcolorbox.pi_flexform.linktext">Linktext</label>
+            <label index="rzcolorbox.pi_flexform.linktext_type">Link type</label>
+            <label index="rzcolorbox.pi_flexform.linktext_image">Link image</label>
+            <label index="rzcolorbox.pi_flexform.linktext_image_width">Image width</label>
+            <label index="rzcolorbox.pi_flexform.image">Image</label>
+            <label index="rzcolorbox.pi_flexform.text">Text</label>
+        </languageKey>
+        <languageKey index="de" type="array">
+            <label index="rzcolorbox.pi_flexform.sheet_general">Allgemein</label>
+            <label index="rzcolorbox.pi_flexform.sheet_options">Optionen</label>
+            <label index="rzcolorbox.pi_flexform.ce">Inhaltselemente</label>
+            <label index="rzcolorbox.pi_flexform.text">Text</label>
+            <label index="rzcolorbox.pi_flexform.template">Template</label>
+            <label index="rzcolorbox.pi_flexform.width">Breite (Beispiel: "100%", "500px", or 500)</label>
+            <label index="rzcolorbox.pi_flexform.height">Höhe (Beispiel: "100%", "500px", or 500)</label>
+            <label index="rzcolorbox.pi_flexform.deactivate_width">Breite deaktivieren (Breite passt sich Inhalt an)</label>
+            <label index="rzcolorbox.pi_flexform.deactivate_height">Höhe deaktivieren (Höhe passt sich Inhalt an)</label>
+            <label index="rzcolorbox.pi_flexform.type">Typ</label>
+            <label index="rzcolorbox.pi_flexform.html">HTML</label>
+            <label index="rzcolorbox.pi_flexform.iframe_select">iframe</label>
+            <label index="rzcolorbox.pi_flexform.inline_select">inline</label>
+            <label index="rzcolorbox.pi_flexform.html_select">html</label>
+            <label index="rzcolorbox.pi_flexform.link">Link</label>
+            <label index="rzcolorbox.pi_flexform.open">Öffnen (ColorBox öffnet sich bei Aufruf der Seite automatisch)</label>
+            <label index="rzcolorbox.pi_flexform.transition">Transition</label>
+            <label index="rzcolorbox.pi_flexform.transition_elastic">elastic</label>
+            <label index="rzcolorbox.pi_flexform.transition_fade">fade</label>
+            <label index="rzcolorbox.pi_flexform.transition_none">none</label>
+            <label index="rzcolorbox.pi_flexform.opacity">Durschscheinen (Beispiel: 0.85)</label>
+            <label index="rzcolorbox.pi_flexform.linktext">Linktext</label>
+            <label index="rzcolorbox.pi_flexform.linktext_type">Linktyp</label>
+            <label index="rzcolorbox.pi_flexform.linktext_image">Link Bild</label>
+            <label index="rzcolorbox.pi_flexform.linktext_image_width">Bildbreite</label>
+            <label index="rzcolorbox.pi_flexform.image">Bild</label>
+            <label index="rzcolorbox.pi_flexform.text">Text</label>            
+        </languageKey>
+        <languageKey index="fr" type="array">
+            <label index="rzcolorbox.pi_flexform.sheet_general">Général</label>
+            <label index="rzcolorbox.pi_flexform.sheet_options">Options</label>
+            <label index="rzcolorbox.pi_flexform.ce">Elements de contenu</label>
+            <label index="rzcolorbox.pi_flexform.text">Texte</label>
+            <label index="rzcolorbox.pi_flexform.template">Gabarit</label>
+            <label index="rzcolorbox.pi_flexform.width">Largeur (Exemple: "100%", "500px", or 500)</label>
+            <label index="rzcolorbox.pi_flexform.height">Hauteur (Example: "100%", "500px", or 500)</label>
+            <label index="rzcolorbox.pi_flexform.deactivate_width">Pas de largeur fixe (celle-ci s’adaptera au contenu)</label>
+            <label index="rzcolorbox.pi_flexform.deactivate_height">Pas de hauteur fixe (celle-ci s’adaptera au contenu)</label>
+            <label index="rzcolorbox.pi_flexform.type">Type</label>
+            <label index="rzcolorbox.pi_flexform.html">HTML</label>
+            <label index="rzcolorbox.pi_flexform.iframe_select">iframe</label>
+            <label index="rzcolorbox.pi_flexform.inline_select">en ligne</label>
+            <label index="rzcolorbox.pi_flexform.html_select">html</label>
+            <label index="rzcolorbox.pi_flexform.link">Lien</label>
+            <label index="rzcolorbox.pi_flexform.open">Ouvrir (la ColorBox s’ouvrira automatiquement)</label>
+            <label index="rzcolorbox.pi_flexform.transition">Transition</label>
+            <label index="rzcolorbox.pi_flexform.transition_elastic">élastique</label>
+            <label index="rzcolorbox.pi_flexform.transition_fade">fondu</label>
+            <label index="rzcolorbox.pi_flexform.transition_none">aucun</label>
+            <label index="rzcolorbox.pi_flexform.opacity">Opacité (Exemple: 0.85)</label>
+            <label index="rzcolorbox.pi_flexform.linktext">Texte du lien</label>
+            <label index="rzcolorbox.pi_flexform.linktext_type">Type du lien</label>
+            <label index="rzcolorbox.pi_flexform.linktext_image">Image du lien</label>
+            <label index="rzcolorbox.pi_flexform.linktext_image_width">Largeur image</label>
+            <label index="rzcolorbox.pi_flexform.image">Image</label>
+            <label index="rzcolorbox.pi_flexform.text">Texte</label>              
+        </languageKey>
+        <languageKey index="nl" type="array">
+            <label index="rzcolorbox.pi_flexform.sheet_general">Algemeen</label>
+            <label index="rzcolorbox.pi_flexform.sheet_options">Opties</label>
+            <label index="rzcolorbox.pi_flexform.ce">Content Elementen</label>
+            <label index="rzcolorbox.pi_flexform.text">Tekst</label>
+            <label index="rzcolorbox.pi_flexform.template">Template</label>
+            <label index="rzcolorbox.pi_flexform.width">Breedte (Voorbeeld: "100%", "500px", of 500)</label>
+            <label index="rzcolorbox.pi_flexform.height">Hoogte (Voorbeeld: "100%", "500px", of 500)</label>
+            <label index="rzcolorbox.pi_flexform.deactivate_width">Deactiveer breedte (de breedte wordt zo groot als de content)</label>
+            <label index="rzcolorbox.pi_flexform.deactivate_height">Deactiveer hoogte (de hoogte wordt zo groot als de content)</label>
+            <label index="rzcolorbox.pi_flexform.type">Type</label>
+            <label index="rzcolorbox.pi_flexform.html">HTML</label>
+            <label index="rzcolorbox.pi_flexform.iframe_select">iframe</label>
+            <label index="rzcolorbox.pi_flexform.inline_select">inline</label>
+            <label index="rzcolorbox.pi_flexform.html_select">html</label>
+            <label index="rzcolorbox.pi_flexform.link">Link</label>
+            <label index="rzcolorbox.pi_flexform.open">Open (ColorBox opent automatisch)</label>
+            <label index="rzcolorbox.pi_flexform.transition">Transition</label>
+            <label index="rzcolorbox.pi_flexform.transition_elastic">elastisch</label>
+            <label index="rzcolorbox.pi_flexform.transition_fade">fade</label>
+            <label index="rzcolorbox.pi_flexform.transition_none">geen</label>
+            <label index="rzcolorbox.pi_flexform.opacity">Opacity (Voorbeeld: 0.85)</label>
+            <label index="rzcolorbox.pi_flexform.linktext">Link Tekst</label>
+            <label index="rzcolorbox.pi_flexform.linktext_type">Linktype</label>
+            <label index="rzcolorbox.pi_flexform.linktext_image">Link Beeld</label>
+            <label index="rzcolorbox.pi_flexform.linktext_image_width">Beeld breedte</label>
+            <label index="rzcolorbox.pi_flexform.image">Beeld</label>
+            <label index="rzcolorbox.pi_flexform.text">Tekst</label>              
+        </languageKey>
+        <languageKey index="dk" type="array">
+            <label index="rzcolorbox.pi_flexform.sheet_general">Generel</label>
+            <label index="rzcolorbox.pi_flexform.sheet_options">Optioner</label>
+            <label index="rzcolorbox.pi_flexform.ce">Indholdselementer</label>
+            <label index="rzcolorbox.pi_flexform.text">Tekst</label>
+            <label index="rzcolorbox.pi_flexform.template">Skabelon</label>
+            <label index="rzcolorbox.pi_flexform.width">Bredde (Eksempel: "100%", "500px", eller 500)</label>
+            <label index="rzcolorbox.pi_flexform.height">Højde (Eksempel: "100%", "500px", eller 500)</label>
+            <label index="rzcolorbox.pi_flexform.deactivate_width">Deaktivere bredde (Bredden tilpasser sig indholdet)</label>
+            <label index="rzcolorbox.pi_flexform.deactivate_height">Deaktivere højde (Højden tilpasser sig indholdet)</label>
+            <label index="rzcolorbox.pi_flexform.type">Typ</label>
+            <label index="rzcolorbox.pi_flexform.html">HTML</label>
+            <label index="rzcolorbox.pi_flexform.iframe_select">iframe</label>
+            <label index="rzcolorbox.pi_flexform.inline_select">inline</label>
+            <label index="rzcolorbox.pi_flexform.html_select">html</label>
+            <label index="rzcolorbox.pi_flexform.link">Link</label>
+            <label index="rzcolorbox.pi_flexform.open">Åben (ColorBox åbner sig automatisk)</label>
+            <label index="rzcolorbox.pi_flexform.transition">Transition</label>
+            <label index="rzcolorbox.pi_flexform.transition_elastic">elastic</label>
+            <label index="rzcolorbox.pi_flexform.transition_fade">fade</label>
+            <label index="rzcolorbox.pi_flexform.transition_none">none</label>
+            <label index="rzcolorbox.pi_flexform.opacity">Gennemsigtighed (Eksempel: 0.85)</label>
+            <label index="rzcolorbox.pi_flexform.linktext">Linktekst</label>
+            <label index="rzcolorbox.pi_flexform.linktext_type">Linktyp</label>
+            <label index="rzcolorbox.pi_flexform.linktext_image">Link image</label>
+            <label index="rzcolorbox.pi_flexform.linktext_image_width">Image bredde</label>
+            <label index="rzcolorbox.pi_flexform.image">Image</label>
+            <label index="rzcolorbox.pi_flexform.text">Tekst</label>              
+        </languageKey>
+    </data>
+</T3locallang>  
+

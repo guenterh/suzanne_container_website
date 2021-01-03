@@ -1,0 +1,245 @@
+20040606 - 1.2.4
+- started with this changelog.
+- disable_dircomment option disables only the link but is functional enough I think.
+- reverse sort options for / (root), all other dirs and files.
+- added png to the 'supported' image files.
+- thumbnails split into pages and added thumb_rows.
+- included simple offline file comment utility for windows (very beta!) fbcomment.exe in the extra folder
+- clearing an commentfile will result in removing it (@unlink)
+- created _teaser.jpg option (probably needs a template part)
+
+20040607 - 1.4.0
+- had a bit of a fight with the repository, that's why the version jumps a bit
+- psd, ai and pdf support. all extentions in ['GFX']['imagefile_ext'] .
+- empty exif information has no wrap anymore.
+
+20040608 - 1.4.0
+- teaser now clickable
+- found a realy old url generation bug // in root images.
+- thumbnails  in directories with less than one page always start with the first.
+- the last thumbnail page is a full one if possible.
+
+20040612 - 1.4.0
+- path options in select plugin part.
+- help options.
+- removed plugin -> page part.
+- thumbpages changed (tnx Tilfried)
+- removed unused image magick options
+
+20040617 - 1.4.1
+- test for existence of t3lib_extMgm::addLLrefForTCAdescr for typo3 3.5 users
+- htmlspecialchars used for url, strange a complete string generator function still needs it.
+- removed the alt tag from the link around the picture
+- xhtml compliant /> in the preload tags and attributes in the template.
+- This Page Is Valid XHTML 1.0 Transitional! *yeah* show, thumb, comment and comment dir
+
+20040618 - 1.4.1
+- changed template to div's
+- added wrappings for comments and their titles
+
+20040630 - 1.4.1
+- got rid of the database "bug" (whitespace)
+- included a non table template
+
+20040704 - 1.5.1
+- url error in comment mode (double htmlspecialchars)
+
+20040730 - 1.5.1
+- first thumb was never shown.
+- disabled the experimental backend
+
+20040803 - 1.5.1
+- anchor option (Michael Vogel)
+- option to show filenames in thumbnailview
+
+20040912 - 1.6.1
+- slideshow
+- exif comment (start)
+- orientation in wrap (not working yet).
+
+20041025 - 1.6.1
+- exif comment multirow
+- filename in template for singleview
+- take comments put in the photo by XP (title and comments)
+- orientation working as square, landscape, portret and empty (except for pdf's and psd's)
+
+20050222 - 1.6.2
+- createurl('') did not work in PHP5, sending a dummy array now.
+
+20050308 - 1.6.4
+- watermark option with mask, bottom image and bottom image mask.
+- added languages
+
+20050315 - 1.6.5
+- fixed a bug in the urlcreation in comment mode.
+- fixed a typo in the ts_constants
+
+20050326 - 1.7.0
+- added german translation
+- converted the old linkcreation to pi_linkTP
+- the comment textarea would double the cariage returns.
+
+20050328 - 1.7.0
+- cleanup of wrapcode, commentcode.
+- added comments in the source
+- added createlink function in addition to createurl function (do anchors work otherwise?)
+
+20050403 - 1.7.2
+- Brasilian language was added
+
+20050418 - 1.7.2
+- bugfix by Franz Ripfel 
+- reintroduced the multilanguage comment file.
+- the comment editor is now multilanguage
+
+20050425 - 1.7.2
+- enable link for registered user option (only usefull with no_full option)
+- arount => around
+- danish language
+
+20050510 - 1.7.3
+- thumbnail pages are not filled out automatic, now the pages have a fixed start (thumbnailsPerPage * page)
+
+20050523 - 1.7.4
+- temporary patch for the xhtml img border="0" 'bug', This Page Is Valid XHTML 1.0 Strict! 8-)
+- accesskeys next=+, prev=- slide=* home=h up=u thumbs=t
+- comment array failed for directory comments
+- thumbnailid ###thumbid### (like ###orientation###) results in r0c0 -> r[n]c[m]
+- thumbnail watermark options
+
+20050601 - 1.7.4
+- thumbnail browse bug (srcdir went blank)
+- replace slashes by || to avoid problems in srcdir and realurl.
+- thumbnail link points to the first photo on that page when fillthumbpage=0 (Thnx Chris)
+- extended navigation ## #FASTNAV# ## 
+
+20050602 - 1.7.4
+- thumbnail template implemented (could be default in the future) with filename, filesize, commentheader, orientation and
+  thumbid.
+
+20050603 - 1.7.4
+- slideshow ended one photo early
+- error when using slideshow and realurl
+
+20050606 - 1.7.4
+- external exif fix for spaces (Sven Flossmann)
+- support for .access files (Sven Flossmann)
+  Place an .access file in the (sub)directory with granted uid's of the group per line. comments starts with a #
+
+20050729 - 1.7.5
+- applied russian translation by Semyon Vyskubov (Poizon)
+- restrictions for comments. backend users and frontend users. used the goof_fotobook_fix1
+
+20050731 - 1.7.5
+- fixed array bugs for PHP5.
+- included the new translations for fi and br.
+20050801 - 1.7.7
+- slideshowLoop
+- slideshow iteration problem
+
+20050802 - 1.7.7
+- patch for multibyte alt tags (plugin.tx_gooffotoboek_pi1.patchAltTag = 1)
+
+20050912 - 1.7.7
+- reversed the changelog
+- thumbnails sample faster (Sven Flossmann)
+	plugin.tx_gooffotoboek_pi1.thumbIMsample	= 1
+- auto rotate option (Sven Flomann)
+	plugin.tx_gooffotoboek_pi1.autorotate	= 1
+- Image Magick options
+	plugin.tx_gooffotoboek_pi1.thumbIMoptions	=  
+	plugin.tx_gooffotoboek_pi1.singleIMoptions =  
+- combined view 
+	plugin.tx_gooffotoboek_pi1.CombinedView	= 0
+
+20050920 - 1.7.7
+- ## #PATH_TO_ORIGINAL# ## relative path to the original image (req. Sebastian)
+- ## #PATH_TO_SINGLE# ## relative path to the resized image (req. Sebastian)
+- fixed getimagesize error.
+
+20051027 - 1.7.7
+- ###DIRPATH### Create a RootLine from the current image categorie (Added by j.parree@team-networks.de)
+- fixed the combinedview in the tables template.
+- tested with graphicsmagic, but no watermark
+- sendcard workaround in the manual.
+
+20060313 - 1.7.9
+- created basket support (only for linux right now)
+- script errors will be placed in a red div and can be hidden plugin.tx_gooffotoboek_pi1.hide_errors=1
+
+20060425 - 1.7.9
+- new french translation 
+
+20060502 - 1.7.9
+- slideshow absolute url problem for non realurl implementations when installed in a subdirectory
+
+20060730 - 1.7.9
+- exif errors on some jpegs and gifs.
+
+20060821 - 1.7.10
+- changed the sql to get rid of the update error.
+- the plugin is now in the "new content" list.
+- Kevin Renskers added pages navigation with ###PAGES###
+	plugin.tx_gooffotoboek_pi1.pageNav	= 1
+	plugin.tx_gooffotoboek_pi1.pageNavJumping = 1
+	plugin.tx_gooffotoboek_pi1.pageNavJumpingBeforeAndAfter =1
+- disabled the basket sql in ext_tables.php . there is a pid error?!?
+
+20060824 - 1.7.10
+- skip .DAV directories.
+
+20060911 - 1.7.11
+- fix for "c"anchors for typo3 4.0 and above
+- fix for realurl for installations in subdirectories.
+
+20060912 - 1.7.11
+- thumbIMoption was used in single view, changed in singleIMoption 
+- +profile "*" as default for generated IM options
+
+20061023 - 1.7.11
+- alternate root template => plugin.tx_gooffotoboek_pi1.alternateRootPrefix
+
+20070120 - 1.7.11
+- changed default date to 0000-00-00 00:00:00 so the sql warnings are gone.
+- removed not null for 3.8.x
+- clear basket tags when basket is disabled
+- createLink now has 1 as default
+
+20070126 - 1.7.12
+- changed datetime to timestamp
+- changed fe_user['id'] to fe_user->id 
+
+20070208 - 1.7.12
+- replaceTitleUnderscores controls the behaviour of underscores in directory
+names. 
+
+20070525 - 1.7.12
+- implemented ###PHOTO_COUNT### and ###PHOTO_NR### for template use
+(www.esser.de)
+
+20070603 - 1.7.12
+- ###PHOTO_STRING### (image 1 of 10 images)
+- changed PHOTO_[NR|COUNT|STRING] to COUNT_*
+- +profile "*" removed as default for generated IM options, due to empty images.
+
+20080108 - 1.7.13
+- added Stefan Osterlitz' patch for empty page navigation.
+- added accessability patch from www.bedrijvenweb.nl (alt tags for disabled navigation) 
+
+20080531 - 1.7.14 
+- serialize/unserialize solution for some PHP versions (noted by Thomas Gemperle)
+- orgiginal typo.
+
+20081201 - 1.7.14
+- another aproach to serialize problem
+- ukraine translation.
+- sort order changed to alphabetic.
+
+20090808 - 1.7.15
+- fixed a path traversal problem
+
+20091226 - 1.7.15
+- the new path traversal fix failed for multi level structures.
+
+20100815 - 1.7.15
+- replaced deprecated ereg_replace.

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+    <meta type="array">
+        <description></description>
+        <type></type>
+        <csh_table></csh_table>
+        <labelContext type="array">
+        </labelContext>
+    </meta>
+    <data type="array">
+        <languageKey index="default" type="array">
+            <label index="tx_gooffotoboek_function.description">Choose the function, remember that comment has write rights!</label>
+            <label index="tx_gooffotoboek_path.description">This is the path to the images.&lt;br /&gt; Use relative paths if possible.</label>
+            <label index="tx_gooffotoboek_path.details">&lt;b&gt;Path&lt;/b&gt; The path to the images. If possible use a relative path from your Typo3 site index. This option will overrule the settings in the template constant editor </label>
+            <label index="tx_gooffotoboek_webpath.description">When empty the path setting is used. Leave empty if possible.</label>
+            <label index="tx_gooffotoboek_webpath.details">&lt;b&gt;Webpath&lt;/b&gt; This one is only needed when the path is set to an absolute path or virtual directories are used. When empty the path setting is used.</label>
+        </languageKey>
+        <languageKey index="dk" type="array">
+        </languageKey>
+        <languageKey index="de" type="array">
+            <label index="tx_gooffotoboek_function.description">Wähle eine Funktion; 
+vorsicht, der Kommentar hat Schreibrechte!</label>
+            <label index="tx_gooffotoboek_path.description">Pfad zu den Bildern.&lt;br 
+/&gt; Gib den relativen Pfad ein, falls möglich!.</label>
+            <label index="tx_gooffotoboek_path.details">&lt;b&gt;Pfad&lt;/b&gt; Der Pfad zu den 
+Bildern. Relativ zum Index von Typo3. Diese Option überschreibt die 
+Einstellung aus dem Template Konstanten Editor.</label>
+            <label index="tx_gooffotoboek_webpath.description">Wenn dieses Feld leer 
+ist wird der Pfad verwendet.</label>
+            <label index="tx_gooffotoboek_webpath.details">&lt;b&gt;Webpfad&lt;/b&gt; Dieses Feld 
+wird nur gebraucht, wenn Sie unter Pfad einen absoluten Pfad eingegeben 
+haben, oder ein virtuelles Verzeichnis verwenden. Wenn Sie dieses Feld 
+leer lassen wird der Pfad verwendet.</label>
+        </languageKey>
+        <languageKey index="no" type="array">
+        </languageKey>
+        <languageKey index="it" type="array">
+        </languageKey>
+        <languageKey index="fr" type="array">
+        </languageKey>
+        <languageKey index="es" type="array">
+        </languageKey>
+        <languageKey index="nl" type="array">
+            <label index="tx_gooffotoboek_function.description">Kies de funktie. LET OP: De commentaar funktie heeft schrijfrechten!</label>
+            <label index="tx_gooffotoboek_path.description">Dit is het pad naar de foto's.&lt;br /&gt; Gebruik relatieve paden indien mogelijk.</label>
+            <label index="tx_gooffotoboek_path.details">&lt;b&gt;Path&lt;/b&gt; Dit is het pad naar de foto's. Maak indien mogelijk gebruik van relatieve paden vanaf je typo3 site index. Deze optie heeft voorrang op de padopties in het template-&gt;constant editor. </label>
+            <label index="tx_gooffotoboek_webpath.description">Wanneer leeg zal de pad optie gebruikt worden . Leeg laten indien mogelijk.</label>
+            <label index="tx_gooffotoboek_webpath.details">&lt;b&gt;Webpath&lt;/b&gt; Dit is alleen nodig wanneer het path absoluut is is of wanneer er gebruik gemaakt wordt van virtuele directories.</label>
+        </languageKey>
+        <languageKey index="cz" type="array">
+        </languageKey>
+        <languageKey index="pl" type="array">
+        </languageKey>
+        <languageKey index="si" type="array">
+        </languageKey>
+        <languageKey index="fi" type="array">
+            <label index="tx_gooffotoboek_function.description">Valitse toiminto, muista että kommentilla on kirjoitusoikeus!</label>
+            <label index="tx_gooffotoboek_path.description">Tämä on kuvien tiedostopolku.&lt;br/&gt;Käytä relatiivista polkua jos mahdollista.</label>
+            <label index="tx_gooffotoboek_path.details">&lt;b&gt;Polku&lt;/b&gt;Kuvien tiedostopolku.Käytä relatiivista polkua jos mahdollista Typo3 sivuston indeksistä. Tämävaihtoehto kirjoittaayli asetukset mallinteen vakio muokkauksesta.</label>
+            <label index="tx_gooffotoboek_webpath.description">Jos tyhjä, polkuasetusta käytetään. Jätä tyhjäksi jos mahdollista.</label>
+            <label index="tx_gooffotoboek_webpath.details">&lt;b&gt;Webpolku&lt;/b&gt;Tätä tarvitaan ainoastaan jospolkuasetus on absoluuttinen tai hakemistotovat virtuaalisia. Jos tyhjä, tätä asetusta käytetään.</label>
+        </languageKey>
+        <languageKey index="tr" type="array">
+        </languageKey>
+        <languageKey index="se" type="array">
+            <label index="tx_gooffotoboek_function.description">Välj funktion, kom ihåg att kommentarer har skrivrättigheter!</label>
+            <label index="tx_gooffotoboek_path.description">Detta är sökvägen till bilderna.&lt;br /&gt; Använd relativa sökvägar där det är möjligt.</label>
+            <label index="tx_gooffotoboek_path.details">&lt;b&gt;Sökväg&lt;/b&gt;  Platsen där bilderna finns. Använd om möjligt en relativ sökväg från din Typo3 rot. Denna option kör över inställningen i mallens konstanteditor</label>
+            <label index="tx_gooffotoboek_webpath.description">Om den lämnas tom används sökvägsinställningen. Lämna tom alltid då det är möjligt.</label>
+            <label index="tx_gooffotoboek_webpath.details">&lt;b&gt;Websökväg&lt;/b&gt; Denna behövs endast då sökvägen är inställd mot en absolut sökväg eller virtuella kataloger används.  Om den lämnas tom används sökvägsinställningen.</label>
+        </languageKey>
+        <languageKey index="pt" type="array">
+        </languageKey>
+        <languageKey index="ru" type="array">
+            <label index="tx_gooffotoboek_function.description">Выберите функцию, не забывая о комментариях!</label>
+            <label index="tx_gooffotoboek_path.description">Путь к изображениям.&lt;br /&gt;По возможности используйте относительные пути.</label>
+            <label index="tx_gooffotoboek_path.details">&lt;b&gt;Путь&lt;/b&gt; Путь к изображениям. По возможности используйте относительные пути, начиная с корневой директории Typo3. Эта опция может быть переназначена через редактор констант (Constant Editor).</label>
+            <label index="tx_gooffotoboek_webpath.description">Если поле не заполнено, то используется обычный путь. По возможности не заполняйте.</label>
+            <label index="tx_gooffotoboek_webpath.details">&lt;b&gt;Веб-путь&lt;/b&gt; Существует возможность указания абсолютного пути к виртуальной директории, откуда будут использоваться изображения. Если не заполнить это поле, то будет задействован обычный путь.</label>
+        </languageKey>
+        <languageKey index="ro" type="array">
+        </languageKey>
+        <languageKey index="ch" type="array">
+        </languageKey>
+        <languageKey index="sk" type="array">
+        </languageKey>
+        <languageKey index="lt" type="array">
+        </languageKey>
+        <languageKey index="is" type="array">
+        </languageKey>
+        <languageKey index="hr" type="array">
+        </languageKey>
+        <languageKey index="hu" type="array">
+            <label index="tx_gooffotoboek_function.description">Válasszunk műveletet!</label>
+            <label index="tx_gooffotoboek_path.description">Ez a képek útvonala. &lt;br /&gt;Használj relatív útvonalat, ha lehetséges.</label>
+            <label index="tx_gooffotoboek_path.details">&lt;b&gt;Útvonal&lt;/b&gt; A képek útvonala. használjunk relatív útvonalat, ha lehet.</label>
+            <label index="tx_gooffotoboek_webpath.description">Ha üres, az útvonal beálításokat használjuk. Hagyjuk üresen, ha lehet.</label>
+            <label index="tx_gooffotoboek_webpath.details">&lt;b&gt;Webútvonal&lt;/b&gt; Ez csak akkor kell, ha az útvonal abszolút van megadva vagy virtuális könyvtárakat használunk. Ha üres, az útvonal beállításokat használjuk.</label>
+        </languageKey>
+        <languageKey index="gl" type="array">
+        </languageKey>
+        <languageKey index="th" type="array">
+        </languageKey>
+        <languageKey index="gr" type="array">
+        </languageKey>
+        <languageKey index="hk" type="array">
+        </languageKey>
+        <languageKey index="eu" type="array">
+        </languageKey>
+        <languageKey index="bg" type="array">
+        </languageKey>
+        <languageKey index="br" type="array">
+            <label index="tx_gooffotoboek_function.description">Escolha a função, lembre-se que comentário tem permissões de escrita!</label>
+            <label index="tx_gooffotoboek_path.description">Esse é o caminho para as imagens. &lt;br /&gt; Use caminhos relativos se possivel.</label>
+            <label index="tx_gooffotoboek_path.details">&lt;b&gt;Caminho&lt;/b&gt; O caminho para as imagens. Se possível use um caminho relativo à página inicial do seu Typo3. Essa opção encobrirá as configurações do editor de constantes de modelo.</label>
+            <label index="tx_gooffotoboek_webpath.description">Quando vazia, a configuração de caminho é usada. Deixe vazia se possível.</label>
+            <label index="tx_gooffotoboek_webpath.details">&lt;b&gt;Caminho Web&lt;/b&gt; Esse é apenas necessário quando o caminho é configurado para um caminho absoluto ou quando é usado diretório virtual. Deixe vazio quando a configuração de caminho é usada.</label>
+        </languageKey>
+        <languageKey index="et" type="array">
+        </languageKey>
+        <languageKey index="ar" type="array">
+        </languageKey>
+        <languageKey index="he" type="array">
+        </languageKey>
+	<languageKey index="ua" type="array">
+            <label index="tx_gooffotoboek_function.description">Виберіть функцію, не забуваючи про коментарі!</label>
+            <label index="tx_gooffotoboek_path.description">Шлях до зображень.&lt;br /&gt;По можливості використовуйте відносні шляхи.</label>
+            <label index="tx_gooffotoboek_path.details">&lt;b&gt;Шлях&lt;/b&gt; Шлях до зображень. По можливості використовуйте відносні шляхи, починаючи з корневої директорії Typo3. Ця опція може бути перевизначена через редактор констант (Constant Editor).</label>
+            <label index="tx_gooffotoboek_webpath.description">Якщо поле не заповнене, тоді використовуйте звичайний шлях. По можливості не заповнюйте.</label>
+            <label index="tx_gooffotoboek_webpath.details">&lt;b&gt;Веб-шлях&lt;/b&gt; Існує можливість вказувати абсолютні шляхи до віртуальної директорії, звідки будуть використовуватися зображення. Якщо не заповнювати це поле, тоді буде задіяно звичайний шлях.</label>
+        </languageKey>
+        <languageKey index="lv" type="array">
+        </languageKey>
+        <languageKey index="jp" type="array">
+        </languageKey>
+        <languageKey index="vn" type="array">
+        </languageKey>
+        <languageKey index="ca" type="array">
+        </languageKey>
+        <languageKey index="ba" type="array">
+        </languageKey>
+        <languageKey index="kr" type="array">
+        </languageKey>
+        <languageKey index="eo" type="array">
+        </languageKey>
+        <languageKey index="my" type="array">
+        </languageKey>
+        <languageKey index="hi" type="array">
+        </languageKey>
+    </data>
+    <orig_hash type="array">
+        <languageKey index="default" type="array">
+            <label index="tx_gooffotoboek_function.description" type="integer">27500255</label>
+            <label index="tx_gooffotoboek_path.description" type="integer">239911629</label>
+            <label index="tx_gooffotoboek_path.details" type="integer">174414721</label>
+            <label index="tx_gooffotoboek_webpath.description" type="integer">108163928</label>
+            <label index="tx_gooffotoboek_webpath.details" type="integer">76747188</label>
+        </languageKey>
+        <languageKey index="dk" type="array">
+        </languageKey>
+        <languageKey index="de" type="array">
+            <label index="tx_gooffotoboek_function.description" type="integer">27500255</label>
+            <label index="tx_gooffotoboek_path.description" type="integer">239911629</label>
+            <label index="tx_gooffotoboek_path.details" type="integer">174414721</label>
+            <label index="tx_gooffotoboek_webpath.description" type="integer">108163928</label>
+            <label index="tx_gooffotoboek_webpath.details" type="integer">76747188</label>
+        </languageKey>
+        <languageKey index="no" type="array">
+        </languageKey>
+        <languageKey index="it" type="array">
+        </languageKey>
+        <languageKey index="fr" type="array">
+        </languageKey>
+        <languageKey index="es" type="array">
+        </languageKey>
+        <languageKey index="nl" type="array">
+            <label index="tx_gooffotoboek_function.description" type="integer">27500255</label>
+            <label index="tx_gooffotoboek_path.description" type="integer">239911629</label>
+            <label index="tx_gooffotoboek_path.details" type="integer">174414721</label>
+            <label index="tx_gooffotoboek_webpath.description" type="integer">108163928</label>
+            <label index="tx_gooffotoboek_webpath.details" type="integer">76747188</label>
+        </languageKey>
+        <languageKey index="cz" type="array">
+        </languageKey>
+        <languageKey index="pl" type="array">
+        </languageKey>
+        <languageKey index="si" type="array">
+        </languageKey>
+        <languageKey index="fi" type="array">
+            <label index="tx_gooffotoboek_function.description" type="integer">27500255</label>
+            <label index="tx_gooffotoboek_path.description" type="integer">239911629</label>
+            <label index="tx_gooffotoboek_path.details" type="integer">174414721</label>
+            <label index="tx_gooffotoboek_webpath.description" type="integer">108163928</label>
+            <label index="tx_gooffotoboek_webpath.details" type="integer">76747188</label>
+        </languageKey>
+        <languageKey index="tr" type="array">
+        </languageKey>
+        <languageKey index="se" type="array">
+            <label index="tx_gooffotoboek_function.description" type="integer">27500255</label>
+            <label index="tx_gooffotoboek_path.description" type="integer">239911629</label>
+            <label index="tx_gooffotoboek_path.details" type="integer">174414721</label>
+            <label index="tx_gooffotoboek_webpath.description" type="integer">108163928</label>
+            <label index="tx_gooffotoboek_webpath.details" type="integer">76747188</label>
+        </languageKey>
+        <languageKey index="pt" type="array">
+        </languageKey>
+        <languageKey index="ru" type="array">
+            <label index="tx_gooffotoboek_function.description" type="integer">27500255</label>
+            <label index="tx_gooffotoboek_path.description" type="integer">239911629</label>
+            <label index="tx_gooffotoboek_path.details" type="integer">174414721</label>
+            <label index="tx_gooffotoboek_webpath.description" type="integer">108163928</label>
+            <label index="tx_gooffotoboek_webpath.details" type="integer">76747188</label>
+        </languageKey>
+        <languageKey index="ro" type="array">
+        </languageKey>
+        <languageKey index="ch" type="array">
+        </languageKey>
+        <languageKey index="sk" type="array">
+        </languageKey>
+        <languageKey index="lt" type="array">
+        </languageKey>
+        <languageKey index="is" type="array">
+        </languageKey>
+        <languageKey index="hr" type="array">
+        </languageKey>
+        <languageKey index="hu" type="array">
+            <label index="tx_gooffotoboek_function.description" type="integer">27500255</label>
+            <label index="tx_gooffotoboek_path.description" type="integer">239911629</label>
+            <label index="tx_gooffotoboek_path.details" type="integer">174414721</label>
+            <label index="tx_gooffotoboek_webpath.description" type="integer">108163928</label>
+            <label index="tx_gooffotoboek_webpath.details" type="integer">76747188</label>
+        </languageKey>
+        <languageKey index="gl" type="array">
+        </languageKey>
+        <languageKey index="th" type="array">
+        </languageKey>
+        <languageKey index="gr" type="array">
+        </languageKey>
+        <languageKey index="hk" type="array">
+        </languageKey>
+        <languageKey index="eu" type="array">
+        </languageKey>
+        <languageKey index="bg" type="array">
+        </languageKey>
+        <languageKey index="br" type="array">
+            <label index="tx_gooffotoboek_function.description" type="integer">27500255</label>
+            <label index="tx_gooffotoboek_path.description" type="integer">239911629</label>
+            <label index="tx_gooffotoboek_path.details" type="integer">174414721</label>
+            <label index="tx_gooffotoboek_webpath.description" type="integer">108163928</label>
+            <label index="tx_gooffotoboek_webpath.details" type="integer">76747188</label>
+        </languageKey>
+        <languageKey index="et" type="array">
+        </languageKey>
+        <languageKey index="ar" type="array">
+        </languageKey>
+        <languageKey index="he" type="array">
+        </languageKey>
+        <languageKey index="ua" type="array">
+            <label index="tx_gooffotoboek_function.description" type="integer">27500255</label>
+            <label index="tx_gooffotoboek_path.description" type="integer">239911629</label>
+            <label index="tx_gooffotoboek_path.details" type="integer">174414721</label>
+            <label index="tx_gooffotoboek_webpath.description" type="integer">108163928</label>
+            <label index="tx_gooffotoboek_webpath.details" type="integer">76747188</label>
+        </languageKey>
+        <languageKey index="lv" type="array">
+        </languageKey>
+        <languageKey index="jp" type="array">
+        </languageKey>
+        <languageKey index="vn" type="array">
+        </languageKey>
+        <languageKey index="ca" type="array">
+        </languageKey>
+        <languageKey index="ba" type="array">
+        </languageKey>
+        <languageKey index="kr" type="array">
+        </languageKey>
+        <languageKey index="eo" type="array">
+        </languageKey>
+        <languageKey index="my" type="array">
+        </languageKey>
+        <languageKey index="hi" type="array">
+        </languageKey>
+    </orig_hash>
+    <orig_text type="array">
+        <languageKey index="default" type="array">
+        </languageKey>
+        <languageKey index="dk" type="array">
+        </languageKey>
+        <languageKey index="de" type="array">
+        </languageKey>
+        <languageKey index="no" type="array">
+        </languageKey>
+        <languageKey index="it" type="array">
+        </languageKey>
+        <languageKey index="fr" type="array">
+        </languageKey>
+        <languageKey index="es" type="array">
+        </languageKey>
+        <languageKey index="nl" type="array">
+        </languageKey>
+        <languageKey index="cz" type="array">
+        </languageKey>
+        <languageKey index="pl" type="array">
+        </languageKey>
+        <languageKey index="si" type="array">
+        </languageKey>
+        <languageKey index="fi" type="array">
+        </languageKey>
+        <languageKey index="tr" type="array">
+        </languageKey>
+        <languageKey index="se" type="array">
+        </languageKey>
+        <languageKey index="pt" type="array">
+        </languageKey>
+        <languageKey index="ru" type="array">
+        </languageKey>
+        <languageKey index="ro" type="array">
+        </languageKey>
+        <languageKey index="ch" type="array">
+        </languageKey>
+        <languageKey index="sk" type="array">
+        </languageKey>
+        <languageKey index="lt" type="array">
+        </languageKey>
+        <languageKey index="is" type="array">
+        </languageKey>
+        <languageKey index="hr" type="array">
+        </languageKey>
+        <languageKey index="hu" type="array">
+        </languageKey>
+        <languageKey index="gl" type="array">
+        </languageKey>
+        <languageKey index="th" type="array">
+        </languageKey>
+        <languageKey index="gr" type="array">
+        </languageKey>
+        <languageKey index="hk" type="array">
+        </languageKey>
+        <languageKey index="eu" type="array">
+        </languageKey>
+        <languageKey index="bg" type="array">
+        </languageKey>
+        <languageKey index="br" type="array">
+        </languageKey>
+        <languageKey index="et" type="array">
+        </languageKey>
+        <languageKey index="ar" type="array">
+        </languageKey>
+        <languageKey index="he" type="array">
+        </languageKey>
+        <languageKey index="ua" type="array">
+        </languageKey>
+        <languageKey index="lv" type="array">
+        </languageKey>
+        <languageKey index="jp" type="array">
+        </languageKey>
+        <languageKey index="vn" type="array">
+        </languageKey>
+        <languageKey index="ca" type="array">
+        </languageKey>
+        <languageKey index="ba" type="array">
+        </languageKey>
+        <languageKey index="kr" type="array">
+        </languageKey>
+        <languageKey index="eo" type="array">
+        </languageKey>
+        <languageKey index="my" type="array">
+        </languageKey>
+        <languageKey index="hi" type="array">
+        </languageKey>
+    </orig_text>
+</T3locallang>

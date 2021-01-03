@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+    <meta type="array">
+        <type>database</type>
+        <description>Language labels for database tables/fields belonging to extension 'rzcolorbox'</description>
+    </meta>
+    <data type="array">
+        <languageKey index="default" type="array">
+            <label index="tt_content.tx_rzcolorbox_slideshow">ColorBox Slideshow</label>
+            <label index="tt_content.list_type_pi2">ColorBox for Content</label>
+        </languageKey>
+        <languageKey index="de" type="array">
+            <label index="tt_content.tx_rzcolorbox_slideshow">ColorBox Slideshow</label>
+            <label index="tt_content.list_type_pi2">ColorBox für Inhalt</label>
+        </languageKey>
+        <languageKey index="fr" type="array">
+            <label index="tt_content.tx_rzcolorbox_slideshow">Diaporama dans une ColorBox</label>
+            <label index="tt_content.list_type_pi2">Eléments de contenu dans ColorBox</label>
+        </languageKey>
+        <languageKey index="nl" type="array">
+            <label index="tt_content.tx_rzcolorbox_slideshow">ColorBox Slideshow</label>
+            <label index="tt_content.list_type_pi2">ColorBox voor Content</label>
+        </languageKey>
+        <languageKey index="dk" type="array">
+            <label index="tt_content.tx_rzcolorbox_slideshow">ColorBox Slideshow</label>
+            <label index="tt_content.list_type_pi2">ColorBox til indhold</label>
+        </languageKey>
+    </data>
+</T3locallang>

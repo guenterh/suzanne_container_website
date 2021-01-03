@@ -1,0 +1,197 @@
+ *
+ {
+    margin: 0px;
+	padding: 0px;
+	list-style:none;
+ }
+ 
+ body
+ {
+ 	color: black; 
+	background-color: #ffffff;
+    font-size: 12pt;
+	font-family: Times New Roman, Times, serif;
+}
+
+h1,h2,h3
+{
+	margin: 0 auto;
+	font-weight: 100;
+	font-size:13pt;
+}
+
+h2
+{
+	margin: 0 auto;
+	font-weight: 100;
+	font-size:14pt;
+}
+
+p
+{
+	margin: 0 auto;
+}
+
+img
+{
+	border:0px;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+a
+{
+	color: #999999;	
+}
+
+.abstand_oben
+{
+	margin-top:15px;
+	
+}
+
+#logo
+{
+	font-size:15pt;
+	margin-left:20px;
+	margin-bottom:20px;
+}
+
+div#rechts 
+{
+	/*width:700px;*/
+	margin-left:20px;
+}
+ 
+div#inhalt
+{
+	/*margin-bottom:90px;*/	
+}
+
+div#einspaltig
+{
+	padding-left: 80px;
+	margin-bottom:20px;
+}
+
+div#rechteSpalteBild
+{
+	float: right; 
+	width: 20em;
+	margin-bottom:15px
+}
+
+div#rechteSpalteBildBreit
+{
+	float: right; 
+	width: 27em;
+	margin-bottom:15px;
+}
+
+div#linkeSpalteBild
+{
+	float: left; 
+	width: 20em;
+	padding-left: 80px;
+	margin-bottom:15px
+}
+
+div#linkeSpalteBildSchmal
+{
+	float: left; 
+	width: 17em;
+	padding-left: 80px;
+	margin-bottom:15px;
+}
+
+.titelOhneAbstand
+{	
+	font-size:13pt;
+	font-weight: 100;
+	margin-top:10px;
+}
+
+
+div#inhalt h2 
+{
+	font-weight: 100;
+	margin-top:30px;
+}
+
+
+div#inhalt h3 
+{
+	font-weight: 200;
+	margin-top: 1em;
+}
+
+div#inhalt p 
+{
+	line-height: 1.3em;
+    margin-top: 1em;
+	
+}
+
+.linksSeite
+{
+	line-height: 1.3em;
+	margin-bottom: 20px;	
+}
+
+div#rechteSpalte p
+{
+	line-height: 1.3em;
+    margin-top: 1em;
+}
+
+.fussnote
+{
+	margin-top: 2.5em;
+	margin-bottom:7px;
+	padding-left: 80px;
+}
+
+.fussnote a
+{
+}
+
+div#fusszeile 
+{
+    clear: both;
+	line-height:20px;
+	margin-left: 20px;
+}
+
+.einruecken
+{	clear: both;
+	padding-left:30px;
+	/*margin-top:30px;*/
+}
+
+
+div#erklaerung
+{
+	margin-top:20px;
+	/*margin-bottom: 20px;*/
+
+}
+
+div#erklaerung h1
+{
+	font-weight: 100;
+}
+
+#erklaerungtitel
+{
+	/*font-size: 12pt;*/
+}
+
+div#erklaerungText p
+{
+	line-height: 1.3em;
+	padding-left: 80px; 
+	margin-bottom: 25px;
+}
+
+
+

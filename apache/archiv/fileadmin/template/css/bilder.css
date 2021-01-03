@@ -1,0 +1,195 @@
+.bildRandObUnt
+
+{
+
+	border-top: 1px solid #cccc00;
+
+	border-bottom: 1px solid #cccc00;
+
+	margin-top:15px;
+
+		
+
+}
+
+
+
+.bildRandOb
+
+{
+
+	border-top: 1px solid #cccc00;
+
+	margin-top:15px;
+
+	margin-bottom:-2px;	
+
+}
+
+
+
+.bildRandObOhne
+
+{
+
+	border-top: 1px solid #cccc00;	
+
+}
+
+
+
+.bildRandUnt
+
+{
+
+	border-bottom: 1px solid #cccc00;	
+
+}
+
+
+
+.bildLinks
+
+{
+
+	margin: 10px 15px 5px 0px; 
+
+	float:left;
+
+	border-top: 1px solid #cccc00;
+
+	border-bottom: 1px solid #cccc00;
+
+}
+
+
+
+.bildRechts
+
+{
+
+	margin: 10px 15px 5px 15px; 
+
+	float:right;
+
+	border-top: 1px solid #cccc00;
+
+	border-bottom: 1px solid #cccc00;
+
+}
+
+
+
+.bildRechtsEinzeln
+
+{
+
+	margin: 10px 15px 5px 15px; 
+
+	float:right;
+
+}
+
+
+
+.imagesLinks img
+
+{
+
+	border-top: 1px solid #cccc00;
+
+	border-bottom: 1px solid #cccc00;
+
+	margin-top:50px;
+
+}
+
+
+
+.bildergalerie_klein
+
+{
+
+	border-right:1px solid #000000;
+
+	border-bottom:2px solid #000000;
+
+}
+
+
+
+.bildergalerie_gross
+
+{
+
+	border-right:2px solid #000000;
+
+	border-bottom:3px solid #000000;
+
+	margin-bottom: 20px;
+
+}
+
+
+
+.bildLegende
+
+{
+
+	font-size: 11px;
+
+	margin-top:5px;
+
+	/*margin-bottom: 30px;*/	
+
+}
+
+
+
+.bildLegendeGalerie
+
+{
+
+	font-size: 11px;
+
+	margin-top:5px;
+
+	margin-bottom: 35px;	
+
+}
+
+.bildGrossLegendeGalerie
+
+{
+
+	font-size: 11px;
+
+	margin-top:20px;
+
+	margin-bottom: 35px;	
+
+}
+
+.abstand_oben_bild_gross_privatbilder
+{
+
+	margin-top:30px;
+}
+
+
+
+.bildNicht_vergessen
+
+{
+
+	margin:20px 20px 0px 20px;
+
+	padding: 10px;
+
+	border-top:1px solid #333333;
+
+	border-right:1px solid #333333;
+
+	border-bottom:1px solid #333333;
+
+}

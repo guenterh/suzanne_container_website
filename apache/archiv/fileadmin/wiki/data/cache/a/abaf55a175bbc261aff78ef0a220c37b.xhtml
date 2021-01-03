@@ -1,0 +1,286 @@
+<div class="toc">
+<div class="tocheader toctoggle" id="toc__header">Table of Contents</div>
+<div id="toc__inside">
+
+<ul class="toc">
+<li class="level1"><div class="li"><span class="li"><a href="#replikation_von_auf_dem_suf_server_geaenderten_benutzersaetzen" class="toc">Replikation von auf dem SUF Server geänderten Benutzersätzen</a></span></div></li>
+<li class="level1"><div class="li"><span class="li"><a href="#benachrichtigung_von_stoerungen_bei_der_replikation_von_geaenderten_benutzerdatensaetzen" class="toc">Benachrichtigung von Störungen bei der Replikation von geänderten Benutzerdatensätzen</a></span></div></li>
+<li class="level1"><div class="li"><span class="li"><a href="#upload_benutzerdatensaetze_bei_unterbrechung_suf_verbindung" class="toc">Upload Benutzerdatensaetze bei Unterbrechung SUF Verbindung</a></span></div>
+<ul class="toc">
+<li class="level2"><div class="li"><span class="li"><a href="#wo_sind_die_scripte_zu_finden" class="toc">Wo sind die scripte zu finden</a></span></div></li>
+<li class="level2"><div class="li"><span class="li"><a href="#api_des_scripts" class="toc">API des scripts:</a></span></div></li>
+<li class="level2"><div class="li"><span class="li"><a href="#vorgehen_beim_aufruf" class="toc">Vorgehen beim Aufruf</a></span></div></li>
+<li class="level2"><div class="li"><span class="li"><a href="#hinweis" class="toc">Hinweis</a></span></div></li>
+</ul>
+</li>
+<li class="level1"><div class="li"><span class="li"><a href="#installation_hotfix_als_voraussetzung_stp_suf_v_16" class="toc">Installation Hotfix als Voraussetzung STP SUF V 16</a></span></div>
+<ul class="toc">
+<li class="level2"><div class="li"><span class="li"><a href="#anleitung_zur_installation" class="toc">Anleitung zur Installation</a></span></div>
+<ul class="toc">
+<li class="level3"><div class="li"><span class="li"><a href="#weitere_hinweise" class="toc">weitere Hinweise</a></span></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="level1"><div class="li"><span class="li"><a href="#scripte_vor_dem_shutdown_der_maupassant_jeden_donnerstagmorgen" class="toc">Scripte vor dem Shutdown der Maupassant jeden Donnerstagmorgen</a></span></div></li></ul>
+</div>
+</div>
+
+<h1><a name="replikation_von_auf_dem_suf_server_geaenderten_benutzersaetzen" id="replikation_von_auf_dem_suf_server_geaenderten_benutzersaetzen">Replikation von auf dem SUF Server geänderten Benutzersätzen</a></h1>
+<div class="level1">
+
+<p>
+ Wird ein Satz im Katalogisierungsmodul auf dem SUF Server geändert, dann wird der Replikationsmechanismus nicht angestossen. Dem muss &ldquo;per script&rdquo; nachgeholfen werden.
+</p>
+
+<p>
+Hierzu kann das script usi50/suf/scripte/z105.replication/id_to_sql.pl verwendet werden.
+</p>
+
+<p>
+Vorgehen: 
+</p>
+<ul>
+<li class="level1"><div class="li"> Eingabe der ID00 Nummer(n) in das file ids_to_update (default - wenn anderer filename, dann muss dieser dem script im Dialog angegeben werden</div>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> Start des scripts id_to_sql.pl</div>
+</li>
+<li class="level1"><div class="li"> Wenn an alle lokalen ADMs repliziert werden soll, keinen Namen für die ADM angeben</div>
+</li>
+<li class="level1"><div class="li"> vom script wird das file ids_to_update.sql erstellt</div>
+</li>
+<li class="level1"><div class="li"> connect mit der Datenbank usi50 (s+ usi50)</div>
+<ul>
+<li class="level2"><div class="li"> Achtung: In usi50 läuft der sog. ue11 job, welcher für die Verteilung der nachrichten zuständig ist. In SUF V14 war dies noch USR01</div>
+</li>
+</ul>
+</li>
+<li class="level1"><div class="li"> in sqlplus (wird mit Makro s+ gestartet) den Befehl start ids_to_update.sql aufrufen</div>
+<ul>
+<li class="level2"><div class="li"> damit werden die zu verteilenden Satzinformationen in die Tabelle z105 eingestellt</div>
+</li>
+</ul>
+</li>
+<li class="level1"><div class="li"> das wars..</div>
+</li>
+</ul>
+
+</div>
+<!-- SECTION [1-1058] -->
+<h1><a name="benachrichtigung_von_stoerungen_bei_der_replikation_von_geaenderten_benutzerdatensaetzen" id="benachrichtigung_von_stoerungen_bei_der_replikation_von_geaenderten_benutzerdatensaetzen">Benachrichtigung von Störungen bei der Replikation von geänderten Benutzerdatensätzen</a></h1>
+<div class="level1">
+
+<p>
+ Auf der maupassant (SUF V16 Installation) gibt es unter  usi50/suf/scripte/z105.traffic-jam scripte und Dateien, die verschiende Personen darüber benachrichtigen, dass der Versand von messages über geänderte Benutzerdatensätzen nicht mehr möglich ist. 
+</p>
+
+<p>
+Hintergrund: Nicht versandte messages verbleiben in der Tabelle z105 der Datenbank usi50 vo SUF V16. Das script überprüft, ob sich in der datenbank Sätze befinden und versendet Mailnachrichten, wenn eine bestimmte Schwelle überschritten ist.
+</p>
+
+<p>
+Vorgehen: 
+</p>
+<ul>
+<li class="level1"><div class="li"> Start des Prozesses: queue_len_z105 &lt;lib&gt; &lt;sec-intervall&gt; &gt; /dev/null &amp;</div>
+</li>
+<li class="level1"><div class="li"> Stop des Prozesses: touch queue_len_z105_stop</div>
+</li>
+</ul>
+
+</div>
+<!-- SECTION [1059-1807] -->
+<h1><a name="upload_benutzerdatensaetze_bei_unterbrechung_suf_verbindung" id="upload_benutzerdatensaetze_bei_unterbrechung_suf_verbindung">Upload Benutzerdatensaetze bei Unterbrechung SUF Verbindung</a></h1>
+<div class="level1">
+
+<p>
+ Für den Fall, dass Benutzerdatensätze durch einen Unterbruch der SUF Verbindung nach Mutation oder Neuerfassung nicht auf die SUF Datenbank repliziert werden können, wurde von Bernd Luchner ein script entwickelt, welches den &ldquo;p_file_20&rdquo; Mechanismus von Aleph nutzt, um Benutzerdatensätze in der Alephdatenbank &ldquo;anzutippen&rdquo; um somit den Replikationsmechanismus nach SUF anzustossen
+</p>
+
+<p>
+Im script erfolgt folgender Aufruf: $aleph_proc/p_file_20 $adm,suf_upload_uids.plif,suf_upload_uids.plif.rpt,Y,,%,,0,00, &gt; suf_upload_uids.plif.log
+</p>
+
+<p>
+Ablauf:
+</p>
+<ul>
+<li class="level1"><div class="li"> script &ldquo;suf_plif_upload&rdquo; sucht in logfiles nach einem Teilstring &lsquo;please check UID&rsquo;</div>
+<ul>
+<li class="level2"><div class="li"> diese Meldung wird geloggt, wenn ein Transfer bei Benutzerupdate auf das SUf im laufenden Betrieb auf der lokalen ADM nicht möglich war</div>
+</li>
+</ul>
+</li>
+<li class="level1"><div class="li"> die durch den grep - Mechanismus gefundenen strings werden in ein file uid_check geschrieben</div>
+</li>
+<li class="level1"><div class="li"> aus dem file uid-check werden nur die BenutzerIds mit Hilfe des tools awk &ldquo;filtriert&rdquo; und in file suf_upload_uids geschrieben</div>
+</li>
+<li class="level1"><div class="li"> suf_upload_uids wir dem perl - script id_to_plif.pl übergeben, welches aus den benutzerIds ein file im plif - Format erstellt (suf_upload_uids.plif)</div>
+</li>
+<li class="level1"><div class="li"> Letzteres file wird p_file_20 &ldquo;übergeben&rdquo;</div>
+<ul>
+<li class="level2"><div class="li"> $aleph_proc/p_file_20 $adm,suf_upload_uids.plif,suf_upload_uids.plif.rpt,Y,,%,,0,00, &gt; suf_upload_uids.plif.log</div>
+</li>
+</ul>
+</li>
+<li class="level1"><div class="li"> Im logfile des Prozesses p_file_20 wird anschliessend nach Fehlern gesucht</div>
+</li>
+<li class="level1"><div class="li"> Falls diese entdeckt werden, wird der Prozess von p_file_20 nach 60 Minuten erneut angestossen</div>
+</li>
+<li class="level1"><div class="li"> Abbruch des Prozesses it ctrl-c</div>
+</li>
+</ul>
+
+</div>
+<!-- SECTION [1808-3418] -->
+<h2><a name="wo_sind_die_scripte_zu_finden" id="wo_sind_die_scripte_zu_finden">Wo sind die scripte zu finden</a></h2>
+<div class="level2">
+
+<p>
+ <a href="http://idbib3.unizh.ch:9003/dirlist/i/SUF/scripte/.dirlist.html" class="urlextern" target="_blank" title="http://idbib3.unizh.ch:9003/dirlist/i/SUF/scripte/.dirlist.html"  rel="nofollow"> hier abrufbar</a>
+</p>
+
+</div>
+<!-- SECTION [3419-3545] -->
+<h2><a name="api_des_scripts" id="api_des_scripts">API des scripts:</a></h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> suf_plif_upload [ttmm] [stop]</div>
+<ul>
+<li class="level2"><div class="li"> wird ttmm nicht angegegen, sucht der Prozess nach Logfiles des heutigen Tages</div>
+</li>
+<li class="level2"><div class="li"> mit stop wird der p_file_20 Mechanismus nicht angestossen, sondern nur die auszuwertenden Logfiles angezeigt</div>
+</li>
+</ul>
+</li>
+</ul>
+
+</div>
+<!-- SECTION [3546-3808] -->
+<h2><a name="vorgehen_beim_aufruf" id="vorgehen_beim_aufruf">Vorgehen beim Aufruf</a></h2>
+<div class="level2">
+<ol>
+<li class="level1"><div class="li"> suf_plif_upload und id_to_plif.pl müssen im gleichen Verzeichnis abgelegt werden</div>
+</li>
+<li class="level1"><div class="li"> es spielt keine Rolle, welches Verzeichnis dies ist</div>
+</li>
+<li class="level1"><div class="li"> Start des Scripts suf_plif_upload</div>
+<ol>
+<li class="level2"><div class="li"> Beispiel: source suf_plif_upload 2411 (Suche nach logfiles vom 24.11.)</div>
+</li>
+<li class="level2"><div class="li"> oder source suf_plif_upload 2411 stop &rarr; lediglich Anzeige, welche Logdateien ausgewertet werden</div>
+</li>
+</ol>
+</li>
+</ol>
+
+</div>
+<!-- SECTION [3809-4204] -->
+<h2><a name="hinweis" id="hinweis">Hinweis</a></h2>
+<div class="level2">
+
+<p>
+ die aktuellen logfiles werden durch den Mechanismus nicht erfasst (Angabe des Tagesdatums) Damit auch diese in den Mechanismus mit einbezogen werden, muss zum Beispiel der PC - Server neu gestartet werden.  Danach können auch solche files durchsucht werden Beispiel: 
+</p>
+<ul>
+<li class="level1"><div class="li"> aktuelles pc-server logfile: pc_server_6505.log</div>
+</li>
+<li class="level1"><div class="li"> Neustart von pc-server 6505 &rArr; pc_server_6505.log.0512.1518</div>
+</li>
+<li class="level1"><div class="li"> Benutzung von suf_plif_upload: source suf_plif_upload 0512</div>
+</li>
+</ul>
+
+</div>
+<!-- SECTION [4205-4675] -->
+<h1><a name="installation_hotfix_als_voraussetzung_stp_suf_v_16" id="installation_hotfix_als_voraussetzung_stp_suf_v_16">Installation Hotfix als Voraussetzung STP SUF V 16</a></h1>
+<div class="level1">
+
+<p>
+ Für die Kommunikation mit SUF V16 ist erforderlich, dass auf allen lokalen Systemen unittelbar vor dem STP ein hotfix installiert wird. Dieses Hotfix ist hier abrufbar:
+</p>
+
+<p>
+<a href="http://idbib3.unizh.ch:9003/dirlist/i/SUF/v14-v16/stp/hotfix/hotfix_ids_suf_26-10-2006.tar.gz" class="urlextern" target="_blank" title="http://idbib3.unizh.ch:9003/dirlist/i/SUF/v14-v16/stp/hotfix/hotfix_ids_suf_26-10-2006.tar.gz"  rel="nofollow"> url der source</a>
+</p>
+
+</div>
+<!-- SECTION [4676-5028] -->
+<h2><a name="anleitung_zur_installation" id="anleitung_zur_installation">Anleitung zur Installation</a></h2>
+<div class="level2">
+<ol>
+<li class="level1"><div class="li"> Wechsel in das Verzeichnis &lsquo;$aleph_dev/alephm/source/&rsquo; (auch mit dem Makro asm zu erreichen)</div>
+</li>
+<li class="level1"><div class="li"> Erstellen des Verzeichnisses &lsquo;suf_hotfix&rsquo; in &lsquo;$aleph_dev/alephm/source/&rsquo;</div>
+</li>
+<li class="level1"><div class="li"> Übertragung der Datei (&rsquo;hotfix&rsquo;) hotfix_ids_suf_26-10-2006.tar.gz in das Verzeichnis &lsquo;$aleph_dev/alephm/source/suf_hotfix&rsquo;</div>
+</li>
+<li class="level1"><div class="li"> Dekomprimieren der datei hotfix_ids_suf_26-10-2006.tar.gz</div>
+<ol>
+<li class="level2"><div class="li"> gzip -d hotfix_ids_suf_26-10-2006.tar.gz</div>
+</li>
+</ol>
+</li>
+<li class="level1"><div class="li"> Entpacken der Datei hotfix_ids_suf_26-10-2006.tar.gz</div>
+<ol>
+<li class="level2"><div class="li"> tar -xvf  hotfix_ids_suf_26-10-2006.tar</div>
+</li>
+</ol>
+</li>
+<li class="level1"><div class="li"> Compilieren der sourcen</div>
+<ol>
+<li class="level2"><div class="li"> source compile_16.02_to_16.02</div>
+</li>
+</ol>
+</li>
+<li class="level1"><div class="li"> Danach Neustart von PC-server und ue_11</div>
+</li>
+</ol>
+
+</div>
+<!-- SECTION [5029-5691] -->
+<h3><a name="weitere_hinweise" id="weitere_hinweise">weitere Hinweise</a></h3>
+<div class="level3">
+<ul>
+<li class="level1"><div class="li"> erst nach dem Compilieren der sourcen ist das lokale Alephsystem bereit für die Kommunikation mit SUF V16</div>
+</li>
+<li class="level1"><div class="li"> sollte aus irgendeinem Grund (der hoffentlich nicht eintreten wird) ein Zurückgehen auf die SUF Version 14 erforderlich sein, muss vor dem Zurücksetzen das script compile_16.02_to_14.2 mit &lsquo;source compile_16.02_to_14.2&rsquo; aufgerufen werden</div>
+</li>
+</ul>
+
+</div>
+<!-- SECTION [5692-6075] -->
+<h1><a name="scripte_vor_dem_shutdown_der_maupassant_jeden_donnerstagmorgen" id="scripte_vor_dem_shutdown_der_maupassant_jeden_donnerstagmorgen">Scripte vor dem Shutdown der Maupassant jeden Donnerstagmorgen</a></h1>
+<div class="level1">
+
+<p>
+ Auf SUF V14 wurden vor jedem regelmässigen Shutdown am Donnerstagmorgen 15 Minuten vor Shutdown (4:45 Uhr) folgende Sripte gestartet: 
+</p>
+<ul>
+<li class="level1"><div class="li"> usr01_util_a_12_c (Drop Lock Tables (z60/z50))</div>
+</li>
+<li class="level1"><div class="li"> usr50_util_a_11_b_1 (Drop session tables (z63/z64/z65))</div>
+</li>
+<li class="level1"><div class="li"> usr50_util_a_12_b (Drop session tables (z63/z64/z65))</div>
+</li>
+<li class="level1"><div class="li"> usr50_util_a_12_c (Drop session tables (z63/z64/z65))</div>
+</li>
+<li class="level1"><div class="li"> usr50_util_a_13_b ( Drop statistics table (z34))</div>
+</li>
+<li class="level1"><div class="li"> vir01_clear_vir01 &rarr; Dialog x 8  ??? (Clean Virtual library (VIR01))</div>
+</li>
+</ul>
+
+<p>
+alte job_list: $alephe_tab/job_list
+</p>
+<pre class="code"></pre>
+
+<p>
+<a href="/fileadmin/wiki/doku.php?id=prv:suf:suf-migration-v16" class="wikilink2" title="prv:suf:suf-migration-v16">zurück</a> 
+</p>
+
+</div>
+<!-- SECTION [6076-] -->

@@ -1,0 +1,195 @@
+
+plugin.tx_gooffotoboek_pi1 {
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Path to photos via webserver.
+ webpath = uploads/fotoboek
+
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Path to photos on server.
+ path = uploads/fotoboek
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Template file.
+ templateFile = EXT:goof_fotoboek/fotoboek.tpl
+ #  columns = 3
+ # cat=tx_gooffotoboek_pi1/dims; type=int; label= Max width of thumbnail.
+ thumb_maxw = 100
+ # cat=tx_gooffotoboek_pi1/dims; type=int; label= Max height of thumbnail.
+ thumb_maxh = 100
+ # cat=tx_gooffotoboek_pi1/dims; type=int; label= Max width of image.
+ img_maxw = 600
+ # cat=tx_gooffotoboek_pi1/dims; type=int; label= Max height of image.
+ img_maxh = 375
+/*
+ # cat=tx_gooffotoboek_pi1/thumbnails; type=text; label= Extra ImageMagick options for thumbnails.
+ th_im_param =  -quality 60 -compress JPEG 
+ # cat=tx_gooffotoboek_pi1/other; type=text; label= Extra ImageMagick options for images.
+ img_im_param =  -interlace Plane -quality 60 -compress JPEG 
+*/
+
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Start image of navigation.
+ img_nav_start = EXT:goof_fotoboek/res/navstart.gif 
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= End image of navigation.
+ img_nav_end = EXT:goof_fotoboek/res/navend.gif 
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Image of index (on).
+ img_index_on = EXT:goof_fotoboek/res/index_on.gif 
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Image of index (off).
+ img_index_off = EXT:goof_fotoboek/res/index_off.gif 
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Image of up (on).
+ img_up_on = EXT:goof_fotoboek/res/up_on.gif 
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Image of up (off).
+ img_up_off = EXT:goof_fotoboek/res/up_off.gif 
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Image of thumb(on).
+ img_thumb_on = EXT:goof_fotoboek/res/thumb_on.gif 
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Image of thumb(off).
+ img_thumb_off = EXT:goof_fotoboek/res/thumb_off.gif 
+ #cat=tx_gooffotoboek_pi1/file; type=text; label= Image of prev (on).
+ img_prev_on = EXT:goof_fotoboek/res/prev_on.gif 
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Image of prev (off).
+ img_prev_off = EXT:goof_fotoboek/res/prev_off.gif 
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Image of next (on).
+ img_next_on = EXT:goof_fotoboek/res/next_on.gif 
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Image of next (off).
+ img_next_off = EXT:goof_fotoboek/res/next_off.gif 
+
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Image of slideshow (start).
+ img_slide_start = EXT:goof_fotoboek/res/slidestart.gif 
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Image of slideshow (stop).
+ img_slide_stop  = EXT:goof_fotoboek/res/slidestop.gif 
+ # cat=tx_gooffotoboek_pi1/other; type=int; label= Refresh time during slideshow.
+ slidetime = 6
+
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Image of spacer.
+ img_spacer = EXT:goof_fotoboek/res/spacer.gif 
+
+ # cat=tx_gooffotoboek_pi1/dims; type=int; label= Thumbnails per row.
+ thumb_per_row = 6 
+ # cat=tx_gooffotoboek_pi1/dims; type=int; label= Maximum rows of thumbnails per page. (experimental)
+ thumb_rows = 5 
+ # cat=tx_gooffotoboek_pi1/typo; type=wrap; label= Wrap around a thumbnailimage.
+ thumb_wrap = <td class="gfpb_###orientation###" width="55px">|</td>
+
+ # cat=tx_gooffotoboek_pi1/typo; type=wrap; label= Wrap around a thumbnailrow.
+ thumb_row_wrap = <tr>|</tr>
+
+ # cat=tx_gooffotoboek_pi1/typo; type=wrap; label= Wrap around complete directory entry.
+ dir_wrap = |<br />
+ # cat=tx_gooffotoboek_pi1/typo; type=wrap; label= Wrap around directory title.
+ dir_title_wrap = <h1>|</h1>
+ # cat=tx_gooffotoboek_pi1/typo; type=wrap; label= Wrap around directory comment.
+ dir_comment_wrap = <small>&nbsp;&nbsp;|</small><br />
+
+ # cat=tx_gooffotoboek_pi1/typo; type=wrap; label= Wrap around image in single view.
+ image_wrap = <div>|</div>
+
+ # cat=tx_gooffotoboek_pi1/typo; type=wrap; label= Wrap around comment titles.
+ comment_title_wrap = <b>|</b><br />
+ # cat=tx_gooffotoboek_pi1/typo; type=wrap; label= Wrap around comment.
+ comment_wrap = |<br />
+
+  # cat=tx_gooffotoboek_pi1/typo; type=wrap; label= Wrap around extra comment.
+ extra_wrap = <b>|</b><br />
+
+
+ # cat=tx_gooffotoboek_pi1/typo; type=wrap; label= Wrap around complete directory comment.
+ dir_all_comment_wrap = |
+ # cat=tx_gooffotoboek_pi1/typo; type=wrap; label= Wrap around directory link.
+ dir_link_wrap = <small><b>|</b></small><br />
+ #cat=tx_gooffotoboek_pi1/typo; type=text; label= Text spacer for navigation.
+ txt_spacer = &nbsp;
+ 
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Use Icons (prev/next/thumb).
+ icons =  1
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Start with thumbnails in a directory.
+ default_thumb =  0
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Disable the link to the original photo.
+ no_full =  0
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Enable link to the original for registered users.
+ user_full =  0
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Enable debug options.
+ debug =  0 
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Enable slideshow.
+ slideshow =  0 
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Try to fill out every thumbnail page.
+ fill_thumb_page =  0 
+
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Show exif information when available.
+ show_exif =  0 
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Show all exif information (is a lot).
+ show_exif_all = 0 
+ # cat=tx_gooffotoboek_pi1/file; type=string; label= Path to metacam binary, needed for EXIF support on older PHP versions.
+ exif_metacam =  /usr/bin/metacam 
+ # cat=tx_gooffotoboek_pi1/file; type=string; label= Path to jhead binary, needed for EXIF support on older PHP versions.
+ exif_jhead =  /usr/bin/jhead 
+
+ # cat=tx_gooffotoboek_pi1/typo; type=wrap; label= Wrap around exif info.
+ exif_all_wrap = <table class="exif"><thead><tr><th>EXIF</th><th>info</th></tr></thead><tbody>|</tbody></table>
+ # cat=tx_gooffotoboek_pi1/typo; type=wrap; label= Wrap around exif tag name.
+ exif_tag_wrap = <tr><td>|</td>
+ # cat=tx_gooffotoboek_pi1/typo; type=wrap; label= Wrap around exif value.
+ exif_value_wrap = <td>|</td></tr>
+
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= No resizing of pictures (needed when IM or GD is troubling you).
+ noresize =  0 
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Try to (pre)load the next page (experimental).
+ loadnext =  1 
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Disable creation of directory comments. (the existing ones will still be shown)
+disable_dircomment = 0 
+
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Reverse sort directories in the root of the photobook
+ rev_sort_root =  0 
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Reverse sort directories except the root of the photobook
+ rev_sort_dirs =  0 
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Reverse sort photos in the photobook
+ rev_sort_files =  0 
+
+
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Show dir/_teaser.jpg if available and ignore the teaser in the folderview. (teaser will not be resized!)
+ show_teaser = 0 
+
+
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Anchor. Jump to the right place when the photobook is on a large page. 
+ use_anchor = 0
+
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Show filename in thumbnailview.
+thumb_filenames=0
+
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Enable watermark.
+watermark=0
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Watermark mask file. This mask can be used to blend the original image. Normally it can be full-white.
+watermark_mask = EXT:goof_fotoboek/res/watermark_mask.gif
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Watermark bottomImg file. This is the logo/text/watermark itself.
+watermark_bottomimg = EXT:goof_fotoboek/res/watermark_bottomimg.gif
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Watermark bottomImg_mask file. This mask describes what to show from the watermark_bottomimg file.
+watermark_bottomimg_mask = EXT:goof_fotoboek/res/watermark_bottomimg_mask.gif
+
+ # cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Enable thumbnail watermark.
+thumb_watermark=0
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Thumb Watermark mask file. This mask can be used to blend the original image. Normally it can be full-white.
+thumb_watermark_mask = EXT:goof_fotoboek/res/watermark_mask.gif
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Thumb Watermark bottomImg file. This is the logo/text/watermark itself.
+thumb_watermark_bottomimg = EXT:goof_fotoboek/res/watermark_bottomimg.gif
+ # cat=tx_gooffotoboek_pi1/file; type=text; label= Thumb Watermark bottomImg_mask file. This mask describes what to show from the watermark_bottomimg file.
+thumb_watermark_bottomimg_mask = EXT:goof_fotoboek/res/watermark_bottomimg_mask.gif
+
+
+
+ # cat=tx_gooffotoboek_pi1/other; type=text; label= support languages other then the default (space separated language codes like "nl de fr") for the comment mode.
+ comment_languages = nl de fr
+
+# cat=tx_gooffotoboek_pi1/other; type=int; label= Size of the comment field
+commentFieldSize = 50
+
+# cat=tx_gooffotoboek_pi1/other; type=int; label= Maximum input size of the comment field (only the form)
+commentMaxlength = 50
+# cat=tx_gooffotoboek_pi1/other; type=text; label= Front end edit list (space separated front end group NUMBERS, 'any'=any group,empty is disabled)
+fe_comment_list =   
+# cat=tx_gooffotoboek_pi1/other; type=text; label= Back end edit list (space separated back end usernames, 'any'=any be user, empty is disabled)
+be_comment_list =   
+
+# cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Loop the slideshow
+slideshowLoop = 0
+
+# cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Show Thumbnails and singleview (combined view)
+CombinedView = 0
+
+# cat=tx_gooffotoboek_pi1/enable; type=boolean; label= Replace underscores by spaces in titles
+replaceTitleUnderscores = 1
+
+}

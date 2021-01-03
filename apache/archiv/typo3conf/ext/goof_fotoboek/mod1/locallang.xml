@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<description>backend for photobook</description>
+		<type>module</type>
+		<csh_table></csh_table>
+		<fileId>EXT:goof_fotoboek/mod1/locallang.xml</fileId>
+		<labelContext type="array">
+			<label index="title"></label>
+			<label index="function1"></label>
+			<label index="function2"></label>
+			<label index="function3"></label>
+		</labelContext>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="title">Photobook</label>
+			<label index="function1">Photobook</label>
+			<label index="function2">Pre-Cache</label>
+			<label index="function3">Test</label>
+		</languageKey>
+	</data>
+	<orig_hash type="array">
+		<languageKey index="default" type="array">
+			<label index="title" type="integer">62851655</label>
+			<label index="function1" type="integer">62851655</label>
+			<label index="function2" type="integer">186667661</label>
+			<label index="function3" type="integer">13354593</label>
+		</languageKey>
+	</orig_hash>
+	<orig_text type="array">
+		<languageKey index="default" type="array">
+		</languageKey>
+	</orig_text>
+</T3locallang>

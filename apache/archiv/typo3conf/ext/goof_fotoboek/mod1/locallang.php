@@ -1,0 +1,128 @@
+<?php
+/**
+ * Language labels for module "tools_txgooffotoboekM1"
+ * 
+ * This file is detected by the translation tool.
+ */
+
+$LOCAL_LANG = Array (
+	'default' => Array (
+		'title' => 'Photobook',
+		'function1' => 'Photobook',
+		'function2' => 'Pre-Cache',
+		'function3' => 'Test',
+	),
+	'dk' => Array (
+	),
+	'de' => Array (
+		'title' => 'Fotoalbum',
+		'function1' => 'Fotoalbum',
+		'function2' => 'Vor-Laden ..',
+		'function3' => 'Test',
+	),
+	'no' => Array (
+	),
+	'it' => Array (
+	),
+	'fr' => Array (
+	),
+	'es' => Array (
+	),
+	'nl' => Array (
+		'title' => 'Fotoboek',
+		'function1' => 'Fotoboek',
+		'function2' => 'Vooraf in cache plaatsen',
+		'function3' => 'Test',
+	),
+	'cz' => Array (
+	),
+	'pl' => Array (
+	),
+	'si' => Array (
+	),
+	'fi' => Array (
+		'title' => 'Kuvakirjasto',
+		'function1' => 'Kuvakirjasto',
+		'function2' => 'Etuvälimuisti',
+		'function3' => 'Testi',
+	),
+	'tr' => Array (
+	),
+	'se' => Array (
+		'title' => 'Fotoalbum',
+		'function1' => 'Fotoalbum',
+		'function2' => 'För-cacherad',
+		'function3' => 'Test',
+	),
+	'pt' => Array (
+	),
+	'ru' => Array (
+		'title' => 'Ôîòîàëüáîì',
+		'function1' => 'Ôîòîàëüáîì',
+		'function2' => 'Ïðåäâàðèòåëüíîå êýøèðîâàíèå',
+		'function3' => 'Òåñò',
+	),
+	'ro' => Array (
+	),
+	'ch' => Array (
+	),
+	'sk' => Array (
+	),
+	'lt' => Array (
+	),
+	'is' => Array (
+	),
+	'hr' => Array (
+	),
+	'hu' => Array (
+		'title' => 'Fényképtár',
+		'function1' => 'Fényképtár',
+		'function2' => 'Elõ-Cache',
+		'function3' => 'Teszt',
+	),
+	'gl' => Array (
+	),
+	'th' => Array (
+	),
+	'gr' => Array (
+	),
+	'hk' => Array (
+	),
+	'eu' => Array (
+	),
+	'bg' => Array (
+	),
+	'br' => Array (
+		'title' => 'Álbum de fotos',
+		'function1' => 'Álbum de fotos',
+		'function2' => 'Pré-Cache',
+		'function3' => 'Testar',
+	),
+	'et' => Array (
+	),
+	'ar' => Array (
+	),
+	'he' => Array (
+	),
+	'ua' => Array (
+	),
+	'lv' => Array (
+	),
+	'jp' => Array (
+	),
+	'vn' => Array (
+	),
+	'ca' => Array (
+	),
+	'ba' => Array (
+	),
+	'kr' => Array (
+	),
+	'eo' => Array (
+	),
+	'my' => Array (
+	),
+	'hi' => Array (
+	),
+);
+?>

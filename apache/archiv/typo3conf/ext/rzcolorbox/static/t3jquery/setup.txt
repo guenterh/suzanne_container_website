@@ -1,0 +1,138 @@
+includeLibs.t3jquery = EXT:t3jquery/class.tx_t3jquery.php    
+
+page.1442 = COA           
+page.1442 {   
+  10 = USER     
+  10.userfunc = tx_t3jquery->addJS  
+
+  20 = USER   
+  20.userFunc = tx_t3jquery->addJS  
+  20.jsfile.dataWrap = typo3conf/ext/rzcolorbox/res/js/jquery.colorbox.js   
+
+  30 = USER    
+  30.userFunc = tx_t3jquery->addJS   
+  30.jsdata.cObject = COA 
+  30.jsdata.cObject {   
+    1 = TEXT      
+    1.value = jQuery(document).ready(function(){jQuery(".{$plugin.rzcolorbox.rel}").colorbox({current:"    
+    2 = TEXT    
+    2.value = {LLL:{$plugin.rzcolorbox.lllPath}:image} 
+    2.insertData = 1      
+    2.stdWrap.dataWrap = | 
+    3 = TEXT      
+    3.value = {current}   
+    4 = TEXT     
+    4.value = {LLL:{$plugin.rzcolorbox.lllPath}:of}   
+    4.insertData = 1     
+    4.stdWrap.dataWrap = |   
+    5 = TEXT     
+    5.value = {total}"   
+    6 = TEXT    
+    6.value = ,slideshow:true,slideshowStart:"
+    6.if.isTrue.numRows {  
+      table = tt_content   
+      select.where = tx_rzcolorbox_slideshow='1'  
+    }
+
+    7 = TEXT   
+    7.value = {LLL:{$plugin.rzcolorbox.lllPath}:slideshowstart}     
+    7.insertData = 1     
+    7.stdWrap.dataWrap = |       
+    7.if.isTrue.numRows {     
+      table = tt_content   
+      select.where = tx_rzcolorbox_slideshow='1'  
+    }            
+    8 = TEXT  
+    8.value = ",slideshowStop:"    
+    8.if.isTrue.numRows {   
+      table = tt_content  
+      select.where = tx_rzcolorbox_slideshow='1'   
+    }
+    9 = TEXT      
+    9.value = {LLL:{$plugin.rzcolorbox.lllPath}:slideshowstop} 
+    9.insertData = 1          
+    9.stdWrap.dataWrap = |    
+    9.if.isTrue.numRows {   
+      table = tt_content    
+      select.where = tx_rzcolorbox_slideshow='1'   
+    }      
+    10 = TEXT     
+    10.value = "   
+    10.if.isTrue.numRows {  
+      table = tt_content  
+      select.where = tx_rzcolorbox_slideshow='1' 
+    }    
+    11 = TEXT    
+    11.value = ,opacity:"{$plugin.rzcolorbox.opacity}",transition:"{$plugin.rzcolorbox.transition}",speed:"{$plugin.rzcolorbox.speed}" 
+    12 = TEXT 
+    12.value = ,innerWidth:"{$plugin.rzcolorbox.innerWidth}"     
+    12.if.isTrue = {$plugin.rzcolorbox.innerWidth}     
+    13 = TEXT                                                     
+    13.value = ,innerHeight:"{$plugin.rzcolorbox.innerHeight}"     
+    13.if.isTrue = {$plugin.rzcolorbox.innerHeight}  
+    14 = TEXT 
+    14.value = ,initialWidth:"{$plugin.rzcolorbox.initialWidth}"     
+    14.if.isTrue = {$plugin.rzcolorbox.initialWidth}     
+    15 = TEXT                                                     
+    15.value = ,initialHeight:"{$plugin.rzcolorbox.initialHeight}"     
+    15.if.isTrue = {$plugin.rzcolorbox.initialHeight}        
+    16 = TEXT         
+    16.value = ,slideshowSpeed:"{$plugin.rzcolorbox.slideshowSpeed}"     
+    16.if.isTrue = {$plugin.rzcolorbox.slideshowSpeed}   
+    17 = TEXT                    
+    17.value = ,previous:"       
+    18 = TEXT              
+    18.value = {LLL:{$plugin.rzcolorbox.lllPath}:previous}
+    18.insertData = 1         
+    18.stdWrap.dataWrap = |     
+    19 = TEXT           
+    19.value =  ",next:"    
+    20 = TEXT         
+    20.value = {LLL:{$plugin.rzcolorbox.lllPath}:next}   
+    20.insertData = 1   
+    20.stdWrap.dataWrap = |    
+    21 = TEXT           
+    21.value = ",close:"    
+    22 = TEXT           
+    22.value = {LLL:{$plugin.rzcolorbox.lllPath}:close} 
+    22.insertData = 1         
+    22.stdWrap.dataWrap = |       
+    23 = TEXT       
+    23.value = "     
+    24 = TEXT       
+    24.value  =     
+    25 = TEXT        
+    25.value = });});      
+  }         
+}          
+page.1442.if.isFalse = {$plugin.rzcolorbox.deactivate}
+
+# # Modify imageLinkWrap
+tt_content.image.20.1.imageLinkWrap {
+typolink >
+typolink {
+
+parameter.cObject = IMG_RESOURCE
+parameter.cObject.file {
+import.current = 1
+#height = {$styles.content.imgtext.maxH}
+#effects = {$styles.content.imgtext.linkWrap.effects}
+}  
+
+parameter.override {
+field = image_link
+listNum.stdWrap.data = register : IMAGE_NUM_CURRENT
+}
+
+ATagParams = class="{$plugin.rzcolorbox.rel}" rel="{$plugin.rzcolorbox.rel}[cb{field:uid}]"
+ATagParams.insertData = 1
+ATagParams.if.isFalse < .parameter.override
+
+target = {$styles.content.links.target}
+extTarget = {$styles.content.links.extTarget}
+}
+}
+
+[globalVar = LIT:1 = {$plugin.rzcolorbox.useWidth}]
+tt_content.image.20.1.imageLinkWrap.typolink.parameter.cObject.file.maxW = {$styles.content.imgtext.maxW}
+[global]

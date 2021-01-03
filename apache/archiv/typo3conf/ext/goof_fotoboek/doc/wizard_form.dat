@@ -1,0 +1,37 @@
+a:9:{s:4:"save";a:2:{s:13:"extension_key";s:13:"goof_fotoboek";s:18:"print_wop_comments";s:1:"0";}s:6:"emconf";a:1:{i:1;a:7:{s:5:"title";s:10:"Photo Book";s:11:"description";s:36:"photo gallery wich shows directories";s:8:"category";s:6:"plugin";s:5:"state";s:4:"beta";s:12:"dependencies";s:0:"";s:6:"author";s:14:"Arco van Geest";s:12:"author_email";s:23:"arco@appeltaart.mine.nu";}}s:2:"pi";a:1:{i:1;a:10:{s:5:"title";s:9:"photobook";s:13:"plus_user_obj";s:1:"1";s:7:"addType";s:9:"list_type";s:8:"plus_wiz";s:1:"0";s:20:"plus_wiz_description";s:0:"";s:8:"tag_name";s:0:"";s:12:"plus_user_ex";s:1:"0";s:8:"title_nl";s:8:"fotoboek";s:23:"plus_wiz_description_nl";s:0:"";s:14:"apply_extended";s:1:"0";}}s:2:"ts";a:1:{i:1;a:2:{s:9:"constants";s:1102:"
+plugin.tx_gooffotoboek_pi1 {
+ # cat=tx_gooffotoboek_pi1/webpath; type=text; label= Path to photos via webserver.
+ webpath = /fotoboek
+ # cat=tx_gooffotoboek_pi1/path; type=text; label= Path to photos on server.
+ path = /data/www/fotoboek
+  templateFile = media/scripts/gallery_template.tmpl
+  columns = 3
+ # cat=tx_gooffotoboek_pi1/thumb_maxw; type=int; label= Max width of thumbnail.
+ thumb_maxw = 50
+ # cat=tx_gooffotoboek_pi1/thumb_maxh; type=int; label= Max height of thumbnail.
+ thumb_maxh = 50
+ # cat=tx_gooffotoboek_pi1/img_maxw; type=int; label= Max width of image.
+ img_maxw = 600
+ # cat=tx_gooffotoboek_pi1/img_maxh; type=int; label= Max height of image.
+ img_maxh = 375
+ # cat=tx_gooffotoboek_pi1/th_im_param; type=text; label= Extra ImageMagick options for thumbnails.
+ th_im_param =  -quality 60 -compress JPEG 
+ # cat=tx_gooffotoboek_pi1/img_im_param; type=text; label= Extra ImageMagick options for images.
+ img_im_param =  -interlace Plane -quality 60 -compress JPEG 
+ # cat=tx_gooffotoboek_pi1/debug; type=boolean; label= Enable debug options.
+ debug =  0 
+}
+
+";s:5:"setup";s:722:"
+plugin.tx_gooffotoboek_pi1.webpath 		= {$plugin.tx_gooffotoboek_pi1.webpath}
+plugin.tx_gooffotoboek_pi1.path 		= {$plugin.tx_gooffotoboek_pi1.path}
+plugin.tx_gooffotoboek_pi1.thumb_maxw 	= {$plugin.tx_gooffotoboek_pi1.thumb_maxw}
+plugin.tx_gooffotoboek_pi1.thumb_maxh	= {$plugin.tx_gooffotoboek_pi1.thumb_maxh}
+plugin.tx_gooffotoboek_pi1.img_maxw 	= {$plugin.tx_gooffotoboek_pi1.img_maxw}
+plugin.tx_gooffotoboek_pi1.img_maxh		= {$plugin.tx_gooffotoboek_pi1.img_maxh}
+plugin.tx_gooffotoboek_pi1.th_im_param	= {$plugin.tx_gooffotoboek_pi1.th_im_param}
+plugin.tx_gooffotoboek_pi1.img_im_param	= {$plugin.tx_gooffotoboek_pi1.img_im_param}
+plugin.tx_gooffotoboek_pi1.debug		= {$plugin.tx_gooffotoboek_pi1.debug}
+
+
+";}}s:2:"cm";a:0:{}s:8:"TSconfig";a:1:{i:1;a:2:{s:13:"page_TSconfig";s:22:"#Default Page TSconfig";s:13:"user_TSconfig";s:22:"#Default User TSconfig";}}s:6:"module";a:0:{}s:9:"languages";a:1:{i:1;a:19:{s:2:"dk";s:1:"0";s:2:"de";s:1:"0";s:2:"no";s:1:"0";s:2:"it";s:1:"0";s:2:"fr";s:1:"0";s:2:"es";s:1:"0";s:2:"nl";s:1:"1";s:2:"cz";s:1:"0";s:2:"pl";s:1:"0";s:2:"si";s:1:"0";s:2:"fi";s:1:"0";s:2:"tr";s:1:"0";s:2:"se";s:1:"0";s:2:"pt";s:1:"0";s:2:"ru";s:1:"0";s:2:"ro";s:1:"0";s:2:"ch";s:1:"0";s:2:"sk";s:1:"0";s:2:"lt";s:1:"0";}}s:6:"fields";a:1:{i:1;a:3:{s:11:"which_table";s:10:"tt_content";s:5:"title";s:20:"Content (tt_content)";s:6:"fields";a:1:{i:1;a:21:{s:9:"fieldname";s:8:"function";s:5:"title";s:18:"Photobook function";s:8:"title_nl";s:16:"Fotoboek functie";s:4:"type";s:6:"select";s:12:"excludeField";s:1:"0";s:7:"_DELETE";s:1:"0";s:18:"conf_select_item_0";s:4:"Show";s:21:"conf_select_item_0_nl";s:4:"Toon";s:23:"conf_select_itemvalue_0";s:4:"show";s:18:"conf_select_item_1";s:5:"Admin";s:21:"conf_select_item_1_nl";s:6:"Beheer";s:23:"conf_select_itemvalue_1";s:5:"admin";s:18:"conf_select_item_2";s:7:"Comment";s:21:"conf_select_item_2_nl";s:11:"Commentaren";s:23:"conf_select_itemvalue_2";s:7:"comment";s:18:"conf_select_item_3";s:0:"";s:21:"conf_select_item_3_nl";s:0:"";s:23:"conf_select_itemvalue_3";s:1:"3";s:17:"conf_select_items";s:1:"4";s:17:"conf_select_icons";s:1:"0";s:15:"conf_select_pro";s:1:"0";}}}}}

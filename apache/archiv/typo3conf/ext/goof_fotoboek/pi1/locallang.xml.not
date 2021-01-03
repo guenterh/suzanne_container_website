@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<description></description>
+		<type></type>
+		<csh_table></csh_table>
+		<labelContext type="array">
+		</labelContext>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="next">Next</label>
+			<label index="prev">Previous</label>
+			<label index="index">Index</label>
+			<label index="up">Up</label>
+			<label index="nodir">Directory could not be openened.</label>
+			<label index="thumb">Thumbnails</label>
+			<label index="edit">Edit</label>
+			<label index="save">Save</label>
+			<label index="saveSelected">Save selected</label>
+			<label index="cancel">Cancel</label>
+			<label index="admin">Administration</label>
+			<label index="clearone">Clear files older than one day</label>
+			<label index="clearweek">Clear files older than a week</label>
+			<label index="clearall">Clear all cache files</label>
+			<label index="clearold">Clear cache files from older versions</label>
+			<label index="clickgone">Warning: clicking is clearing!</label>
+			<label index="deleted">deleted</label>
+			<label index="files">files</label>
+			<label index="startslide">Start slideshow</label>
+			<label index="stopslide">Stop slideshow</label>
+			<label index="default">Default</label>
+			<label index="title">Title</label>
+			<label index="comment">Comment</label>
+			<label index="basketDisabled">Basket function is disabled in the template.</label>
+			<label index="basket">Basket</label>
+			<label index="basketAdd">Add to basket</label>
+			<label index="basketEmpty">Empty basket</label>
+			<label index="removeSelected">Remove Selected</label>
+			<label index="removeItem">Remove Item</label>
+			<label index="basketGetZip">Get the Zipfile</label>
+			<label index="basketGenerateZip">Generate the Zipfile</label>
+			<label index="basketIsEmpty">There are no images in the basket</label>
+			<label index="basketCount">Items : </label>
+			<label index="basketZipGenerating">Generating Zip file</label>
+			<label index="basketClose">Close this popup</label>
+			<label index="added">Added</label>
+			<label index="pi1_title">Photobook</label>
+			<label index="pi1_plus_wiz_description">Insert a photobook using the goof_fotoboek extension</label>
+		</languageKey>
+	</data>
+	<orig_hash type="array">
+		<languageKey index="default" type="array">
+			<label index="next" type="integer">17482704</label>
+			<label index="prev" type="integer">231864181</label>
+			<label index="index" type="integer">143632159</label>
+			<label index="up" type="integer">39384216</label>
+			<label index="nodir" type="integer">69083520</label>
+			<label index="thumb" type="integer">181167841</label>
+			<label index="edit" type="integer">131916066</label>
+			<label index="save" type="integer">211601612</label>
+			<label index="saveSelected" type="integer">181339744</label>
+			<label index="cancel" type="integer">245659783</label>
+			<label index="admin" type="integer">119901810</label>
+			<label index="clearone" type="integer">242055835</label>
+			<label index="clearweek" type="integer">43856678</label>
+			<label index="clearall" type="integer">84177908</label>
+			<label index="clearold" type="integer">69254907</label>
+			<label index="clickgone" type="integer">148589390</label>
+			<label index="deleted" type="integer">228983536</label>
+			<label index="files" type="integer">73111091</label>
+			<label index="startslide" type="integer">77247711</label>
+			<label index="stopslide" type="integer">212413391</label>
+			<label index="default" type="integer">128029197</label>
+			<label index="title" type="integer">192455458</label>
+			<label index="comment" type="integer">12485638</label>
+			<label index="basketDisabled" type="integer">165266410</label>
+			<label index="basket" type="integer">253347845</label>
+			<label index="basketAdd" type="integer">194946731</label>
+			<label index="basketEmpty" type="integer">203859196</label>
+			<label index="removeSelected" type="integer">41793249</label>
+			<label index="removeItem" type="integer">127891206</label>
+			<label index="basketGetZip" type="integer">265210918</label>
+			<label index="basketGenerateZip" type="integer">23839506</label>
+			<label index="basketIsEmpty" type="integer">246315728</label>
+			<label index="basketCount" type="integer">31642224</label>
+			<label index="basketZipGenerating" type="integer">160454664</label>
+			<label index="basketClose" type="integer">201664438</label>
+			<label index="added" type="integer">254401983</label>
+		</languageKey>
+	</orig_hash>
+	<orig_text type="array">
+		<languageKey index="default" type="array">
+		</languageKey>
+	</orig_text>
+</T3locallang>

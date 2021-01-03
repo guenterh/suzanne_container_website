@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+    <meta type="array">
+        <description>Locallang file for use in Colorbox Javascript</description>
+        <authorName>Raphael Zschorsch</authorName>
+    </meta>
+    <data type="array">
+        <languageKey index="default" type="array">
+            <label index="image">Image </label>
+            <label index="of"> of </label>
+            <label index="slideshowstart">Start Slideshow</label>
+            <label index="slideshowstop">Stop Slideshow</label>
+            <label index="previous">previous</label>
+            <label index="next">next</label>
+            <label index="close">close</label>
+            <label index="pi2_title">ColorBox for Content</label>
+            <label index="pi2_plus_wiz_description">Inserts a plugin to show Content in a ColorBox</label>
+        </languageKey>
+        <languageKey index="de" type="array">
+            <label index="image">Bild </label>
+            <label index="of"> von </label>
+            <label index="slideshowstart">Slideshow starten</label>
+            <label index="slideshowstop">Slideshow anhalten</label>
+            <label index="previous">voriges</label>
+            <label index="next">nächstes</label>
+            <label index="close">schliessen</label>
+            <label index="pi2_title">ColorBox für Inhalt</label>
+            <label index="pi2_plus_wiz_description">Fügt ein Plugin hinzu, um Inhalt in einer ColorBox anzuzeigen</label>
+        </languageKey>
+        <languageKey index="fr" type="array">
+            <label index="image">Image </label>
+            <label index="of"> sur </label>
+            <label index="slideshowstart">Lancer le diaporama</label>
+            <label index="slideshowstop">Arrêter le diaporama</label>
+            <label index="previous">précédente</label>
+            <label index="next">suivante</label>
+            <label index="close">fermer</label>
+            <label index="pi2_title">Colorbox pour éléments de contenu</label>
+            <label index="pi2_plus_wiz_description">Affiche des éléments de contenu dans une lightbox utilisant ColorBox</label>
+        </languageKey>
+        <languageKey index="nl" type="array">
+            <label index="image">Afbeelding </label>
+            <label index="of"> van </label>
+            <label index="slideshowstart">Start Slideshow</label>
+            <label index="slideshowstop">Stop Slideshow</label>
+            <label index="previous">vorige</label>
+            <label index="next">volgende</label>
+            <label index="close">sluit</label>
+            <label index="pi2_title">ColorBox voor Content</label>
+            <label index="pi2_plus_wiz_description">Voegt een plugin toe om content te laten zien in een een Colorbox</label>
+        </languageKey>
+        <languageKey index="dk" type="array">
+            <label index="image">billede </label>
+            <label index="of"> af </label>
+            <label index="slideshowstart">Start slideshow</label>
+            <label index="slideshowstop">Stop slideshow</label>
+            <label index="previous">forrige</label>
+            <label index="next">næste</label>
+            <label index="close">luk</label>
+            <label index="pi2_title">ColorBox til indhold</label>
+            <label index="pi2_plus_wiz_description">Indsæt et plugin for at vise indhold i en ColorBox</label>
+        </languageKey>
+    </data>
+</T3locallang>

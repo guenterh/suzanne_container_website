@@ -1,0 +1,75 @@
+20040606 - 1.2.4
+- started with this changelog.
+- disable_dircomment option disables only the link but is functional enough I think.
+- reverse sort options for / (root), all other dirs and files.
+- added png to the 'supported' image files.
+- thumbnails split into pages and added thumb_rows.
+- included simple offline file comment utility for windows (very beta!) fbcomment.exe in the extra folder
+- clearing an commentfile will result in removing it (@unlink)
+- created _teaser.jpg option (probably needs a template part)
+
+20040607 - 1.4.0
+- had a bit of a fight with the repository, that's why the version jumps a bit
+- psd, ai and pdf support. all extentions in ['GFX']['imagefile_ext'] .
+- empty exif information has no wrap anymore.
+
+20040608 - 1.4.0
+- teaser now clickable
+- found a realy old url generation bug // in root images.
+- thumbnails  in directories with less than one page always start with the first.
+- the last thumbnail page is a full one if possible.
+
+20040612 - 1.4.0
+- path options in select plugin part.
+- help options.
+- removed plugin -> page part.
+- thumbpages changed (tnx Tilfried)
+- removed unused image magick options
+
+20040617 - 1.4.1
+- test for existence of t3lib_extMgm::addLLrefForTCAdescr for typo3 3.5 users
+- htmlspecialchars used for url, strange a complete string generator function still needs it.
+- removed the alt tag from the link around the picture
+- xhtml compliant /> in the preload tags and attributes in the template.
+- This Page Is Valid XHTML 1.0 Transitional! *yeah* show, thumb, comment and comment dir
+
+20040618 - 1.4.1
+- changed template to div's
+- added wrappings for comments and their titles
+
+20040630 - 1.4.1
+- got rid of the database "bug" (whitespace)
+- included a non table template
+
+20040704 - 1.5.1
+- url error in comment mode (double htmlspecialchars)
+
+20040730 - 1.5.1
+- first thumb was never shown.
+- disabled the experimental backend
+
+20040803 - 1.5.1
+- anchor option (Michael Vogel)
+- option to show filenames in thumbnailview
+
+20040912 - 1.6.1
+- slideshow
+- exif comment (start)
+- orientation in wrap (not working yet).
+
+20041025 - 1.6.1
+- exif comment multirow
+- filename in template for singleview
+- take comments put in the photo by XP (title and comments)
+- orientation working as square, landscape, portret and empty (except for pdf's and psd's)
+
+20050222 - 1.6.2
+- createurl('') did not work in PHP5, sending a dummy array now.
+
+20050308 - 1.6.4
+- watermark option with mask, bottom image and bottom image mask.
+- added languages
+
+20050315 - 1.6.5
+- fixed a bug in the urlcreation in comment mode.
+- fixed a typo in the ts_constants

@@ -1,0 +1,62 @@
+page.headerData.1441 = COA
+page.headerData.1441.if.isFalse = {$plugin.rzcolorbox.deactivate}
+                                    
+# # CSS File defined in Constants?      
+page.headerData.1441.1 = TEXT
+page.headerData.1441.1.value (
+
+<link type="text/css" media="screen" rel="stylesheet" href="typo3conf/ext/rzcolorbox/res/style5/css/colorbox.css" />
+)
+page.headerData.1441.1.if.isFalse = {$plugin.rzcolorbox.cssPath}
+
+page.headerData.1441.2 = TEXT
+page.headerData.1441.2.value (
+
+<link type="text/css" media="screen" rel="stylesheet" href="{$plugin.rzcolorbox.cssPath}" />
+)
+page.headerData.1441.2.if.isTrue = {$plugin.rzcolorbox.cssPath}
+
+[globalVar = LIT:1 = {$plugin.rzcolorbox.useWidth}]
+tt_content.image.20.1.imageLinkWrap.typolink.parameter.cObject.file.maxW = {$styles.content.imgtext.maxW}
+[global]
+
+# # If dam_ttnews is also loaded do not include the imageMarkerFunc
+[globalString = TYPO3_LOADED_EXT|tt_news|type=*] AND [globalString = TYPO3_LOADED_EXT|dam_ttnews|type=*]
+# # Do nothing
+[else]
+plugin.tt_news.imageMarkerFunc = tx_rzcolorbox_ttnews->ttnewsImageMarkerFunc
+[global]
+
+# # Enable Colorbox for tt_news
+temp.imageLinkWrap = 1
+temp.imageLinkWrap {
+                enable = 1  
+                typolink {
+                    title.field = imagetitletext
+                    title.htmlSpecialChars = 1
+                    title.split.token.char = 10
+                    title.split.returnKey.data = register : IMAGE_NUM_CURRENT
+                    parameter.data = TSFE:lastImageInfo|origFile
+                    ATagParams = class="{$plugin.rzcolorbox.rel}" rel="{$plugin.rzcolorbox.rel}"
+                    ATagParams.insertData = 1
+                }
+            }
+
+
+# # Enable tt_news Single view images
+[globalVar = LIT:1 = {$plugin.rzcolorbox.ttnewsSingle}]
+plugin.tt_news.displaySingle.image.imageLinkWrap >
+plugin.tt_news.displaySingle.image.imageLinkWrap < temp.imageLinkWrap
+[global]
+
+# # Enable tt_news List view images
+[globalVar = LIT:1 = {$plugin.rzcolorbox.ttnewsList}]
+plugin.tt_news.displayList.image.imageLinkWrap >
+plugin.tt_news.displayList.image.imageLinkWrap < temp.imageLinkWrap
+[global]
+
+# # Enable tt_news Latest view images
+[globalVar = LIT:1 = {$plugin.rzcolorbox.ttnewsLatest}]
+plugin.tt_news.displayLatest.image.imageLinkWrap >
+plugin.tt_news.displayLatest.image.imageLinkWrap < temp.imageLinkWrap
+[global]
